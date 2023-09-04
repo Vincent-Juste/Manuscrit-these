@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'these.blg'
+[41] biber:322> INFO - === jeu. juil. 27, 2023, 14:50:20
+[49] Biber.pm:415> INFO - Reading 'these.bcf'
+[91] Biber.pm:943> INFO - Found 92 citekeys in bib section 0
+[98] Biber.pm:4256> INFO - Processing section 0
+[99] Utils.pm:75> INFO - Globbing data source 'biblioPHD.bib'
+[99] Utils.pm:91> INFO - Globbed data source 'biblioPHD.bib' to biblioPHD.bib
+[105] Biber.pm:4455> INFO - Looking for bibtex format file 'biblioPHD.bib' for section 0
+[108] bibtex.pm:1653> INFO - LaTeX decoding ...
+[189] bibtex.pm:1471> INFO - Found BibTeX data source 'biblioPHD.bib'
+[545] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[545] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[545] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[545] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[577] bbl.pm:652> INFO - Writing 'these.bbl' with encoding 'UTF-8'
+[615] bbl.pm:755> INFO - Output to these.bbl

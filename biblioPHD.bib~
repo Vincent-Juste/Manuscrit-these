@@ -1,0 +1,1654 @@
+@PHDTHESIS{aubin2020,
+url = "http://www.theses.fr/2020CHAMA024",
+title = "Recherche à faible latence d'ondes gravitationnelles émises lors de coalescences de binaires compactes durant la troisième période d'observation de Advanced Virgo et Advanced LIGO",
+author = "Aubin, Florian",
+year = "2020",
+note = "Thèse de doctorat dirigée par Marion, Fréderique Physique Subatomique et Astroparticules Chambéry 2020",
+note = "2020CHAMA024",
+url = "http://www.theses.fr/2020CHAMA024/document",
+}
+
+
+
+@BOOK{extract_signal,
+     author = {{Wainstein}, L.~A. and {Zubakov}, V.~D.},
+     title = "{Extraction of Signals from Noise}",
+     year = 1970,
+     adsurl = {https://ui.adsabs.harvard.edu/abs/1970esn..book.....W},
+     adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@BOOK{signal_detection,
+     author = {Carl W. Helstrom},
+     title = "{Statistical Theory of Signal Detection}",
+     year = 1968,
+}
+
+
+
+
+@article{mbta_paper,
+   title={The {MBTA} pipeline for detecting compact binary coalescences in the third {LIGO–Virgo} observing run},
+   volume={38},
+   ISSN={1361-6382},
+   %url={http://dx.doi.org/10.1088/1361-6382/abe913},
+   DOI={10.1088/1361-6382/abe913},
+   number={9},
+   journal={Classical and Quantum Gravity},
+   publisher={IOP Publishing},
+   author={Aubin, F. and others},
+   year={2021},
+   month={04},
+   pages={095004}
+}
+
+
+
+
+@article{paper_embright,
+   title={Search for Gravitational Waves Associated with Gamma-Ray Bursts Detected by Fermi and Swift during the LIGO–Virgo Run O3a},
+   volume={915},
+   ISSN={1538-4357},
+   %url={http://dx.doi.org/10.3847/1538-4357/abee15},
+   DOI={10.3847/1538-4357/abee15},
+   number={2},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Abbott, R. and Abbott, T. D. and Abraham, S. and Acernese, F. and Ackley, K. and Adams, C. and Adhikari, R. X. and Adya, V. B. and Affeldt, C. and Agathos, M. and et al.},
+   year={2021},
+   month={07},
+   pages={86}
+}
+
+@misc{gwtc2.1,
+      title={GWTC-2.1: Deep Extended Catalog of Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run}, 
+      author={The LIGO Scientific Collaboration and the Virgo Collaboration},
+      year={2021},
+      eprint={2108.01045},
+      archivePrefix={arXiv},
+      primaryClass={gr-qc}
+}
+
+@misc{gwtc3,
+      title={GWTC-3: Compact Binary Coalescences Observed by LIGO and Virgo During the Second Part of the Third Observing Run}, 
+      author={The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+      year={2021},
+      eprint={2111.03606},
+      archivePrefix={arXiv},
+      primaryClass={gr-qc}
+}
+
+
+
+@article{gw150914,
+  title = {Observation of Gravitational Waves from a Binary Black Hole Merger},
+  author = {LIGO Scientific Collaboration and Virgo Collaboration},
+  journal = {Phys. Rev. Lett.},
+  volume = {116},
+  issue = {6},
+  pages = {061102},
+  numpages = {16},
+  year = {2016},
+  month = {02},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.116.061102},
+  %url = {https://link.aps.org/doi/10.1103/PhysRevLett.116.061102}
+}
+
+
+
+@article{gw170817,
+	doi = {10.1103/physrevlett.119.161101},
+	%url = {https://doi.org/10.1103\%2Fphysrevlett.119.161101},
+	year = 2017,
+	month = {10},
+	publisher = {American Physical Society ({APS})},
+	volume = {119},
+  	number = {16},
+  	author = {The LIGO Scientific Collaboration and the Virgo Collaboration},  
+	title = {{GW}170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral},
+  
+	journal = {Physical Review Letters}
+}
+
+
+
+@article{gw170817_multi,
+	doi = {10.3847/2041-8213/aa91c9},
+	%url = {https://doi.org/10.3847%2F2041-8213%2Faa91c9},
+	year = 2017,
+	month = {10},
+	publisher = {American Astronomical Society},
+	volume = {848},
+	number = {2},
+	pages = {L12},
+	author = {B. P. Abbott and others},  
+	title = {Multi-messenger Observations of a Binary Neutron Star Merger}, 
+	journal = {The Astrophysical Journal}
+}
+
+@article{gw170817_multi_2,
+        doi = {10.3847/2041-8213/aa920c},
+        %url = {https://dx.doi.org/10.3847/2041-8213/aa920c},
+        year = {2017},
+        month = {10},
+        publisher = {The American Astronomical Society},
+        volume = {848},
+        number = {2},
+        pages = {L13},
+        author = {B. P. Abbott and others},
+        title = {Gravitational Waves and Gamma-Rays from a Binary Neutron Star Merger: GW170817 and GRB 170817A},
+        journal = {The Astrophysical Journal Letters},
+}
+
+
+@article{SEOBNRv4PHM,
+        doi = {10.1103/physrevd.102.044055},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.102.044055},
+  	year = 2020,
+	month = {08},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {102},
+  	number = {4},
+  	author = {Serguei Ossokine and Alessandra Buonanno and Sylvain Marsat and Roberto Cotesta and Stanislav Babak and Tim Dietrich and Roland Haas and Ian Hinder and Harald P. Pfeiffer and Michael Pürrer and Charles J. Woodford and Michael Boyle and Lawrence E. Kidder and Mark A. Scheel and B{\'{e}
+}la Szil{\'{a}}gyi},
+  	title = {Multipolar effective-one-body waveforms for precessing binary black holes: Construction and validation},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@article{IMRPhenomPv2_NRTidalv2,
+	doi = {10.1103/physrevd.100.044003},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.100.044003},
+  	year = 2019,
+	month = {08},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {100},
+  	number = {4},
+  	author = {Tim Dietrich and Anuradha Samajdar and Sebastian Khan and Nathan K. Johnson-McDaniel and Reetika Dudi and Wolfgang Tichy},
+  	title = {Improving the {NRTidal} model for binary neutron star systems},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@article{EOB,
+       author = {{Damour}, Thibault and {Nagar}, Alessandro},
+        title = "{The Effective-One-Body Approach to the General Relativistic Two Body Problem}",
+     keywords = {Physics},
+    booktitle = {Lecture Notes in Physics, Berlin Springer Verlag},
+         year = 2016,
+       editor = {{Haardt}, Francesco and {Gorini}, Vittorio and {Moschella}, Ugo and {Treves}, Aldo and {Colpi}, Monica},
+       volume = {905},
+        pages = {273},
+          doi = {10.1007/978-3-319-19416-5_7},
+       %adsurl = {https://ui.adsabs.harvard.edu/abs/2016LNP...905..273D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@article{NR,
+	doi = {10.1088/0264-9381/18/17/202},
+  	%url = {https://doi.org/10.1088\%2F0264-9381\%2F18\%2F17\%2F202},
+  	year = 2001,
+	month = {08},
+  	publisher = {{IOP} Publishing},
+  	volume = {18},
+  	number = {17},
+  	pages = {R25--R86},
+  	author = {Luis Lehner},
+  	title = {Numerical relativity: a review},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+@article{BH_perturbation,
+	doi = {10.12942/lrr-2003-6},
+  	%url = {https://doi.org/10.12942\%2Flrr-2003-6},
+  	year = 2003,
+	month = {11},
+  	publisher = {Springer Science and Business Media {LLC}},
+  	volume = {6},
+  	number = {1},
+  	author = {Misao Sasaki and Hideyuki Tagoshi},
+  	title = {Analytic Black Hole Perturbation Approach to Gravitational Radiation},
+  	journal = {Living Reviews in Relativity}
+}
+
+
+
+@Article{FFTW3,
+  author = 	 {Frigo, Matteo and Johnson, Steven~G.},
+  title = 	 {The Design and Implementation of {FFTW3}},
+  journal = 	 {Proceedings of the IEEE},
+  year = 	 2005,
+  volume =	 93,
+  number =	 2,
+  pages =	 {216--231},
+  note =	 {Special issue on ``Program Generation, Optimization, and Platform Adaptation''}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{polarization,
+	doi = {10.1103/physrevlett.120.201102},
+	%url = {https://doi.org/10.1103\%2Fphysrevlett.120.201102},
+	year = 2018,
+	month = {05},
+	publisher = {American Physical Society ({APS})},  
+	volume = {120},
+	number = {20},
+	author = {The LIGO Scientific Collaboration and the Virgo Collaboration},
+	title = {Search for Tensor, Vector, and Scalar Polarizations in the Stochastic Gravitational-Wave Background}, 
+	journal = {Physical Review Letters}
+}
+
+
+@article{polarization_novak,
+        doi = {10.1142/10082},
+        author = {Le Tiec, Alexandre and Novak, Jerome},
+        year = {2016},
+        month = {07},
+        pages = {},
+        title = {Theory of Gravitational Waves},
+        journal = {An Overview of Gravitational Waves: Theory, Sources and Detection}
+}
+
+@article{other_polarization,
+	doi = {10.12942/lrr-2014-7},
+  	%url = {https://doi.org/10.12942\%2Flrr-2014-7},
+  	year = 2014,
+	month = {08},
+  	publisher = {Springer Science and Business Media {LLC}},
+  	volume = {17},
+  	number = {1},
+  	author = {Claudia de Rham},
+  	title = {Massive Gravity},
+  	journal = {Living Reviews in Relativity}
+}
+
+
+
+
+@article{other_polarization_cbc,
+	doi = {10.1103/physrevd.100.042001},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.100.042001},
+  	year = 2019,
+	month = {08},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {100},
+  	number = {4},
+  	author = {Hiroki Takeda and Atsushi Nishizawa and Koji Nagano and Yuta Michimura and Kentaro Komori and Masaki Ando and Kazuhiro Hayama},
+  	title = {Prospects for gravitational-wave polarization tests from compact binary mergers with future ground-based detectors},
+  	journal = {Physical Review D}
+}
+
+
+@article{other_polarization_cw,
+	doi = {10.1103/physrevlett.120.031104},
+  	%url = {https://doi.org/10.1103\%2Fphysrevlett.120.031104},
+  	year = 2018,
+	month = {01},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {120},
+  	number = {3},
+  	author = {The LIGO Scientific Collaboration and the Virgo Collaboration},
+  	title = {First Search for Nontensorial Gravitational Waves from Known Pulsars},
+  	journal = {Physical Review Letters}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@article{Will_1998,
+	doi = {10.1103/physrevd.57.2061},
+	%url = {https://doi.org/10.1103\%2Fphysrevd.57.2061},
+	year = 1998,
+	month = {02},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {57},
+  	number = {4},
+  	pages = {2061--2068},
+  	author = {Clifford M. Will},
+  	title = {Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries},
+  	journal = {Physical Review D}
+}
+
+
+@article{Will_2014,
+	doi = {10.12942/lrr-2014-4},
+  	%url = {https://doi.org/10.12942\%2Flrr-2014-4},
+  	year = 2014,
+	month = {06},
+  	publisher = {Springer Science and Business Media {LLC}},
+  	volume = {17},
+  	number = {1},
+  	author = {Clifford M. Will},
+  	title = {The Confrontation between General Relativity and Experiment},
+  	journal = {Living Reviews in Relativity}
+}
+
+
+
+
+
+
+@misc{testingGR,
+      title={Tests of General Relativity with GWTC-3}, 
+      author={The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+      year={2021},
+      eprint={2112.06861},
+      archivePrefix={arXiv},
+      primaryClass={gr-qc}
+}
+
+
+@article{H0_gw170817,
+	doi = {10.1038/nature24471},
+  	%url = {https://doi.org/10.1038\%2Fnature24471},
+  	year = 2017,
+	month = {10},
+  	publisher = {Springer Science and Business Media {LLC}
+},
+  	volume = {551},
+  	number = {7678},
+  	pages = {85--88},
+  	author = {B. P. Abbott and others},
+  	title = {A gravitational-wave standard siren measurement of the Hubble constant},
+  	journal = {Nature}
+}
+
+
+
+@article{H0_LVK,
+	doi = {10.3847/1538-4357/abdcb7},
+  	%url = {https://doi.org/10.3847\%2F1538-4357\%2Fabdcb7},
+	year = 2021,
+	month = {03},
+  	publisher = {American Astronomical Society},
+  	volume = {909},
+  	number = {2},
+  	pages = {218},
+  	author = {The LIGO Scientific Collaboration and the Virgo Collaboration},
+  	title = {A Gravitational-wave Measurement of the Hubble Constant Following the Second Observing Run of Advanced {LIGO} and Virgo},
+  	journal = {The Astrophysical Journal}
+}
+
+
+
+@article{H0_1,
+	doi = {10.1088/1361-6382/ac086d},
+  	%url = {https://doi.org/10.1088\%2F1361-6382\%2Fac086d},
+  	year = 2021,
+	month = {07},
+  	publisher = {{IOP} Publishing},
+  	volume = {38},
+  	number = {15},
+  	pages = {153001},
+  	author = {Eleonora Di Valentino and Olga Mena and Supriya Pan and Luca Visinelli and Weiqiang Yang and Alessandro Melchiorri and David F Mota and Adam G Riess and Joseph Silk},
+  	title = {In the realm of the Hubble tension{\textemdash}a review of solutions},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+@article{shoes,
+	doi = {10.3847/2041-8213/abdbaf},
+  	%url = {https://doi.org/10.3847\%2F2041-8213\%2Fabdbaf},
+  	year = 2021,
+	month = {02},
+  	publisher = {American Astronomical Society},
+  	volume = {908},
+  	number = {1},
+  	pages = {L6},
+  	author = {Adam G. Riess and Stefano Casertano and Wenlong Yuan and J. Bradley Bowers and Lucas Macri and Joel C. Zinn and Dan Scolnic},
+  	title = {Cosmic Distances Calibrated to 1{\%} Precision with Gaia {EDR}3 Parallaxes and Hubble Space Telescope Photometry of 75 Milky Way Cepheids Confirm Tension with LambdaCDM
+},
+  	journal = {The Astrophysical Journal Letters}
+}
+
+
+@article{Planck_2018,
+	doi = {10.1051/0004-6361/201833910},
+  	%url = {https://doi.org/10.1051\%2F0004-6361\%2F201833910},
+  	year = 2020,
+	month = {09},
+  	publisher = {{EDP} Sciences},
+  	volume = {641},
+  	pages = {A6},
+  	author = {Planck Collaboration},
+  	title = {Planck 2018 results. VI. Cosmological parameters},
+  	journal = {Astronomy {\&} Astrophysics}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@article{EOS_Lattimer_2001,
+        doi = {10.1086/319702},
+        %url = {https://dx.doi.org/10.1086/319702},
+        year = {2001},
+        month = {03},
+        publisher = {},
+        volume = {550},
+        number = {1},
+        pages = {426},
+        author = {J. M. Lattimer and M. Prakash},
+        title = {Neutron Star Structure and the Equation of State},
+        journal = {The Astrophysical Journal}
+}
+
+
+
+@article{EOS_Douchin_2001,
+	doi = {10.1051/0004-6361:20011402},
+  	%url = {https://doi.org/10.1051\%2F0004-6361\%3A20011402},
+  	year = 2001,
+	month = {12},
+  	publisher = {{EDP} Sciences},
+  	volume = {380},
+  	number = {1},
+  	pages = {151--167},
+  	author = {F. Douchin and P. Haensel},
+  	title = {A unified equation of state of dense matter and neutron star structure},
+  	journal = {Astronomy \& Astrophysics}
+}
+
+
+
+@article{EOS_Lattimer_2021,
+        author = {Lattimer, J.M.},
+        title = {Neutron Stars and the Nuclear Matter Equation of State},
+        journal = {Annual Review of Nuclear and Particle Science},
+        volume = {71},
+        number = {1},
+        pages = {433-464},
+        year = {2021},
+        doi = {10.1146/annurev-nucl-102419-124827},
+        %url = {https://doi.org/10.1146/annurev-nucl-102419-124827},
+        eprint = {https://doi.org/10.1146/annurev-nucl-102419-124827}
+}
+
+
+
+@article{EOS_pulsar,
+	doi = {10.1103/physrevc.91.015804},
+  	%url = {https://doi.org/10.1103\%2Fphysrevc.91.015804},
+  	year = 2015,
+	month = {01},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {91},
+  	number = {1},
+  	author = {A. W. Steiner and S. Gandolfi and F. J. Fattoyev and W. G. Newton},
+  	title = {Using neutron star observations to determine crust thicknesses, moments of inertia, and tidal deformabilities},
+  	journal = {Physical Review C}
+}
+
+
+
+@article{EOS_gw170817,
+	doi = {10.1103/physrevlett.121.161101},
+  	%url = {https://doi.org/10.1103\%2Fphysrevlett.121.161101},
+  	year = 2018,
+	month = {10},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {121},
+  	number = {16},
+  	author = {The LIGO Scientific Collaboration and the Virgo Collaboration},
+  	title = {{GW}170817: Measurements of Neutron Star Radii and Equation of State},
+  	journal = {Physical Review Letters}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@misc{rate_and_pop,
+      title={The population of merging compact binaries inferred using gravitational waves through GWTC-3}, 
+      author={The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+      year={2022},
+      eprint={2111.03634},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@article{blazar_neutrino,
+	doi = {10.1126/science.aat1378},
+  	%url = {https://doi.org/10.1126\%2Fscience.aat1378},
+  	year = 2018,
+	month = {07},
+  	publisher = {American Association for the Advancement of Science ({AAAS})},
+  	volume = {361},
+  	number = {6398},
+  	author = {The IceCube Collaboration and Fermi-LAT and MAGIC and AGILE and ASAS-SN and HAWC and H.E.S.S and INTEGRAL and Kanata and Kiso and Kapteyn and Liverpool telescope and Subaru and Swift/NuSTAR and VERITAS and VLA/17B-403 teams},
+  	title = {Multimessenger observations of a flaring blazar coincident with high-energy neutrino {IceCube}-170922A},
+  	journal = {Science}
+}
+
+
+
+@article{agn_neutrino,
+	doi = {10.1126/science.abg3395},
+  	%url = {https://doi.org/10.1126\%2Fscience.abg3395},
+  	year = 2022,
+	month = {11},
+  	publisher = {American Association for the Advancement of Science ({AAAS})},
+  	volume = {378},
+  	number = {6619},
+  	pages = {538--543},
+  	author = {IceCube Collaboration},
+  	title = {Evidence for neutrino emission from the nearby active galaxy {NGC} 1068},
+  	journal = {Science}
+}
+
+
+
+
+@article{multimessenger,
+	doi = {10.1038/s42254-019-0101-z},
+  	%url = {https://doi.org/10.1038\%2Fs42254-019-0101-z},
+  	year = 2019,
+	month = {10},
+  	publisher = {Springer Science and Business Media {LLC}},
+  	volume = {1},
+  	number = {10},
+  	pages = {585--599},
+  	author = {P{\'{e}}ter M{\'{e}}sz{\'{a}}ros and Derek B. Fox and Chad Hanna and Kohta Murase},
+  	title = {Multi-messenger astrophysics},
+  	journal = {Nature Reviews Physics}
+}
+
+
+
+@article{hen_gw_antares,
+        doi = {10.1088/1475-7516/2023/04/004},
+        %url = {https://dx.doi.org/10.1088/1475-7516/2023/04/004},
+        year = {2023},
+        month = {04},
+        publisher = {IOP Publishing},
+        volume = {2023},
+        number = {04},
+        pages = {004},
+        author = {The ANTARES collaboration},
+        title = {Search for neutrino counterparts to the gravitational wave sources from LIGO/Virgo O3 run with the ANTARES detector},
+        journal = {Journal of Cosmology and Astroparticle Physics},
+}
+
+
+
+
+@misc{hen_gw_icecube,
+      title={A Search for IceCube sub-TeV Neutrinos Correlated with Gravitational-Wave Events Detected By LIGO/Virgo}, 
+      author={IceCube Collaboration},
+      year={2023},
+      eprint={2303.15970},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+@article{ssm_O3a,
+	doi = {10.1103/physrevlett.129.061104},
+  	%url = {https://doi.org/10.1103\%2Fphysrevlett.129.061104},
+  	year = 2022,
+	month = {08},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {129},
+  	number = {6},
+  	author = {The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+  	title = {Search for Subsolar-Mass Binaries in the First Half of Advanced {LIGO}'s and Advanced Virgo's Third Observing Run},
+  	journal = {Physical Review Letters}
+}
+
+
+@article{ssm_O3b,
+      title={Search for subsolar-mass black hole binaries in the second part of Advanced LIGO's and Advanced Virgo's third observing run}, 
+      author={The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+      year={2022},
+      eprint={2212.01477},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE}
+}
+
+
+@ARTICLE{primordial_bh,
+       author = {{Carr}, B.~J.},
+        title = "{The primordial black hole mass spectrum.}",
+      journal = {apj},
+     keywords = {Astronomical Models, Black Holes (Astronomy), Cosmology, Mass Spectra, Density (Mass/Volume), Galactic Clusters, Perturbation Theory, Universe, Astrophysics},
+         year = 1975,
+        month = 10,
+       volume = {201},
+        pages = {1-19},
+          doi = {10.1086/153853},
+       %adsurl = {https://ui.adsabs.harvard.edu/abs/1975ApJ...201....1C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@article{dm1,
+	doi = {10.1093/mnras/stx2419},
+  	%url = {https://doi.org/10.1093\%2Fmnras\%2Fstx2419},
+  	year = 2017,
+	month = {09},
+  	publisher = {Oxford University Press ({OUP})},
+  	volume = {473},
+  	number = {1},
+  	pages = {328--335},
+  	author = {Guido D'Amico and Paolo Panci and Alessandro Lupi and Stefano Bovino and Joe Silk},
+  	title = {Massive black holes from dissipative dark matter},
+  	journal = {Monthly Notices of the Royal Astronomical Society}
+}
+
+
+
+@article{dm2,
+	doi = {10.1103/physrevlett.120.241102},
+  	%url = {https://doi.org/10.1103\%2Fphysrevlett.120.241102},
+  	year = 2018,
+	month = {06},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {120},
+  	number = {24},
+  	author = {Sarah Shandera and Donghui Jeong and Henry S. Grasshorn Gebhardt},
+  	title = {Gravitational Waves from Binary Mergers of Subsolar Mass Dark Black Holes},
+  	journal = {Physical Review Letters}
+}
+
+
+
+
+@article{dm3,
+	doi = {10.1088/1475-7516/2019/07/036},
+  	%url = {https://doi.org/10.1088\%2F1475-7516\%2F2019\%2F07\%2F036},
+  	year = 2019,
+	month = {07},
+  	publisher = {{IOP} Publishing},
+  	volume = {2019},
+  	number = {07},
+  	pages = {036--036},
+  	author = {Jeremie Choquette and James M. Cline and Jonathan M. Cornell},
+  	title = {Early formation of supermassive black holes via dark matter self-interactions},
+  	journal = {Journal of Cosmology and Astroparticle Physics}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@article{ECO1,
+	doi = {10.1103/physrevd.94.084031},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.94.084031},
+  	year = 2016,
+	month = {10},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {94},
+  	number = {8},
+  	author = {Vitor Cardoso and Seth Hopper and Caio F. B. Macedo and Carlos Palenzuela and Paolo Pani},
+  	title = {Gravitational-wave signatures of exotic compact objects and of quantum corrections at the horizon scale},
+  	journal = {Physical Review D}
+}
+
+
+
+@article{ECO2,
+	doi = {10.1103/physrevd.103.064042},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.103.064042},
+  	year = 2021,
+	month = {03},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {103},
+  	number = {6},
+  	author = {Alexandre Toubiana and Stanislav Babak and Enrico Barausse and Luis Lehner},
+  	title = {Modeling gravitational waves from exotic compact objects},
+  	journal = {Physical Review D}
+}
+
+
+@article{gravastar1,
+	doi = {10.3390/universe9020088},
+  	%url = {https://doi.org/10.3390\%2Funiverse9020088},
+  	year = 2023,
+	month = {02},  
+	publisher = {{MDPI} {AG}},
+  	volume = {9},
+  	number = {2},
+  	pages = {88},
+  	author = {Pawel O. Mazur and Emil Mottola},
+  	title = {Gravitational Condensate Stars: An Alternative to Black Holes},
+  	journal = {Universe}
+}
+
+
+
+@article{gravastar2,
+	doi = {10.1088/0264-9381/21/4/027},
+  	%url = {https://doi.org/10.1088\%2F0264-9381\%2F21\%2F4\%2F027},
+  	year = 2004,
+	month = {01},
+  	publisher = {{IOP} Publishing},
+  	volume = {21},
+  	number = {4},
+  	pages = {1135--1151},
+  	author = {Matt Visser and David L Wiltshire},
+  	title = {Stable gravastars{\textemdash}an alternative to black holes?},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+@article{wormhole1,
+	doi = {10.1103/physrevd.97.124004},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.97.124004},
+  	year = 2018,
+	month = {06},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {97},
+  	number = {12},
+  	author = {S. Aneesh and Sukanta Bose and Sayan Kar},
+  	title = {Gravitational waves from quasinormal modes of a class of Lorentzian wormholes},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@book{wormhole2,
+  	year = 1996,
+	month = {08},
+  	publisher = {American Institute of Physics},
+  	author = {Matt Visser},
+  	title = {Lorentzian wormholes},
+}
+
+
+
+
+@article{boson_star,
+	doi = {10.1007/s41114-017-0007-y},
+  	%url = {https://doi.org/10.1007\%2Fs41114-017-0007-y},
+  	year = 2017,
+	month = {11},
+  	publisher = {Springer Science and Business Media {LLC}},
+  	volume = {20},
+  	number = {1},
+  	author = {Steven L. Liebling and Carlos Palenzuela},
+  	title = {Dynamical boson stars},
+  	journal = {Living Reviews in Relativity}
+}
+
+
+
+
+@article{fuzzball,
+        title = {The fuzzball proposal for black holes},
+        journal = {Physics Reports},
+        volume = {467},
+        number = {4},
+        pages = {117-171},
+        year = {2008},
+        issn = {0370-1573},
+        doi = {https://doi.org/10.1016/j.physrep.2008.08.001},
+        %url = {https://www.sciencedirect.com/science/article/pii/S0370157308002688},
+        author = {Kostas Skenderis and Marika Taylor},
+}
+
+
+
+@article{firewall,
+	doi = {10.1007/jhep02(2013)062},
+  	%url = {https://doi.org/10.1007\%2Fjhep02\%282013\%29062},
+  	year = 2013,
+	month = {02},
+  	publisher = {Springer Science and Business Media {LLC}},
+  	volume = {2013},
+  	number = {2},
+  	author = {Ahmed Almheiri and Donald Marolf and Joseph Polchinski and James Sully},
+  	title = {Black holes: complementarity or firewalls?},
+  	journal = {Journal of High Energy Physics}
+}
+
+
+
+@article{horizonless_bh,
+	doi = {10.1103/physrevd.95.084034},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.95.084034},
+  	year = 2017,
+	month = {04},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {95},
+  	number = {8},
+  	author = {Bob Holdom and Jing Ren},
+  	title = {Not quite a black hole},
+  	journal = {Physical Review D}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{luminosity_distance,
+	doi = {10.1007/s10714-020-02760-5},
+  	%url = {https://doi.org/10.1007\%2Fs10714-020-02760-5},
+  	year = 2020,
+	month = {11},
+  	publisher = {Springer Science and Business Media {LLC}},
+  	volume = {52},
+  	number = {11},
+  	author = {G. Fanizza and G. Franchini and M. Gasperini and L. Tedesco},
+  	title = {Comparing the luminosity distance for gravitational waves and electromagnetic signals in a simple model of quadratic gravity},
+  	journal = {General Relativity and Gravitation}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@article{LVK_lensing,
+      title={Search for gravitational-lensing signatures in the full third observing run of the LIGO-Virgo network}, 
+      author={The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+      year={2023},
+      eprint={2304.08393},
+      archivePrefix={arXiv},
+      primaryClass={gr-qc}
+}
+
+
+
+@article{lensing_beating,
+	doi = {10.1088/1475-7516/2022/07/022},
+  	%url = {https://doi.org/10.1088\%2F1475-7516\%2F2022\%2F07\%2F022},
+  	year = 2022,
+	month = {07},
+  	publisher = {{IOP} Publishing},
+  	volume = {2022},
+  	number = {07},
+  	pages = {022},
+  	author = {Oleg Bulashenko and Helena Ubach},
+  	title = {Lensing of gravitational waves: universal signatures in the beating pattern},
+  	journal = {Journal of Cosmology and Astroparticle Physics}
+}
+
+
+
+@article{LVK_burst,
+	doi = {10.1103/physrevd.104.122004},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.104.122004},
+  	year = 2021,
+	month = {12},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {104},
+  	number = {12},
+  	author = {The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+  	title = {All-sky search for short gravitational-wave bursts in the third Advanced {LIGO} and Advanced Virgo run},
+  	journal = {Physical Review D}
+}
+
+
+
+@article{LVK_cw,
+	doi = {10.1103/physrevd.106.102008},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.106.102008},
+  	year = 2022,
+	month = {11},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {106},
+  	number = {10},
+  	author = {The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+  	title = {All-sky search for continuous gravitational waves from isolated neutron stars using Advanced {LIGO} and Advanced Virgo O3 data},
+  	journal = {Physical Review D}
+}
+
+
+
+@article{LVK_stochastic_aniso,
+	doi = {10.1103/physrevd.104.022005},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.104.022005},
+  	year = 2021,
+	month = {07},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {104},
+  	number = {2},
+  	author = {The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+  	title = {Search for anisotropic gravitational-wave backgrounds using data from Advanced {LIGO} and Advanced Virgo's first three observing runs},
+  	journal = {Physical Review D}
+}
+
+
+
+@article{LVK_stochastic_iso,
+	doi = {10.1103/physrevd.100.061101},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.100.061101},
+  	year = 2019,
+	month = {09},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {100},
+  	number = {6},
+  	author = {},
+  	title = {Search for the isotropic stochastic background using data from Advanced {LIGO}'s second observing run},
+  	journal = {Physical Review D}
+}
+
+
+
+@article{stochastic,
+	doi = {10.1088/1361-6633/aae6b5},
+  	%url = {https://doi.org/10.1088\%2F1361-6633\%2Faae6b5},
+  	year = 2018,
+	month = {11},
+  	publisher = {{IOP} Publishing},
+  	volume = {82},
+  	number = {1},
+  	pages = {016903},
+  	author = {Nelson Christensen},
+  	title = {Stochastic gravitational wave backgrounds},
+  	journal = {Reports on Progress in Physics}
+}
+
+
+@article{cmb,
+	doi = {10.1086/317322},
+  	%url = {https://doi.org/10.1086\%2F317322},
+  	year = 2000,
+	month = {12},
+  	publisher = {American Astronomical Society},
+  	volume = {545},
+  	number = {1},
+  	pages = {L5--L9},
+  	author = {S. Hanany and P. Ade and A. Balbi and J. Bock and J. Borrill and A. Boscaleri and P. de Bernardis and P. G. Ferreira and V. V. Hristov and A. H. Jaffe and A. E. Lange and A. T. Lee and P. D. Mauskopf and C. B. Netterfield and S. Oh and E. Pascale and B. Rabii and P. L. Richards and G. F. Smoot and R. Stompor and C. D. Winant and J. H. P. Wu},
+  	title = {{MAXIMA}-1: A Measurement of the Cosmic Microwave Background Anisotropy on Angular Scales of 10 arcminutes to 5 degrees},
+  	journal = {The Astrophysical Journal}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+@article{bright_remnant,
+	doi = {10.1017/s0022377820001646},
+  	%url = {https://doi.org/10.1017\%2Fs0022377820001646},
+  	year = 2021,
+	month = {02},
+  	publisher = {Cambridge University Press ({CUP})},
+  	volume = {87},
+  	number = {1},
+  	author = {Stefano Ascenzi and Gor Oganesyan and Marica Branchesi and Riccardo Ciolfi},
+  	title = {Electromagnetic counterparts of compact binary mergers},
+  	journal = {Journal of Plasma Physics}
+}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+@article{Babak_2006,
+	doi = {10.1088/0264-9381/23/18/002},
+  	%url = {https://doi.org/10.1088\%2F0264-9381\%2F23\%2F18\%2F002},
+  	year = 2006,
+	month = {08},
+  	publisher = {{IOP} Publishing},
+  	volume = {23},
+  	number = {18},
+  	pages = {5477--5504},
+  	author = {S Babak and R Balasubramanian and D Churches and T Cokelaer and B S Sathyaprakash},
+  	title = {A template bank to search for gravitational waves from inspiralling compact binaries: I. Physical models},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+
+@article{geometric_bank,
+	doi = {10.1103/physrevd.76.102004},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.76.102004},
+  	year = 2007,
+	month = {11},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {76},
+  	number = {10},
+  	author = {T. Cokelaer},
+  	title = {Gravitational waves from inspiralling compact binaries: Hexagonal template placement and its efficiency in detecting physical signals},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@article{stochastic_bank,
+	doi = {10.1103/physrevd.80.104014},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.80.104014},
+  	year = 2009,
+	month = {11},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {80},
+  	number = {10},
+  	author = {I. W. Harry and B. Allen and B. S. Sathyaprakash},
+  	title = {Stochastic template placement algorithm for gravitational wave data analysis},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@article{hybrid1,
+	doi = {10.1103/physrevd.95.104045},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.95.104045},
+  	year = 2017,
+	month = {05},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {95},
+  	number = {10},
+  	author = {Soumen Roy and Anand S. Sengupta and Nilay Thakor},
+  	title = {Hybrid geometric-random template-placement algorithm for gravitational wave searches from compact binary coalescences},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@article{hybrid2,
+	doi = {10.1103/physrevd.99.024048},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.99.024048},
+  	year = 2019,
+	month = {01},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {99},
+  	number = {2},
+  	author = {Soumen Roy and Anand S. Sengupta and Parameswaran Ajith},
+  	title = {Effectual template banks for upcoming compact binary searches in Advanced-{LIGO} and Virgo data},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@misc{banksim,
+     url = {https://pycbc.org/pycbc/latest/html/banksim.html},
+     author = {PyCBC team},
+     title = {Calculating the Effectualness (Fitting Factor) of Template Banks}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+@article{pastro,
+	doi = {10.1088/1361-6382/ac482a},
+  	%url = {https://doi.org/10.1088\%2F1361-6382\%2Fac482a},
+  	year = 2022,
+	month = {02},
+  	publisher = {{IOP} Publishing},
+  	volume = {39},
+  	number = {5},
+  	pages = {055002},
+  	author = {N Andres and M Assiduo and F Aubin and R Chierici and D Estevez and F Faedi and G M Guidi and V Juste and F Marion and B Mours and E Nitoglia and V Sordini},
+  	title = {Assessing the compact-binary merger candidates reported by the {MBTA} pipeline in the {LIGO}{\textendash}Virgo O3 run: probability of astrophysical origin, classification, and associated uncertainties},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+
+@article{remnant,
+	doi = {10.1103/physrevd.98.081501},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.98.081501},
+  	year = 2018,
+	month = {10},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {98},
+  	number = {8},
+  	author = {Francois Foucart and Tanja Hinderer and Samaya Nissanke},
+  	title = {Remnant baryon mass in neutron star-black hole mergers: Predictions for binary neutron star mimickers and rapidly spinning black holes},
+  	journal = {Physical Review D}
+}
+
+
+
+@article{binding_energy,
+    author = {Breu, Cosima and Rezzolla, Luciano},
+    title = "{Maximum mass, moment of inertia and compactness of relativistic stars}",
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    volume = {459},
+    number = {1},
+    pages = {646-656},
+    year = {2016},
+    month = {03},
+    issn = {0035-8711},
+    doi = {10.1093/mnras/stw575},
+    %url = {https://doi.org/10.1093/mnras/stw575},
+    eprint = {https://academic.oup.com/mnras/article-pdf/459/1/646/8113938/stw575.pdf},
+}
+
+
+
+@article{Legred_2021,
+	doi = {10.1103/physrevd.104.063003},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.104.063003},
+  	year = 2021,
+	month = {09},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {104},
+  	number = {6},
+  	author = {Isaac Legred and Katerina Chatziioannou and Reed Essick and Sophia Han and Philippe Landry},
+  	title = {Impact of the PSR J0740+6620 radius constraint on the properties of high-density matter},
+  	journal = {Physical Review D}
+}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+@article{ligo_characterization,
+	doi = {10.1088/1361-6382/abfd85},
+	%url = {https://doi.org/10.1088\%2F1361-6382\%2Fabfd85},
+  	year = 2021,
+	month = {06},
+  	publisher = {{IOP} Publishing},
+  	volume = {38},
+  	number = {13},
+  	pages = {135014},
+  	author = {D Davis and others},
+  	title = {{LIGO} detector characterization in the second and third observing runs},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+
+
+@article{prospects,
+	doi = {10.1007/s41114-020-00026-9},
+  	%url = {https://doi.org/10.1007\%2Fs41114-020-00026-9},
+  	year = 2020,
+	month = {09},
+  	publisher = {Springer Science and Business Media {LLC}},
+  	volume = {23},
+  	number = {1},
+  	author = {The LIGO Scientific Collaboration and the Virgo Collaboration and the KAGRA Collaboration},
+  	title = {Prospects for observing and localizing gravitational-wave transients with Advanced {LIGO}, Advanced Virgo and {KAGRA}},
+        journal = {Living Reviews in Relativity}
+}
+
+
+
+@article{ligo_sensitivity,
+	doi = {10.1103/physrevd.102.062003},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.102.062003},
+  	year = 2020,
+	month = {09},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {102},
+  	number = {6},  
+	author = {A. Buikema and others},
+  	title = {Sensitivity and performance of the Advanced {LIGO} detectors in the third observing run},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@misc{virgo_characterization,
+      title={Virgo Detector Characterization and Data Quality during the O3 run}, 
+      author={F. Acernese and others},
+      year={2022},
+      eprint={2205.01555},
+      archivePrefix={arXiv},
+      primaryClass={gr-qc}
+}
+
+
+
+
+
+@article{pcal,
+	doi = {10.1088/1361-6382/abe2db},
+  	%url = {https://doi.org/10.1088\%2F1361-6382\%2Fabe2db},
+  	year = 2021,
+	month = {02},
+  	publisher = {{IOP} Publishing},
+  	volume = {38},
+  	number = {7},
+  	pages = {075007},
+  	author = {D Estevez and P Lagabbe and A Masserot and L Rolland and M Seglar-Arroyo and D Verkindt},
+  	title = {The Advanced Virgo photon calibrators},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+
+@article{ncal1,
+	doi = {10.1088/1361-6382/aae95f},
+  	%url = {https://doi.org/10.1088\%2F1361-6382\%2Faae95f},
+  	year = 2018,
+	month = {11},
+  	publisher = {{IOP} Publishing},
+  	volume = {35},
+  	number = {23},
+  	pages = {235009},
+  	author = {D Estevez and B Lieunard and F Marion and B Mours and L Rolland and D Verkindt},
+  	title = {First tests of a Newtonian calibrator on an interferometric gravitational wave detector},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+@article{ncal2,
+	doi = {10.1088/1361-6382/abe2da},
+  	%url = {https://doi.org/10.1088\%2F1361-6382\%2Fabe2da},
+  	year = 2021,
+	month = {03},
+  	publisher = {{IOP} Publishing},
+  	volume = {38},
+  	number = {7},
+  	pages = {075012},
+  	author = {D Estevez and B Mours and T Pradier},
+  	title = {Newtonian calibrator tests during the Virgo O3 data taking},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+@article{strain_reconstruction,
+	doi = {10.1088/1361-6382/ac3c8e},
+  	%url = {https://doi.org/10.1088\%2F1361-6382\%2Fac3c8e},
+  	year = 2022,
+	month = {01},
+  	publisher = {{IOP} Publishing},
+  	volume = {39},
+  	number = {4},
+  	pages = {045006},
+  	author = {The Virgo Collaboration},
+  	title = {Calibration of advanced Virgo and reconstruction of the detector strain h(t) during the observing run O3},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+
+
+
+@article{advanced_virgo,
+	doi = {10.1088/0264-9381/32/2/024001},
+  	%url = {https://doi.org/10.1088\%2F0264-9381\%2F32\%2F2\%2F024001},
+  	year = 2014,
+	month = {12},
+  	publisher = {{IOP} Publishing},
+  	volume = {32},
+  	number = {2},
+  	pages = {024001},
+  	author = {F. Acernese and others},
+  	title = {Advanced Virgo: a second-generation interferometric gravitational wave detector},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+@techreport{virgo_tech_report,
+        url = {https://tds.virgo-gw.eu/?call_file=VIR-0128A-12.pdf},
+        year = 2012,
+	month = {04},
+	author = {The Virgo Collaboration},
+	title = {Advanced Virgo Technical Design Report},
+	number = {VIR-0128A-12}
+}
+
+
+
+
+@techreport{virgo_phase2_tech_report,
+        url = {https://tds.virgo-gw.eu/?call_file=VIR-0501C-22_AdvancedVirgoPlusPhaseIIDesign.pdf},
+        year = 2022,
+	month = {09},
+	author = {The Virgo Collaboration},
+	title = {Advanced Virgo Plus Phase II Design Report},
+	number = {VIR-0501C-22}
+}
+
+
+
+
+@Article{virgo_layout,
+         AUTHOR = {Allocca and others},
+         TITLE = {Interferometer Sensing and Control for the Advanced Virgo Experiment in the O3 Scientific Run},
+         JOURNAL = {Galaxies},
+         VOLUME = {8},
+         YEAR = {2020},
+         NUMBER = {4},
+         ARTICLE-NUMBER = {85},
+         %URL = {https://www.mdpi.com/2075-4434/8/4/85},
+         ISSN = {2075-4434},
+         DOI = {10.3390/galaxies8040085}
+}
+
+
+
+
+@Article{squeezer,
+        AUTHOR = {Mehmet, Moritz and Vahlbruch, Henning},
+        TITLE = {The Squeezed Light Source for the Advanced Virgo Detector in the Observation Run O3},
+        JOURNAL = {Galaxies},
+        VOLUME = {8},
+        YEAR = {2020},
+        NUMBER = {4},
+        ARTICLE-NUMBER = {79},
+        %URL = {https://www.mdpi.com/2075-4434/8/4/79},
+        ISSN = {2075-4434},
+        DOI = {10.3390/galaxies8040079}
+}
+
+
+
+
+
+
+@article{findchirp,
+	doi = {10.1103/physrevd.85.122006},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.85.122006},
+  	year = 2012,
+	month = {06},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {85},
+  	number = {12},
+  	author = {Bruce Allen and Warren G. Anderson and Patrick R. Brady and Duncan A. Brown and Jolien D. E. Creighton},
+  	title = {{FINDCHIRP}: An algorithm for detection of gravitational waves from inspiraling compact binaries},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@article{distances,
+	doi = {10.1088/1361-6382/abd594},
+  	%url = {https://doi.org/10.1088\%2F1361-6382\%2Fabd594},
+  	year = 2021,
+	month = {01},
+  	publisher = {{IOP} Publishing},
+  	volume = {38},
+  	number = {5},
+  	pages = {055010},
+  	author = {Hsin-Yu Chen and Daniel E Holz and John Miller and Matthew Evans and Salvatore Vitale and Jolien Creighton},
+  	title = {Distance measures in gravitational-wave astrophysics and cosmology},
+  	journal = {Classical and Quantum Gravity}
+}
+
+
+
+@article{one_ifo,
+	doi = {10.1103/physrevd.47.2198},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.47.2198},
+  	year = 1993,
+	month = {03},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {47},
+  	number = {6},
+  	pages = {2198--2219},
+  	author = {Lee Samuel Finn and David F. Chernoff},
+  	title = {Observing binary inspiral in gravitational radiation: One interferometer},
+  	journal = {Physical Review D}
+}
+
+
+
+
+
+@article{antenna_patterns,
+	doi = {10.1103/physrevd.63.042003},
+  	%url = {https://doi.org/10.1103\%2Fphysrevd.63.042003},
+  	year = 2001,
+	month = {01},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {63},
+  	number = {4},
+  	author = {Warren G. Anderson and Patrick R. Brady and Jolien D. E. Creighton and {\'{E}
+}anna {\'{E}}. Flanagan},
+  	title = {Excess power statistic for detection of burst sources of gravitational radiation},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@article{recycling1,
+  title = {Recycling in laser-interferometric gravitational-wave detectors},
+  author = {Meers, Brian J.},
+  journal = {Phys. Rev. D},
+  volume = {38},
+  issue = {8},
+  pages = {2317--2326},
+  numpages = {0},
+  year = {1988},
+  month = {10},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.38.2317},
+  %url = {https://link.aps.org/doi/10.1103/PhysRevD.38.2317}
+}
+
+
+
+
+@article{recycling2,
+  title = {Experimental demonstration of dual recycling for interferometric gravitational-wave detectors},
+  author = {Strain, K. A. and Meers, B. J.},
+  journal = {Phys. Rev. Lett.},
+  volume = {66},
+  issue = {11},
+  pages = {1391--1394},
+  numpages = {0},
+  year = {1991},
+  month = {03},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.66.1391},
+  %url = {https://link.aps.org/doi/10.1103/PhysRevLett.66.1391}
+}
+
+
+
+
+
+@misc{LISA,
+      title={Laser Interferometer Space Antenna}, 
+      author={Pau Amaro-Seoane and others},
+      year={2017},
+      eprint={1702.00786},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM}
+}
+
+
+
+
+@article{ET,
+doi = {10.1088/0264-9381/27/19/194002},
+%url = {https://dx.doi.org/10.1088/0264-9381/27/19/194002},
+year = {2010},
+month = {09},
+publisher = {},
+volume = {27},
+number = {19},
+pages = {194002},
+author = {M Punturo and others},
+title = {The Einstein Telescope: a third-generation gravitational wave observatory},
+journal = {Classical and Quantum Gravity},
+}
+
+
+
+@misc{CE,
+      title={Cosmic Explorer: The U.S. Contribution to Gravitational-Wave Astronomy beyond LIGO}, 
+      author={David Reitze and others},
+      year={2019},
+      eprint={1907.04833},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM}
+}
+
+
+
+
+@misc{dq_flag,
+     title={LIGO Data Quality Vetoes Applied to the Analysis of O3},
+     author={Derek Davis and Brennan Hughey and Thomas Massinger and Laura Nuttall and Amber Stuver and John Zweizig and Beverly Berger and Robert Bruntz and Ryan Fisher and Andrew Lundgren and Gregory Mendell},
+     url={https://dcc.ligo.org/LIGO-T2100045/public}
+}
+
+
+@misc{cat1_virgo,
+     url={https://tds.virgo-gw.eu/?content=3&r=18844},
+     title={"Category 1" (CAT1) data quality vetoes applied to the analysis of the O3 run Virgo data},
+     author={The Virgo DetChar group}
+}
+
+
+
+@article{bank_spin,
+	doi = {10.1103/physrevd.80.024009},
+  	%url = {https://doi.org/10.1103%2Fphysrevd.80.024009},
+  	year = 2009,
+	month = {07},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {80},
+  	number = {2},
+  	author = {Chris Van Den Broeck and Duncan A. Brown and Thomas Cokelaer and Ian Harry and Gareth Jones and B. S. Sathyaprakash and Hideyuki Tagoshi and Hirotaka Takahashi},
+  	title = {Template banks to search for compact binaries with spinning components in gravitational wave data},
+  	journal = {Physical Review D}
+}
+
+
+
+
+@article{spintaylort4,
+	doi = {10.1088/1742-6596/243/1/012007},
+  	%url = {https://doi.org/10.1088%2F1742-6596%2F243%2F1%2F012007},
+  	year = 2010,
+	month = {08},
+  	publisher = {{IOP} Publishing},
+  	volume = {243},
+  	pages = {012007},
+  	author = {R Sturani and S Fischetti and L Cadonati and G M Guidi and J Healy and D Shoemaker and A Vicer{\'{e}
+}},
+  	title = {Complete phenomenological gravitational waveforms from spinning coalescing binaries},
+  	journal = {Journal of Physics: Conference Series}
+}
+
+
+
+
+
+@article{taylorf2,
+	doi = {10.1103/physrevd.99.124051},
+  	%url = {https://doi.org/10.1103%2Fphysrevd.99.124051},
+  	year = 2019,
+	month = {06},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {99},
+  	number = {12},
+  	author = {Francesco Messina and Reetika Dudi and Alessandro Nagar and Sebastiano Bernuzzi},
+  	title = {Quasi-5.5PN {TaylorF}2 approximant for compact binaries: Point-mass phasing and impact on the tidal polarizability inference},
+  	journal = {Physical Review D}
+}
+
+
+
+@article{seobnrv4_rom,
+	doi = {10.1103/physrevd.95.044028},
+  	%url = {https://doi.org/10.1103%2Fphysrevd.95.044028},
+  	year = 2017,
+	month = {02},
+  	publisher = {American Physical Society ({APS})},
+  	volume = {95},
+  	number = {4},
+  	author = {Alejandro Boh{\'{e}
+} and Lijing Shao and Andrea Taracchini and Alessandra Buonanno and Stanislav Babak and Ian W. Harry and Ian Hinder and Serguei Ossokine and Michael Pürrer and Vivien Raymond and Tony Chu and Heather Fong and Prayush Kumar and Harald P. Pfeiffer and Michael Boyle and Daniel A. Hemberger and Lawrence E. Kidder and Geoffrey Lovelace and Mark A. Scheel and B{\'{e}}la Szil{\'{a}}gyi},
+  	title = {Improved effective-one-body model of spinning, nonprecessing binary black holes for the era of gravitational-wave astrophysics with advanced detectors},
+  	journal = {Physical Review D}
+}
+
+
+
+
+
+
+
+@techreport{technote_rwsnr,
+    url = {https://tds.virgo-gw.eu/ql/?c=18479},
+    year = 2022,
+    month = {08},
+    author = {Vincent Juste},
+    title = {Improving the MBTA rwSNR for high SNR triggers},
+    number = {VIR-0833A-22}
+}
+
+
+
+
+
+@article{IPTA,
+	doi = {10.1088/0264-9381/27/8/084013},
+	%url = {https://doi.org/10.1088\%2F0264-9381\%2F27\%2F8\%2F084013},
+	year = 2010,
+	month = {04},
+	publisher = {{IOP} Publishing},
+	volume = {27},
+	number = {8},
+	pages = {084013},
+	author = {G Hobbs and others},
+	title = {The International Pulsar Timing Array project: using pulsars as a gravitational wave detector},
+	journal = {Classical and Quantum Gravity}
+}
+
+
+
+
+@article{IPTA2,
+	doi = {10.1093/mnras/stab3418},
+	%url = {https://doi.org/10.1093%2Fmnras%2Fstab3418},
+	year = 2022,
+	month = {01},
+	publisher = {Oxford University Press ({OUP})},
+	volume = {510},
+	number = {4},
+	pages = {4873--4887},
+	author = {J Antoniadis and others},
+ 	title = {The International Pulsar Timing Array second data release: Search for an isotropic gravitational wave background},
+ 	journal = {Monthly Notices of the Royal Astronomical Society}
+}

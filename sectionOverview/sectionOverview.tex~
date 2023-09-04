@@ -1,0 +1,70 @@
+%----- Mise en contexte de la thèse
+
+%-> état de l'art en physique des ondes gravitationnelles
+%        -> 1ere detection en 2015 avec LIGO (Virgo offline)
+%        -> en plein essor: plein de nouvelles detections, recherches de nouvelles sources, construction de nouveau detecteurs + plan pour detecteurs next gen
+
+
+The era of gravitational waves astronomy kicked off in 2015 with GW150914, the very first detection of gravitational waves validating once more the theory of general relativity developped hundred years earlier.
+The source was identified as a merger of two black holes.
+This detection is the result of decades of work to build sensitive-enough detectors such as the two LIGO observatories and Virgo, as well as refined data analysis techniques to confidently claim the detection.
+The field of gravitational waves has been on the rise ever since: many other detections have occured, confirming the existence of other type of sources such as neutron star-neutron star mergers (GW170817) and neutron star-black hole mergers (GW200105 and GW200115).
+Joint detection of gravitational waves with electromagnetic waves during GW170817 also opened a new window for multi-messenger astrophysics.
+% Yet other types of sources are currently being searched for with continuous developement of new data analysis techniques and upgrades of detectors.
+% New detectors are also being built with for example the construction of KAGRA completed in 2019 and the development of a third LIGO detector in India currently ongoing.
+% Preliminary research and development for next generation detectors have also started with for instance the LISA observatory, the Einstein telescope, and Cosmic Explorer.
+
+
+
+%-> post-O3 pre-O4 = préparation pour O4
+%        -> résumé de O3: durée de la prise de donnée (O3a/O3b), nombre de detections (BNS, NSBH, BBH)
+%        -> plans pour O4 (?)
+
+This PhD work started at the end of the third observation period of LIGO and Virgo called O3 and will reach its end a few months after the start of the fourth observing run called O4.
+It therefore takes place during a time of upgrades, using knowledge accumulated through O3 to prepare for O4 as best as possible.
+
+%-> thèse en tant que membre de l'equipe MBTA --> recherche de CBC
+%        -> présentation rapide de MBTA (chaine d'analyse a faible latence pour CBC)
+%        -> mise en place d'une recherche single detector triggers
+%        -> volonté de se concentrer sur les signaux potentiellement EM bright
+
+This work was done within the MBTA team.
+MBTA is an analysis pipeline that searches for compact binary merger signals in the LIGO and Virgo data.
+It participated in the low-latency online analysis and offline analysis of O3.
+Up to O3 MBTA only claimed signals found in coicindence between at least two detectors.
+The primary goal of this work was to develop a so-called single detector triggers search, to claim a detection if only one detector of the observatory network reported a significant signal.
+This is especially interesting at times were only one of the detector of the network was online, which can happen for various reasons. 
+Most of the work regarding single detector triggers is about controlling and estimating the background to discover astrophysical signals.
+
+%----- Déroulé du plan de la thèse
+%        -> résumé rapide de chaque partie
+
+Chapter \ref{section:intro_gw} of this document is dedicated to a description of the state of the art of gravitational waves astronomy.
+It starts with a short introduction to gravitational waves.
+A description of the type of gravitational waves sources that were detected and those that are being searched for will also be given, along some properties and parameters relevant for gravitational waves data analysis.
+A review of motivations that drive the search for gravitational waves will eventually be done.
+
+Chapter \ref{section:detection} gives an overview of the detection of gravitational waves with LIGO and Virgo, without going into the many and complex details of the detectors.
+A review of the benefits of having multiple detectors will then be done.
+It will end with a short review of the future detectors planned for gravitational waves observations.
+
+The analysis of LIGO and Virgo data will be described in chapter \ref{section:mbta}, first in a general way by explaining the principle of the matched-filtering technique which is the analysis method underlying most of the gravitational waves analysis.
+Then it focuses on the MBTA pipeline with details on the application of the matched-filetring technique to gravitational waves data analysis.
+The process of searching for signal in a single detector, several detectors and asserting the significance of an event is explained after that.
+There will also be a part dedicated to the noise rejection tools used by MBTA to better discriminate against background triggers.
+All of the work presented in this document relies on data analyzed with MBTA.
+There will be at the end of this section a presentation of the source classification and a definition of what are called ``EM bright'' candidates, to which we will pay a particular attention throughout this document.
+%These are astrophysical signal candidate events which could be associated to electromagnetic waves, based on their source parameters and astrophysical models.
+%They are very interesting in the context of multi-messenger astrophysics and more details will be given later in the document.
+
+The work carried out during the PhD starts with chapter \ref{section:selection}.
+It is at the heart of the single detector triggers analysis. There, selection criteria based on data quality-related quantities will be described.
+They were derived from O3 data in order to better control the background and reject as many bad triggers as possible while leaving as many astrophysical signals as possible untouched.
+
+Chapter \ref{section:far} will present a way to reliably estimate the background of single detector triggers by taking advantage of MBTA's way of analysing data in order to compute a false alarm rate for loud events and quantify their significance.
+
+Chapter \ref{section:rwSnr} will describe some work on a noise rejection tool called reweighted SNR to improve its ability to discriminate between noise and astrophysical signals.
+
+Chapter \ref{section:bad_triggers} will show the results of an investigation on fluctuations of the PSD which may be the source of some bad triggers.
+
+Finally, in chapter \ref{section:O4}, we will present some preliminary results of the single detector trigger search for the begining of O4 with some discussions on the effectiveness of the work presented in this document.

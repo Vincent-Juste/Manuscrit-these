@@ -1,0 +1,71 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {section}{\numberline {1}Overview}{4}{section.1}%
+\contentsline {section}{\numberline {2}Ondes gravitationnelles}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction aux ondes gravitationnelles}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Aperçu des sources astrophysiques}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Propriétés des ondes gravitationnelles et des CBC}{9}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Motivations pour la détection}{10}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Détection des ondes gravitationelles}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Principe de détection}{19}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Description des détecteurs}{19}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Réponse d'un détecteur d'ondes gravitationnelles}{22}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Horizon et \textit {range} d'un détecteur d'ondes gravitationnelles}{23}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Réseau de détecteur et localisation des sources}{27}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Publication d'alertes en ligne}{28}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Autres détecteurs d'ondes gravitationnelles}{31}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Searching for CBC with MBTA}{32}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Overview of the MBTA pipeline}{33}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Gating}{34}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Matched Filtering}{35}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}PSD computation}{37}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Frequency range of the search}{39}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Multi-band analysis}{43}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}Combining bands}{44}{subsubsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.7}MBTA parameter space and template bank generation}{45}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}MBTA's O3 main template bank}{46}{subsubsection.4.7.1}%
+\contentsline {subsubsection}{\numberline {4.7.2}MBTA's O4 template bank}{48}{subsubsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.8}Single detector triggers search}{48}{subsection.4.8}%
+\contentsline {subsubsection}{\numberline {4.8.1}Signal consistency test: $\chi ^2$}{49}{subsubsection.4.8.1}%
+\contentsline {subsubsection}{\numberline {4.8.2}\textrm {auto$\chi ^2$} and rwSNR}{50}{subsubsection.4.8.2}%
+\contentsline {subsubsection}{\numberline {4.8.3}Excess rate and ranking statistics}{51}{subsubsection.4.8.3}%
+\contentsline {subsection}{\numberline {4.9}Coincidence search}{51}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Clustering}{53}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}FAR computation during O3}{53}{subsection.4.11}%
+\contentsline {subsubsection}{\numberline {4.11.1}FAR for a single search}{53}{subsubsection.4.11.1}%
+\contentsline {subsubsection}{\numberline {4.11.2}Global search FAR}{58}{subsubsection.4.11.2}%
+\contentsline {subsection}{\numberline {4.12}Probability of astrophysical origin and source classification}{59}{subsection.4.12}%
+\contentsline {subsubsection}{\numberline {4.12.1}p$_{\textrm {astro}}$, p$_{\textrm {source}}$}{60}{subsubsection.4.12.1}%
+\contentsline {subsubsection}{\numberline {4.12.2}hasNS, hasRemnant}{60}{subsubsection.4.12.2}%
+\contentsline {subsubsection}{\numberline {4.12.3}Evolution for O4: FAR(p$_{\textrm {astro}}$)}{61}{subsubsection.4.12.3}%
+\contentsline {section}{\numberline {5}Selecting single detector triggers}{62}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Introduction}{62}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Ideal case of noise}{63}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Monte Carlo simulations of astrophysical signals}{65}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Defining the EM bright population for single detector triggers}{67}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Restraining the parameter space}{69}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Selection using the \textrm {auto$\chi ^2$} }{72}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Selection using the excess rate}{74}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}Which excess rate should we use?}{74}{subsubsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {5.7.2}Excess rate on EM bright single detector triggers}{74}{subsubsection.5.7.2}%
+\contentsline {subsubsection}{\numberline {5.7.3}Excess rate on EM dark single detector triggers}{77}{subsubsection.5.7.3}%
+\contentsline {subsection}{\numberline {5.8}Need of a larger cut on the excess rate and gating}{78}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Search sensitivity improvement}{84}{subsection.5.9}%
+\contentsline {subsubsection}{\numberline {5.9.1}Computation of a new ER in anticipation for O4 bank}{86}{subsubsection.5.9.1}%
+\contentsline {section}{\numberline {6}Assessing the significance of single detector triggers}{89}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Extrapolating the observed background}{89}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Combining individual band triggers with random noise}{92}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Combining individual bands triggers with other triggers}{99}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Improving the rwSNR}{103}{section.7}%
+\contentsline {subsection}{\numberline {7.1}SNR dependency of the \textrm {auto$\chi ^2$} }{103}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Mitigating the SNR dependence in the reweighting}{104}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Trigger rate and PSD fluctuations}{110}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Triggers boosted by fluctuations of the PSD}{110}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Range drop around triggers}{110}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}Range drop due to astrophysical signals}{114}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}Time scale of the drop in range}{116}{subsubsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.2}Correcting the SNR for range fluctuations}{118}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Detector range: real data vs Gaussian noise}{122}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Single detector search during the begining of O4}{129}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Effectiveness of the selection criteria}{129}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Background estimation for EM bright single detector triggers}{135}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Conclusion}{137}{section.10}%

@@ -1,0 +1,51 @@
+\ProvidesPackage{customPackage}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb}
+\usepackage{mathtools}
+\usepackage[margin=2.0cm]{geometry}
+\usepackage{siunitx}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{subfig}
+\usepackage{graphicx}
+\usepackage[
+backend=biber,
+style=numeric,
+natbib=true,
+url=true, 
+doi=true,
+eprint=false,
+sorting=none
+]{biblatex}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+%\usepackage{titlesec}
+\usepackage{minitoc}
+\usepackage{breqn}
+\usepackage{microtype}
+\usepackage{pdfpages}
+\usepackage{tabularx}
+\usepackage{float}
+
+\usepackage{lineno}
+%\linenumbers
+
+\setcounter{secnumdepth}{4}
+\setcounter{secttocdepth}{3}
+
+% \titleformat{\paragraph}
+% {\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+% \titlespacing*{\paragraph}
+% {0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+\newcommand{\achi}{\textrm{auto$\chi^2$} }
+\newcommand{\switch}{\textrm{SNR$_{\textrm{switch}}$}}
+\newcommand{\thr}{\textrm{thr$_{\chi}$}}
+\newcommand{\snr}{\textrm{SNR}}
+\newcommand{\msun}{\textrm{M$_{\odot}$}}
+\newcommand{\medr}{range$_{10\text{s}}$}
+
+% \DeclareSIUnit\solarmass{\msun}
+
+\DeclareSIUnit \parsec {pc}

@@ -1,0 +1,103 @@
+#include "math.h"
+
+void plotAntenna(){
+
+  float x,y,z,res_p,res_c;
+  float psi=0;
+  
+  TNtuple* ntuple = new TNtuple("ntuple","","x:y:z:res_p:res_c");
+  TNtuple* ntuplep = new TNtuple("ntuplep","","x:y:z:res_p");
+  TNtuple* ntuplec = new TNtuple("ntuplec","","x:y:z:res_c");
+
+  
+  TGraph2D* gtestp = new TGraph2D();
+  gtestp->SetNameTitle("gtestp","test +;x;y;z");
+
+  TGraph2D* gtestc = new TGraph2D();
+  gtestc->SetNameTitle("gtestc","test X;x;y;z");
+
+
+  TPolyLine3D* pl = new TPolyLine3D();
+  
+  for(float theta=-TMath::Pi(); theta<=TMath::Pi(); theta+=0.02){
+    for(float phi=0; phi<=2*TMath::Pi(); phi+=0.02){
+      x = sin(theta)*cos(phi);
+      y = sin(theta)*sin(phi);
+      z = cos(theta);
+
+      res_p = -0.5*(1+cos(theta)*cos(theta))*cos(2*phi)*cos(2*psi)-cos(theta)*sin(2*phi)*sin(2*psi);
+
+      res_c = 0.5*(1+cos(theta)*cos(theta))*cos(2*phi)*sin(2*psi)-cos(theta)*sin(2*phi)*cos(2*psi);
+
+      res_p=fabs(res_p);
+      res_c=fabs(res_c);
+      
+      float xp = res_p*sin(theta)*cos(phi);
+      float yp = res_p*sin(theta)*sin(phi);
+      float zp = res_p*cos(theta);
+
+      float xc = res_c*sin(theta)*cos(phi);
+      float yc = res_c*sin(theta)*sin(phi);
+      float zc = res_c*cos(theta);
+
+      float arr[5] = {x,y,z,res_p,res_c};
+      ntuple->Fill(arr);
+
+      float arrp[5] = {xp,yp,zp,res_p};
+      ntuplep->Fill(arrp);
+
+      float arrc[5] = {xc,yc,zc,res_c};
+      ntuplec->Fill(arrc);
+
+      gtestp->SetPoint(gtestp->GetN(),xp,yp,zp);
+      gtestc->SetPoint(gtestc->GetN(),xc,yc,zc);
+
+      pl->SetNextPoint(xp,yp,zp);
+    }
+  }
+
+
+  /*  
+  TCanvas* c = new TCanvas("c","c",1200,600);
+  c->Divide(2,1);
+  c->cd(1);
+  ntuple->Draw("x:y:z:res_p","","colz");
+  c->cd(2);
+  ntuple->Draw("x:y:z:res_c","","colz");
+  */  
+
+
+    
+  TCanvas* c3 = new TCanvas("c3","c3",1200,600);
+  c3->Divide(2,1);
+  c3->cd(1);
+  ntuplep->Draw("z:y:x:res_p");
+  //TPolyMarker3D* polyp = (TPolyMarker3D*)gPad->GetPrimitive("polyp");
+  //polyp->Draw("surf1");
+  c3->cd(2);
+  ntuplec->Draw("z:y:x:res_c");
+
+
+  /*
+  TCanvas* ctest = new TCanvas("ctest","ctest",1200,600);
+  ctest->Divide(2,1);
+
+  ctest->cd(1);
+  gtestp->Draw("line");
+  ctest->cd(2);
+  //gtestc->Draw("line tri1");
+  pl->Draw("colz");
+  */  
+  
+
+  /*    
+  TCanvas* c2 = new TCanvas("c2","c2",1200,600);
+  c2->Divide(2,1);
+  c2->cd(1);
+  gpolp->Draw("colz");
+  c2->cd(2);
+  gpolc->Draw("colz");
+  */  
+
+  
+}

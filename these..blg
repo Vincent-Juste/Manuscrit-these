@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'these..blg'
+[59] biber:322> INFO - === lun. avril 24, 2023, 15:29:35
+[169] Utils.pm:309> ERROR - Cannot find 'these..bcf'!
+[169] Biber.pm:132> INFO - ERRORS: 1

@@ -1,0 +1,1960 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./these.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty)
+(./customPackage.sty (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-natbib.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/minitoc/minitoc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/minitoc/mtcmess.sty) (./these.mtc0)
+(/usr/share/texlive/texmf-dist/tex/latex/minitoc/english.mld)
+(/usr/share/texlive/texmf-dist/tex/latex/minitoc/english.mld))
+(/usr/share/texlive/texmf-dist/tex/latex/breqn/breqn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/breqn/flexisym.sty
+(/usr/share/texlive/texmf-dist/tex/latex/breqn/cmbase.sym)
+(/usr/share/texlive/texmf-dist/tex/latex/breqn/mathstyle.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty)) (./these.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict)
+(/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+(./these.out) (./these.out)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./these.bbl
+)
+
+Package minitoc(hints) Warning: W0099
+(minitoc(hints))                --- The titlesec package is loaded. 
+(minitoc(hints))                It is incompatible 
+(minitoc(hints))                with the minitoc package.
+
+
+Package minitoc(hints) Warning: W0030
+(minitoc(hints))                --- The \part command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+
+Package minitoc(hints) Warning: W0039
+(minitoc(hints))                --- The \section command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg) [1 <./1er_4eme_c
+ouverture-ED182.pdf>] (./these.toc)
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 29.
+
+[2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./sectionOverview/sectionOverview.tex
+
+LaTeX Warning: Reference `section:intro_gw' on page 3 undefined on input line 4
+2.
+
+
+LaTeX Warning: Reference `section:detection' on page 3 undefined on input line 
+47.
+
+
+LaTeX Warning: Reference `section:mbta' on page 3 undefined on input line 51.
+
+
+LaTeX Warning: Reference `section:selection' on page 3 undefined on input line 
+60.
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 63.
+
+[3]
+
+LaTeX Warning: Reference `section:far' on page 4 undefined on input line 64.
+
+
+LaTeX Warning: Reference `section:rwSnr' on page 4 undefined on input line 66.
+
+
+LaTeX Warning: Reference `section:bad_triggers' on page 4 undefined on input li
+ne 68.
+
+
+LaTeX Warning: Reference `section:O4' on page 4 undefined on input line 70.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+)
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 41.
+
+[4] (./sectionGW/sectionGW.tex
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 61.
+
+[5]
+
+LaTeX Warning: Reference `fig:inspiral' on page 6 undefined on input line 67.
+
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 90.
+
+[6 <./sectionGW/inspiral.png>]
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 119.
+
+[7]
+
+LaTeX Warning: Reference `fig:polarization' on page 8 undefined on input line 1
+71.
+
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 189.
+
+[8]
+
+LaTeX Warning: Reference `section:detection' on page 9 undefined on input line 
+197.
+
+
+LaTeX Warning: Reference `fig:waveform_mass' on page 9 undefined on input line 
+211.
+
+
+LaTeX Warning: Reference `fig:waveform_spin' on page 9 undefined on input line 
+212.
+
+
+LaTeX Warning: Reference `fig:waveform_startFreq' on page 9 undefined on input 
+line 213.
+
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 255.
+
+[9 <./sectionGW/polarization.png>]
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 255.
+
+[10 <./sectionGW/cWaveformMass.png>]
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 255.
+
+[11 <./sectionGW/cWaveformSpin.png>]
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 255.
+
+[12 <./sectionGW/cWaveformFreq.png>]
+
+LaTeX Warning: Reference `fig:other_polarization' on page 13 undefined on input
+ line 274.
+
+
+LaTeX Warning: Reference `sec:matched_filter' on page 13 undefined on input lin
+e 282.
+
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 293.
+
+[13]
+
+LaTeX Warning: Reference `fig:H0' on page 14 undefined on input line 297.
+
+
+LaTeX Warning: Reference `eq:luminosity_distance' on page 14 undefined on input
+ line 301.
+
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 329.
+
+[14 <./sectionGW/other_polarization.png>]
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 329.
+
+[15 <./sectionGW/measurementH0.jpg>]
+
+LaTeX Warning: Reference `section:mbta' on page 16 undefined on input line 354.
+
+
+
+LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 361.
+
+[16])
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 55.
+
+[17] (./these.stc3) (./sectionDetection/sectionDetection.tex
+
+LaTeX Warning: Reference `fig:michelson' on page 18 undefined on input line 10.
+
+
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 47.
+
+[18]
+
+LaTeX Warning: Reference `fig:virgo_layout' on page 19 undefined on input line 
+48.
+
+
+LaTeX Warning: Reference `fig:virgo_layout' on page 19 undefined on input line 
+50.
+
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 76.
+
+[19 <./sectionDetection/michelson.jpg>]
+
+LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 90.
+
+[20 <./sectionDetection/virgo_layout.png>]
+
+LaTeX Warning: Reference `fig:antenna_pattern' on page 21 undefined on input li
+ne 104.
+
+
+LaTeX Warning: Reference `fig:ligo_sensitivity' on page 21 undefined on input l
+ine 117.
+
+
+LaTeX Warning: Reference `fig:virgo_sensitivity' on page 21 undefined on input 
+line 117.
+
+
+LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 124.
+
+[21 <./sectionDetection/antenna.png>]
+
+LaTeX Warning: Reference `section:mbta' on page 22 undefined on input line 124.
+
+
+
+LaTeX Warning: Reference `eq:effective_distance' on page 22 undefined on input 
+line 125.
+
+
+LaTeX Warning: Reference `fig:design_sensitivities' on page 22 undefined on inp
+ut line 162.
+
+
+LaTeX Warning: Float too large for page by 2.02913pt on input line 185.
+
+
+LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 214.
+
+[22]
+
+LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 214.
+
+[23 <./sectionDetection/ligo_sensitivity_lho.png> <./sectionDetection/ligo_sens
+itivity_llo.png>]
+
+LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 214.
+
+[24 <./sectionDetection/virgo_noise.png> <./sectionDetection/sensitivity_compar
+ison.png>]
+
+LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 214.
+
+[25 <./sectionDetection/design_sensitivities.png>]
+
+LaTeX Warning: Reference `fig:igwn' on page 26 undefined on input line 222.
+
+
+LaTeX Warning: Reference `fig:localization' on page 26 undefined on input line 
+246.
+
+
+LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 252.
+
+[26 <./sectionDetection/itf_network.png>]
+
+LaTeX Warning: Float too large for page by 9.76057pt on input line 330.
+
+
+LaTeX Warning: Reference `fig:gw170817_location' on page 27 undefined on input 
+line 337.
+
+
+LaTeX Warning: Reference `sec:pastro' on page 27 undefined on input line 374.
+
+
+LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 380.
+
+[27]
+
+LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 380.
+
+[28 <./sectionDetection/antenna-patterns_LeoSinger/00012.jpg> <./sectionDetecti
+on/antenna-patterns_LeoSinger/00118.jpg> <./sectionDetection/antenna-patterns_L
+eoSinger/00227.jpg> <./sectionDetection/antenna-patterns_LeoSinger/00318.jpg> <
+./sectionDetection/antenna-patterns_LeoSinger/00418.jpg> <./sectionDetection/an
+tenna-patterns_LeoSinger/00552.jpg> <./sectionDetection/antenna-patterns_LeoSin
+ger/00559.jpg> <./sectionDetection/antenna-patterns_LeoSinger/00584.jpg> <./sec
+tionDetection/antenna-patterns_LeoSinger/00900.jpg>]
+
+LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 391.
+
+[29 <./sectionDetection/gw170817_location.png (PNG copy)>])
+
+LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 68.
+
+[30] (./these.stc4) (./sectionMBTA/sectionMBTA.tex
+
+LaTeX Warning: Reference `sec:matched_filter' on page 31 undefined on input lin
+e 3.
+
+
+LaTeX Warning: Reference `fig:mbta_scheme' on page 31 undefined on input line 1
+9.
+
+
+LaTeX Warning: Reference `sec:gating' on page 31 undefined on input line 29.
+
+
+LaTeX Warning: Reference `sec:bankO4' on page 31 undefined on input line 32.
+
+
+LaTeX Warning: Reference `sec:gating' on page 31 undefined on input line 32.
+
+
+LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 36.
+
+[31]
+
+LaTeX Warning: Reference `sec:param_space' on page 32 undefined on input line 4
+0.
+
+
+LaTeX Warning: Reference `sec:single_search' on page 32 undefined on input line
+ 54.
+
+
+LaTeX Warning: Reference `sec:clustering' on page 32 undefined on input line 54
+.
+
+
+LaTeX Warning: Reference `sec:far_coinc' on page 32 undefined on input line 56.
+
+
+
+LaTeX Warning: Reference `sec:pastro' on page 32 undefined on input line 56.
+
+
+LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 79.
+
+[32 <./sectionMBTA/schemaMBTA.jpg>]
+
+LaTeX Warning: Reference `fig:strain_gated' on page 33 undefined on input line 
+90.
+
+
+LaTeX Warning: Reference `fig:range_glitch' on page 33 undefined on input line 
+100.
+
+
+LaTeX Warning: Reference `sec:bankO3' on page 33 undefined on input line 114.
+
+
+LaTeX Warning: Reference `sec:bankO4' on page 33 undefined on input line 116.
+
+
+Overfull \hbox (45.04256pt too wide) in paragraph at lines 123--124
+ [][] 
+
+LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 159.
+
+[33]
+
+LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 190.
+
+[34 <./sectionMBTA/1267665585.60_3.png> <./sectionMBTA/StrainGated.png>]
+
+LaTeX Warning: Reference `sec:param_space' on page 35 undefined on input line 2
+03.
+
+
+LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 225.
+
+[35 <./sectionMBTA/GatingZoom.png>]
+
+LaTeX Warning: Reference `fig:ex_mfos' on page 36 undefined on input line 241.
+
+
+LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 263.
+
+[36 <./sectionMBTA/cMfo.png>]
+
+LaTeX Warning: Reference `fig:psd_time' on page 37 undefined on input line 269.
+
+
+
+LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 292.
+
+[37 <./sectionMBTA/cComparePSD3.png>]
+
+LaTeX Warning: Reference `fig:start_freq' on page 38 undefined on input line 29
+5.
+
+
+LaTeX Warning: Reference `fig:start_freq_mass' on page 38 undefined on input li
+ne 296.
+
+
+LaTeX Warning: Reference `fig:nuLSO' on page 38 undefined on input line 304.
+
+
+LaTeX Warning: Reference `fig:start_freq' on page 38 undefined on input line 30
+5.
+
+
+LaTeX Warning: Reference `eq:f_isco' on page 38 undefined on input line 347.
+
+
+LaTeX Warning: Reference `eq:f_isco' on page 38 undefined on input line 347.
+
+
+LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 353.
+
+[38]
+
+LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 353.
+
+[39 <./sectionMBTA/cSnrFreqO3O4.png> <./sectionMBTA/cSnrFreqMassO4.png>]
+
+LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 353.
+
+[40 <./sectionMBTA/cNuLSO.png>]
+
+LaTeX Warning: Reference `fig:O3_snr_sharing_inj' on page 41 undefined on input
+ line 366.
+
+
+LaTeX Warning: Reference `fig:O3_snr_sharing_Gaus' on page 41 undefined on inpu
+t line 366.
+
+
+LaTeX Warning: Reference `sec:inj' on page 41 undefined on input line 366.
+
+
+LaTeX Warning: Reference `sec:inj' on page 41 undefined on input line 372.
+
+
+LaTeX Warning: Reference `sec:inj' on page 41 undefined on input line 372.
+
+
+LaTeX Warning: Reference `sec:gaussian_noise' on page 41 undefined on input lin
+e 386.
+
+
+LaTeX Warning: Reference `sec:gaussian_noise' on page 41 undefined on input lin
+e 386.
+
+
+LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 404.
+
+[41 <./sectionMBTA/cSnrFracMchirpInj.png>]
+
+LaTeX Warning: Reference `fig:mfo_combi' on page 42 undefined on input line 419
+.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--420
+
+
+LaTeX Warning: Reference `LastPage' on page 42 undefined on input line 439.
+
+[42 <./sectionMBTA/cSnrFracMchirp.png>]
+
+LaTeX Warning: Reference `LastPage' on page 43 undefined on input line 472.
+
+[43 <./sectionMBTA/cSnrFracMchirpGaus.png>]
+
+LaTeX Warning: Reference `LastPage' on page 44 undefined on input line 489.
+
+[44 <./sectionMBTA/cMFOcombi.png>]
+
+LaTeX Warning: Reference `fig:bankO3' on page 45 undefined on input line 504.
+
+
+LaTeX Warning: Reference `LastPage' on page 45 undefined on input line 526.
+
+[45 <./sectionMBTA/cBank.png>]
+
+LaTeX Warning: Reference `fig:bankO4' on page 46 undefined on input line 537.
+
+
+LaTeX Warning: Reference `eq:mfo_combi' on page 46 undefined on input line 579.
+
+
+
+LaTeX Warning: Reference `LastPage' on page 46 undefined on input line 584.
+
+[46]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 589.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\chi' on input line 589.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 589.
+
+
+LaTeX Warning: Reference `LastPage' on page 47 undefined on input line 613.
+
+[47 <./sectionMBTA/cBankO4.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 619.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\chi' on input line 619.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 619.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 619.
+
+
+LaTeX Warning: Reference `fig:mfo_achi2' on page 48 undefined on input line 664
+.
+
+
+LaTeX Warning: Reference `sec:improve_achi2' on page 48 undefined on input line
+ 684.
+
+
+LaTeX Warning: Reference `LastPage' on page 48 undefined on input line 694.
+
+[48]
+
+LaTeX Warning: Reference `sec:coinc_search' on page 49 undefined on input line 
+697.
+
+
+LaTeX Warning: Reference `sec:network' on page 49 undefined on input line 717.
+
+
+LaTeX Warning: Reference `LastPage' on page 49 undefined on input line 719.
+
+[49 <./sectionMBTA/mfoAstro.png> <./sectionMBTA/mfoGlitch.png>]
+
+LaTeX Warning: Reference `eq:rank_stat' on page 50 undefined on input line 755.
+
+
+
+LaTeX Warning: Reference `eq:CRS_double' on page 50 undefined on input line 766
+.
+
+
+LaTeX Warning: Reference `fig:pct_inj_selec' on page 50 undefined on input line
+ 772.
+
+
+LaTeX Warning: Reference `LastPage' on page 50 undefined on input line 774.
+
+[50]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 782.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 782.
+
+
+LaTeX Warning: Reference `fig:pct_correc' on page 51 undefined on input line 78
+8.
+
+
+LaTeX Warning: Reference `fig:pct_inj_recov' on page 51 undefined on input line
+ 790.
+
+
+LaTeX Warning: Reference `fig:cluster' on page 51 undefined on input line 829.
+
+
+LaTeX Warning: Reference `LastPage' on page 51 undefined on input line 858.
+
+[51]
+
+LaTeX Warning: Reference `LastPage' on page 52 undefined on input line 858.
+
+[52 <./sectionMBTA/cInjDoub.png>]
+
+LaTeX Warning: Reference `LastPage' on page 53 undefined on input line 858.
+
+[53 <./sectionMBTA/cPCT.png>]
+
+LaTeX Warning: Reference `LastPage' on page 54 undefined on input line 858.
+
+[54 <./sectionMBTA/cRecovInj.png>]
+
+LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 886.
+
+[55 <./sectionMBTA/clustering.png>]
+
+LaTeX Warning: Reference `eq:CRS_triple' on page 56 undefined on input line 888
+.
+
+
+LaTeX Warning: Reference `fig:far_crs' on page 56 undefined on input line 890.
+
+
+LaTeX Warning: Reference `sec:inj' on page 56 undefined on input line 917.
+
+
+LaTeX Warning: Reference `fig:ifar_cum' on page 56 undefined on input line 920.
+
+
+
+LaTeX Warning: Reference `fig:far_crs' on page 56 undefined on input line 920.
+
+
+LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 921.
+
+[56 <./sectionMBTA/BNSFARcRank_chunk27.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 953.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 953.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 953.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 953.
+
+
+LaTeX Warning: Reference `LastPage' on page 57 undefined on input line 958.
+
+[57 <./sectionMBTA/IFAR_cum_chunk27.png>]
+
+LaTeX Warning: Reference `sec:embright' on page 58 undefined on input line 991.
+
+
+
+LaTeX Warning: Reference `LastPage' on page 58 undefined on input line 1010.
+
+[58]
+
+LaTeX Warning: Reference `sec:EOS' on page 59 undefined on input line 1032.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1036.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1036.
+
+)
+
+LaTeX Warning: Reference `LastPage' on page 59 undefined on input line 82.
+
+[59] (./these.stc5) (./sectionSelection/sectionSelection.tex
+
+LaTeX Warning: Reference `fig:compare_bkg' on page 60 undefined on input line 9
+.
+
+
+LaTeX Warning: Reference `eq:achi2' on page 60 undefined on input line 23.
+
+
+LaTeX Warning: Reference `eq:ER' on page 60 undefined on input line 23.
+
+
+LaTeX Warning: Reference `sec:gating' on page 60 undefined on input line 23.
+
+
+LaTeX Warning: Reference `LastPage' on page 60 undefined on input line 26.
+
+[60]
+
+LaTeX Warning: Reference `sec:embright' on page 61 undefined on input line 31.
+
+
+LaTeX Warning: Reference `sec:selec_param_space' on page 61 undefined on input 
+line 32.
+
+
+LaTeX Warning: Reference `fig:colored_gaus' on page 61 undefined on input line 
+70.
+
+
+LaTeX Warning: Reference `LastPage' on page 61 undefined on input line 72.
+
+[61 <./sectionSelection/plotsOther/cCompareSingleCoinc.png>]
+
+LaTeX Warning: Reference `fig:gaussian_noise' on page 62 undefined on input lin
+e 75.
+
+
+LaTeX Warning: Reference `fig:compare_bkg' on page 62 undefined on input line 7
+6.
+
+
+LaTeX Warning: Reference `LastPage' on page 62 undefined on input line 109.
+
+[62 <./sectionSelection/plotsOther/cNoise.png> <./sectionSelection/plotsOther/c
+ASDL1.png> <./sectionSelection/plotsOther/cGausSingles.png>]
+
+LaTeX Warning: Reference `fig:common_inj' on page 63 undefined on input line 18
+4.
+
+
+LaTeX Warning: Reference `LastPage' on page 63 undefined on input line 232.
+
+[63]
+
+LaTeX Warning: Reference `LastPage' on page 64 undefined on input line 232.
+
+[64 <./sectionSelection/plotsOther/inj_recovery_snr_chunk26.png> <./sectionSele
+ction/plotsOther/cCommonInj.png>]
+
+LaTeX Warning: Reference `sec:pastro' on page 65 undefined on input line 239.
+
+
+LaTeX Warning: Reference `fig:m1_m2_hasRemnant' on page 65 undefined on input l
+ine 244.
+
+
+LaTeX Warning: Reference `fig:m1_mc_hasRemnant' on page 65 undefined on input l
+ine 244.
+
+
+LaTeX Warning: Reference `LastPage' on page 65 undefined on input line 274.
+
+[65 <./sectionSelection/plotsOther/embright_m1m2.png>]
+
+LaTeX Warning: Reference `LastPage' on page 66 undefined on input line 274.
+
+[66 <./sectionSelection/plotsOther/embright_m1mc.png>]
+
+LaTeX Warning: Reference `sec:embright' on page 67 undefined on input line 304.
+
+
+
+LaTeX Warning: Reference `fig:O3_singles' on page 67 undefined on input line 30
+8.
+
+
+LaTeX Warning: Reference `fig:compare_bkg' on page 67 undefined on input line 3
+08.
+
+
+LaTeX Warning: Reference `fig:compare_bright_gaus' on page 67 undefined on inpu
+t line 309.
+
+
+LaTeX Warning: Reference `fig:compare_dark_gaus' on page 67 undefined on input 
+line 309.
+
+
+LaTeX Warning: Reference `fig:singles_tempdur' on page 67 undefined on input li
+ne 349.
+
+
+LaTeX Warning: Reference `fig:embright_snrTempDur_nocut' on page 67 undefined o
+n input line 353.
+
+
+LaTeX Warning: Reference `fig:emdark_snrTempDur_nocut' on page 67 undefined on 
+input line 353.
+
+
+LaTeX Warning: Reference `fig:emdark_snrTempDur_nocut' on page 67 undefined on 
+input line 357.
+
+
+LaTeX Warning: Reference `LastPage' on page 67 undefined on input line 481.
+
+[67]
+
+LaTeX Warning: Reference `LastPage' on page 68 undefined on input line 481.
+
+[68 <./sectionSelection/plotsOther/cSinglesO3.png> <./sectionSelection/plotsEMb
+right/cPosterNoCut.png> <./sectionSelection/plotsEMdark/cAllTemp.png>]
+
+LaTeX Warning: Reference `LastPage' on page 69 undefined on input line 481.
+
+[69 <./sectionSelection/plotsOther/cDurationSingles.png> <./sectionSelection/pl
+otsOther/cTempDensity.png> <./sectionSelection/plotsEMbright/cSnrTempDur.png> <
+./sectionSelection/plotsEMdark/cSnrTempDur.png>]
+
+LaTeX Warning: Reference `sec:snr_dependency' on page 70 undefined on input lin
+e 499.
+
+
+LaTeX Warning: Reference `fig:inj_achi2' on page 70 undefined on input line 503
+.
+
+
+LaTeX Warning: Reference `tab:inj_frac' on page 70 undefined on input line 504.
+
+
+
+LaTeX Warning: Reference `fig:achi2_bright' on page 70 undefined on input line 
+518.
+
+
+LaTeX Warning: Reference `fig:inj_achi2' on page 70 undefined on input line 520
+.
+
+
+LaTeX Warning: Reference `LastPage' on page 70 undefined on input line 540.
+
+[70]
+
+LaTeX Warning: Reference `LastPage' on page 71 undefined on input line 540.
+
+[71 <./sectionSelection/plotsOther/cSnrAchi2InjCut_BBH.png> <./sectionSelection
+/plotsEMbright/cCutAchi2Bright.png>]
+
+LaTeX Warning: Reference `fig:correl_erw' on page 72 undefined on input line 55
+3.
+
+
+LaTeX Warning: Reference `fig:cut_erw_embright' on page 72 undefined on input l
+ine 569.
+
+
+LaTeX Warning: Reference `fig:embright_ercut' on page 72 undefined on input lin
+e 575.
+
+
+LaTeX Warning: Reference `fig:embright_astro_ercut' on page 72 undefined on inp
+ut line 579.
+
+
+LaTeX Warning: Reference `tab:astro' on page 72 undefined on input line 579.
+
+
+LaTeX Warning: Reference `LastPage' on page 72 undefined on input line 611.
+
+[72 <./sectionSelection/plotsOther/correlERL1.png>]
+
+LaTeX Warning: Reference `LastPage' on page 73 undefined on input line 665.
+
+[73 <./sectionSelection/plotsEMbright/cCumER.png> <./sectionSelection/plotsEMbr
+ight/cCumulERcut.png>]
+
+LaTeX Warning: Reference `LastPage' on page 74 undefined on input line 665.
+
+[74 <./sectionSelection/plotsEMbright/cL1_O3_beforeCut.png> <./sectionSelection
+/plotsEMbright/cL1_O3_afterCutER.png>]
+
+LaTeX Warning: Reference `fig:emdark_ercut' on page 75 undefined on input line 
+671.
+
+
+LaTeX Warning: Reference `fig:emdark_astro_ercut' on page 75 undefined on input
+ line 674.
+
+
+LaTeX Warning: Reference `LastPage' on page 75 undefined on input line 710.
+
+[75 <./sectionSelection/plotsEMdark/cCumulERcut.png> <./sectionSelection/plotsE
+Mdark/cL1_O3_beforeCut.png> <./sectionSelection/plotsEMdark/cL1_O3_afterCutER.p
+ng>]
+
+LaTeX Warning: Reference `fig:erTimeShift' on page 76 undefined on input line 7
+15.
+
+
+LaTeX Warning: Reference `fig:diagPlots' on page 76 undefined on input line 718
+.
+
+
+LaTeX Warning: Reference `fig:embright_cutGating' on page 76 undefined on input
+ line 760.
+
+
+LaTeX Warning: Reference `fig:embright_cutMoreER' on page 76 undefined on input
+ line 760.
+
+
+LaTeX Warning: Reference `fig:embright_astro_aftercutER' on page 76 undefined o
+n input line 760.
+
+
+LaTeX Warning: Reference `fig:emdark_cutGating' on page 76 undefined on input l
+ine 760.
+
+
+LaTeX Warning: Reference `fig:emdark_cutMoreER' on page 76 undefined on input l
+ine 760.
+
+
+LaTeX Warning: Reference `fig:emdark_astro_aftercutER' on page 76 undefined on 
+input line 760.
+
+
+LaTeX Warning: Reference `LastPage' on page 76 undefined on input line 763.
+
+[76 <./sectionSelection/plotsAroundSingles/cCumulERtimeShift_bright.png> <./sec
+tionSelection/plotsAroundSingles/cCumulERtimeShift.png>]
+
+LaTeX Warning: Reference `LastPage' on page 77 undefined on input line 763.
+
+[77 <./sectionSelection/plotsAroundSingles/1241798191-71_gatingER.png> <./secti
+onSelection/plotsAroundSingles/1242312195-92_gatingER.png> <./sectionSelection/
+plotsAroundSingles/1250380418-35_gatingER.png>]
+
+LaTeX Warning: Reference `fig:compare_bright_gaus_selec' on page 78 undefined o
+n input line 764.
+
+
+LaTeX Warning: Reference `fig:compare_longDark_gaus_selec' on page 78 undefined
+ on input line 764.
+
+
+LaTeX Warning: Reference `fig:emdark_snrTempDur_allcut' on page 78 undefined on
+ input line 765.
+
+
+LaTeX Warning: Reference `sec:emdark_er' on page 78 undefined on input line 774
+.
+
+
+LaTeX Warning: Reference `sec:emdark_er' on page 78 undefined on input line 774
+.
+
+
+LaTeX Warning: Reference `sec:emdark_er' on page 78 undefined on input line 803
+.
+
+
+LaTeX Warning: Reference `sec:emdark_er' on page 78 undefined on input line 803
+.
+
+
+LaTeX Warning: Reference `LastPage' on page 78 undefined on input line 855.
+
+[78]
+
+LaTeX Warning: Reference `LastPage' on page 79 undefined on input line 855.
+
+[79 <./sectionSelection/plotsEMbright/cL1_O3_afterCutGating.png> <./sectionSele
+ction/plotsEMbright/cL1_O3_afterCutMoreER.png>]
+
+LaTeX Warning: Reference `LastPage' on page 80 undefined on input line 855.
+
+[80 <./sectionSelection/plotsEMdark/cL1_O3_afterCutGating.png> <./sectionSelect
+ion/plotsEMdark/cL1_O3_afterCutMoreER.png>]
+
+LaTeX Warning: Reference `LastPage' on page 81 undefined on input line 855.
+
+[81 <./sectionSelection/plotsEMbright/cPosterAllCut.png> <./sectionSelection/pl
+otsEMdark/cPosterAllCut.png> <./sectionSelection/plotsEMdark/cSnrTempDurAllCut.
+png>]
+
+LaTeX Warning: Reference `sec:detector' on page 82 undefined on input line 862.
+
+
+
+LaTeX Warning: Reference `eq:horizon' on page 82 undefined on input line 864.
+
+
+LaTeX Warning: Reference `fig:embright_rankstat_allcut' on page 82 undefined on
+ input line 874.
+
+
+LaTeX Warning: Reference `fig:emdark_rankstat_allcut' on page 82 undefined on i
+nput line 879.
+
+
+LaTeX Warning: Reference `LastPage' on page 82 undefined on input line 901.
+
+[82 <./sectionSelection/plotsEMbright/cRankStatCutAll.png>]
+
+LaTeX Warning: Reference `LastPage' on page 83 undefined on input line 901.
+
+[83 <./sectionSelection/plotsEMdark/cRankStatCutAll.png>]
+
+LaTeX Warning: Reference `sec:correl_ER' on page 84 undefined on input line 905
+.
+
+
+LaTeX Warning: Reference `eq:ER' on page 84 undefined on input line 911.
+
+
+LaTeX Warning: Reference `eq:ER' on page 84 undefined on input line 914.
+
+
+LaTeX Warning: Reference `fig:compareOldNewER' on page 84 undefined on input li
+ne 915.
+
+
+LaTeX Warning: Reference `fig:newER_embright' on page 84 undefined on input lin
+e 920.
+
+
+LaTeX Warning: Reference `fig:newER_emdarkLong' on page 84 undefined on input l
+ine 920.
+
+
+LaTeX Warning: Reference `fig:newER_gaus_bright' on page 84 undefined on input 
+line 924.
+
+
+LaTeX Warning: Reference `fig:newER_gaus_darkLong' on page 84 undefined on inpu
+t line 924.
+
+)
+
+LaTeX Warning: Reference `LastPage' on page 84 undefined on input line 94.
+
+[84 <./sectionSelection/plotsNewER/cOldNew.png>]
+
+LaTeX Warning: Reference `LastPage' on page 85 undefined on input line 94.
+
+[85 <./sectionSelection/plotsNewER/cL1bright_afterCutER_newER.png> <./sectionSe
+lection/plotsNewER/cL1bright_afterCutMoreER_newER.png> <./sectionSelection/plot
+sNewER/cL1dark_afterCutER_newER.png> <./sectionSelection/plotsNewER/cL1dark_aft
+erCutMoreER_newER.png>]
+
+LaTeX Warning: Reference `LastPage' on page 86 undefined on input line 94.
+
+[86 <./sectionSelection/plotsNewER/cPosterBright_allCut_newER.png> <./sectionSe
+lection/plotsNewER/cPosterDarkLong_allCut_newER.png>] (./these.stc6)
+(./sectionFAR/sectionFAR.tex
+
+LaTeX Warning: Reference `sec:far_coinc' on page 87 undefined on input line 5.
+
+
+LaTeX Warning: Reference `section:selection' on page 87 undefined on input line
+ 12.
+
+
+LaTeX Warning: Reference `fig:fitO3' on page 87 undefined on input line 16.
+
+
+LaTeX Warning: Reference `tab:fitO3' on page 87 undefined on input line 21.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `tab:fitO3' on page 87 undefined on input line 53.
+
+
+LaTeX Warning: Reference `tab:fitO3' on page 87 undefined on input line 53.
+
+
+LaTeX Warning: Reference `fig:simple_fit' on page 87 undefined on input line 58
+.
+
+
+LaTeX Warning: Reference `tab:simple_fit' on page 87 undefined on input line 63
+.
+
+
+LaTeX Warning: Reference `LastPage' on page 87 undefined on input line 67.
+
+[87]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `tab:simple_fit' on page 88 undefined on input line 99
+.
+
+
+LaTeX Warning: Reference `tab:simple_fit' on page 88 undefined on input line 10
+1.
+
+
+LaTeX Warning: Reference `LastPage' on page 88 undefined on input line 142.
+
+[88 <./sectionFAR/simpleFit/cSimpleFitO3.png>]
+
+LaTeX Warning: Reference `LastPage' on page 89 undefined on input line 142.
+
+[89 <./sectionFAR/simpleFit/cSimpleFit_7_8days.png> <./sectionFAR/simpleFit/cSi
+mpleFit_8_8days.png> <./sectionFAR/simpleFit/cSimpleFit_6_6days.png>]
+
+LaTeX Warning: Reference `fig:chirp' on page 90 undefined on input line 148.
+
+
+LaTeX Warning: Reference `fig:single_band_good' on page 90 undefined on input l
+ine 174.
+
+
+LaTeX Warning: Reference `LastPage' on page 90 undefined on input line 177.
+
+[90]
+
+LaTeX Warning: Reference `eq:mfo_combi' on page 91 undefined on input line 188.
+
+
+
+LaTeX Warning: Reference `fig:mfo_PQ' on page 91 undefined on input line 205.
+
+
+LaTeX Warning: Reference `fig:mfoCombi' on page 91 undefined on input line 205.
+
+
+
+LaTeX Warning: Reference `fig:computed_bkg' on page 91 undefined on input line 
+206.
+
+
+LaTeX Warning: Reference `LastPage' on page 91 undefined on input line 211.
+
+[91 <./sectionFAR/GW170817_chirp.png>]
+
+LaTeX Warning: Reference `fig:computed_bkg_cumul' on page 92 undefined on input
+ line 212.
+
+
+LaTeX Warning: Reference `tab:fitCompBkg' on page 92 undefined on input line 21
+4.
+
+
+LaTeX Warning: Reference `tab:simple_fit' on page 92 undefined on input line 21
+5.
+
+
+LaTeX Warning: Reference `fig:computed_splitBand' on page 92 undefined on input
+ line 217.
+
+
+LaTeX Warning: Reference `fig:mfo_PQ' on page 92 undefined on input line 325.
+
+
+LaTeX Warning: Reference `fig:mfo_PQ' on page 92 undefined on input line 325.
+
+
+LaTeX Warning: Reference `fig:computed_bkg' on page 92 undefined on input line 
+369.
+
+
+LaTeX Warning: Reference `fig:computed_bkg' on page 92 undefined on input line 
+369.
+
+
+LaTeX Warning: Reference `LastPage' on page 92 undefined on input line 391.
+
+[92]
+
+LaTeX Warning: Reference `LastPage' on page 93 undefined on input line 391.
+
+[93 <./sectionFAR/O4/cTrig_good_730000.png> <./sectionFAR/O4/cRand_good_730000.
+png> <./sectionFAR/O4/cTrig_good.png> <./sectionFAR/O4/cRand_good.png>]
+
+LaTeX Warning: Reference `LastPage' on page 94 undefined on input line 391.
+
+[94 <./sectionFAR/O4/cTrigMFO.png> <./sectionFAR/O4/cRandMFO.png> <./sectionFAR
+/O4/cCombiMFO.png>]
+
+LaTeX Warning: Reference `LastPage' on page 95 undefined on input line 391.
+
+[95 <./sectionFAR/O4/cSnrMFO.png> <./sectionFAR/O4/cComputedH1.png> <./sectionF
+AR/O4/cComputedL1.png>]
+
+LaTeX Warning: Reference `LastPage' on page 96 undefined on input line 391.
+
+[96 <./sectionFAR/O4/cRateCompCumulH1_380000.png> <./sectionFAR/O4/cRateCompCum
+ulL1_730000.png> <./sectionFAR/O4/cRwSplitTrigH1_380000.png> <./sectionFAR/O4/c
+RwSplitTrigL1_730000.png>]
+
+LaTeX Warning: Reference `LastPage' on page 97 undefined on input line 428.
+
+[97]
+
+LaTeX Warning: Reference `fig:computed_rate' on page 98 undefined on input line
+ 448.
+
+
+LaTeX Warning: Reference `fig:computed_rate_cumul' on page 98 undefined on inpu
+t line 452.
+
+
+LaTeX Warning: Reference `tab:fit_far' on page 98 undefined on input line 452.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `tab:fit_far' on page 98 undefined on input line 538.
+
+
+LaTeX Warning: Reference `tab:fit_far' on page 98 undefined on input line 538.
+
+)
+
+LaTeX Warning: Reference `LastPage' on page 98 undefined on input line 108.
+
+[98]
+
+LaTeX Warning: Reference `LastPage' on page 99 undefined on input line 108.
+
+[99 <./sectionFAR/O4/cRateH1.png> <./sectionFAR/O4/cRateL1.png> <./sectionFAR/O
+4/cRateCumulH1.png> <./sectionFAR/O4/cRateCumulL1.png>]
+
+LaTeX Warning: Reference `LastPage' on page 100 undefined on input line 108.
+
+[100] (./these.stc7) (./sectionImprovement/sectionImprovement.tex
+
+LaTeX Warning: Reference `section:selection' on page 101 undefined on input lin
+e 2.
+
+
+LaTeX Warning: Reference `eq:rwsnr' on page 101 undefined on input line 16.
+
+
+LaTeX Warning: Reference `eq:achi2' on page 101 undefined on input line 17.
+
+
+LaTeX Warning: Reference `fig:achi2_vs_snr' on page 101 undefined on input line
+ 21.
+
+
+LaTeX Warning: Reference `eq:rwsnr' on page 101 undefined on input line 46.
+
+
+LaTeX Warning: Reference `eq:rwsnr' on page 101 undefined on input line 46.
+
+
+LaTeX Warning: Reference `eq:achi2' on page 101 undefined on input line 69.
+
+
+LaTeX Warning: Reference `LastPage' on page 101 undefined on input line 82.
+
+[101]
+
+LaTeX Warning: Reference `eq:snr_dep' on page 102 undefined on input line 86.
+
+
+LaTeX Warning: Reference `fig:fit_profile' on page 102 undefined on input line 
+87.
+
+
+LaTeX Warning: Reference `fig:achi2_vs_snr' on page 102 undefined on input line
+ 87.
+
+
+LaTeX Warning: Reference `eq:rwsnr' on page 102 undefined on input line 171.
+
+
+LaTeX Warning: Reference `LastPage' on page 102 undefined on input line 184.
+
+[102 <./sectionImprovement/rwSNR/cSnrAchi2_L1.png> <./sectionImprovement/rwSNR/
+cSnrRw_L1.png>]
+
+LaTeX Warning: Reference `LastPage' on page 103 undefined on input line 184.
+
+[103 <./sectionImprovement/rwSNR/cProfile_BBH.png> <./sectionImprovement/rwSNR/
+cProfile_BNS.png> <./sectionImprovement/rwSNR/cProfile_NSBH.png>]
+
+LaTeX Warning: Reference `eq:achi2' on page 104 undefined on input line 199.
+
+
+LaTeX Warning: Reference `fig:fit_profile' on page 104 undefined on input line 
+209.
+
+
+LaTeX Warning: Reference `fig:new_achi2vsSNR' on page 104 undefined on input li
+ne 210.
+
+
+LaTeX Warning: Reference `fig:new_thresholds' on page 104 undefined on input li
+ne 212.
+
+
+LaTeX Warning: Reference `eq:new_old_rwsnr' on page 104 undefined on input line
+ 212.
+
+
+LaTeX Warning: Reference `fig:all_thresh' on page 104 undefined on input line 2
+20.
+
+
+LaTeX Warning: Reference `fig:new_thresholds' on page 104 undefined on input li
+ne 220.
+
+
+LaTeX Warning: Reference `eq:new_rwsnr' on page 104 undefined on input line 235
+.
+
+
+LaTeX Warning: Reference `eq:new_rwsnr' on page 104 undefined on input line 235
+.
+
+
+LaTeX Warning: Reference `fig:new_rwsnr_inj' on page 104 undefined on input lin
+e 239.
+
+
+LaTeX Warning: Reference `fig:new_rwsnr_singles' on page 104 undefined on input
+ line 239.
+
+
+LaTeX Warning: Reference `eq:new_rwsnr' on page 104 undefined on input line 239
+.
+
+
+LaTeX Warning: Reference `LastPage' on page 104 undefined on input line 243.
+
+[104 <./sectionImprovement/rwSNR/cSnrAchi2P.png>]
+
+LaTeX Warning: Reference `fig:new_rwsnr_singles' on page 105 undefined on input
+ line 244.
+
+
+LaTeX Warning: Reference `fig:trig30' on page 105 undefined on input line 246.
+
+
+LaTeX Warning: Reference `section:selection' on page 105 undefined on input lin
+e 248.
+
+
+LaTeX Warning: Reference `eq:new_rwsnr' on page 105 undefined on input line 291
+.
+
+
+LaTeX Warning: Reference `eq:new_rwsnr' on page 105 undefined on input line 291
+.
+
+)
+
+LaTeX Warning: Reference `LastPage' on page 105 undefined on input line 119.
+
+[105 <./sectionImprovement/rwSNR/cSnrAchi2_new_L1.png> <./sectionImprovement/rw
+SNR/cSnrAchi2_singles_new_L1.png>]
+
+LaTeX Warning: Reference `LastPage' on page 106 undefined on input line 119.
+
+[106 <./sectionImprovement/rwSNR/cSnrAchi2_new_L1_a12.png> <./sectionImprovemen
+t/rwSNR/cSnrAchi2_new2_L1_a12.png> <./sectionImprovement/rwSNR/cSnrAchi2_single
+s_new_L1_a12.png> <./sectionImprovement/rwSNR/cSnrAchi2_singles_new2_L1_a12.png
+>]
+
+LaTeX Warning: Reference `LastPage' on page 107 undefined on input line 119.
+
+[107 <./sectionImprovement/rwSNR/cRwsnr_a12.png> <./sectionImprovement/rwSNR/cR
+wsnr_singles_a12.png> <./sectionImprovement/rwSNR/1260189658.84_1.png>]
+(./these.stc8) (./sectionBadTriggers/sectionBadTriggers.tex
+
+LaTeX Warning: Reference `section:selection' on page 108 undefined on input lin
+e 1.
+
+
+LaTeX Warning: Reference `section:detection' on page 108 undefined on input lin
+e 10.
+
+
+LaTeX Warning: Reference `fig:rangeO3' on page 108 undefined on input line 28.
+
+
+LaTeX Warning: Reference `LastPage' on page 108 undefined on input line 38.
+
+[108]
+
+LaTeX Warning: Reference `fig:rangeRatioO3' on page 109 undefined on input line
+ 39.
+
+
+LaTeX Warning: Reference `fig:rangeRatioEMbright' on page 109 undefined on inpu
+t line 50.
+
+
+LaTeX Warning: Reference `fig:compare_bright_gaus_selec' on page 109 undefined 
+on input line 54.
+
+
+LaTeX Warning: Reference `fig:compare_bright_gaus_selec' on page 109 undefined 
+on input line 54.
+
+
+LaTeX Warning: Reference `LastPage' on page 109 undefined on input line 57.
+
+[109 <./sectionBadTriggers/PSD/Range/range_ratio/cRangeO3_allCuts.png> <./secti
+onBadTriggers/PSD/Range/range_ratio/cRatioMed_O3.png>]
+
+LaTeX Warning: Reference `fig:rangeRatioEMdarkLong' on page 110 undefined on in
+put line 58.
+
+
+LaTeX Warning: Reference `fig:rangeRatioGaus' on page 110 undefined on input li
+ne 72.
+
+
+LaTeX Warning: Reference `LastPage' on page 110 undefined on input line 80.
+
+[110 <./sectionBadTriggers/PSD/Range/range_ratio/cRatioMed_bright.png> <./secti
+onBadTriggers/PSD/Range/range_ratio/cRatioMed_darkLong.png>]
+
+LaTeX Warning: Reference `section:selection' on page 111 undefined on input lin
+e 81.
+
+
+LaTeX Warning: Reference `fig:compare_bright_gaus_selec' on page 111 undefined 
+on input line 81.
+
+
+LaTeX Warning: Reference `fig:rangeRatioEMbright' on page 111 undefined on inpu
+t line 82.
+
+
+LaTeX Warning: Reference `fig:shiftGausBright' on page 111 undefined on input l
+ine 83.
+
+
+LaTeX Warning: Reference `LastPage' on page 111 undefined on input line 101.
+
+[111 <./sectionBadTriggers/PSD/Range/range_ratio/cRatioMed_Gaus.png> <./section
+BadTriggers/PSD/Reweight/cBrightGausShift.png>]
+
+LaTeX Warning: Reference `fig:rangeRatioAstro' on page 112 undefined on input l
+ine 102.
+
+
+LaTeX Warning: Reference `fig:rangeRatioO3' on page 112 undefined on input line
+ 102.
+
+
+LaTeX Warning: Reference `fig:rangeRatioO3' on page 112 undefined on input line
+ 103.
+
+
+LaTeX Warning: Reference `fig:rangeRatioMDC' on page 112 undefined on input lin
+e 113.
+
+
+LaTeX Warning: Reference `fig:rangeRatioRandomTimes' on page 112 undefined on i
+nput line 137.
+
+
+LaTeX Warning: Reference `LastPage' on page 112 undefined on input line 144.
+
+[112 <./sectionBadTriggers/PSD/Range/range_ratio/cRatioMed_astro.png>]
+
+LaTeX Warning: Reference `LastPage' on page 113 undefined on input line 144.
+
+[113 <./sectionBadTriggers/PSD/Range/range_ratio/cRatioMed_injMDC_bright.png> <
+./sectionBadTriggers/PSD/Range/range_ratio/cRatioMed_injMDC_dark.png>]
+
+LaTeX Warning: Reference `fig:rangeOverTime' on page 114 undefined on input lin
+e 153.
+
+
+LaTeX Warning: Reference `fig:rangeOverTime' on page 114 undefined on input lin
+e 161.
+
+
+LaTeX Warning: Reference `LastPage' on page 114 undefined on input line 179.
+
+[114 <./sectionBadTriggers/PSD/Range/range_ratio/cRatioMed_switchDet.png>]
+
+LaTeX Warning: Reference `LastPage' on page 115 undefined on input line 184.
+
+[115 <./sectionBadTriggers/PSD/Range/range_ratio/cAroundCompare.png> <./section
+BadTriggers/PSD/Range/range_ratio/cAroundCompare_zoom.png>]
+
+LaTeX Warning: Reference `fig:reweightBrightInstant' on page 116 undefined on i
+nput line 196.
+
+
+LaTeX Warning: Reference `fig:rangeOverTime' on page 116 undefined on input lin
+e 202.
+
+
+LaTeX Warning: Reference `fig:reweightBright_b' on page 116 undefined on input 
+line 204.
+
+
+LaTeX Warning: Reference `fig:reweightBright' on page 116 undefined on input li
+ne 210.
+
+
+LaTeX Warning: Reference `LastPage' on page 116 undefined on input line 232.
+
+[116 <./sectionBadTriggers/PSD/Reweight/cThese1_bright.png>]
+
+LaTeX Warning: Reference `fig:reweightGaus' on page 117 undefined on input line
+ 236.
+
+
+LaTeX Warning: Reference `fig:reweightBrightGaus' on page 117 undefined on inpu
+t line 237.
+
+
+LaTeX Warning: Reference `section:selection' on page 117 undefined on input lin
+e 242.
+
+
+LaTeX Warning: Reference `section:selection' on page 117 undefined on input lin
+e 242.
+
+
+LaTeX Warning: Reference `LastPage' on page 117 undefined on input line 251.
+
+[117 <./sectionBadTriggers/PSD/Reweight/cThese2_bright.png> <./sectionBadTrigge
+rs/PSD/Reweight/cReweightBright.png>]
+
+LaTeX Warning: Reference `fig:reweightDarkInstant' on page 118 undefined on inp
+ut line 256.
+
+
+LaTeX Warning: Reference `fig:reweightDark_b' on page 118 undefined on input li
+ne 259.
+
+
+LaTeX Warning: Reference `LastPage' on page 118 undefined on input line 269.
+
+[118 <./sectionBadTriggers/PSD/Reweight/cReweightGausBright.png> <./sectionBadT
+riggers/PSD/Reweight/cReweightBrightGaus.png>]
+
+LaTeX Warning: Reference `section:far' on page 119 undefined on input line 279.
+
+
+
+LaTeX Warning: Reference `LastPage' on page 119 undefined on input line 320.
+
+[119 <./sectionBadTriggers/PSD/Reweight/cThese1_darkLong.png> <./sectionBadTrig
+gers/PSD/Reweight/cThese2_darkLong.png>]
+
+LaTeX Warning: Reference `section:selection' on page 120 undefined on input lin
+e 329.
+
+
+LaTeX Warning: Reference `fig:rangeReal_BNS_10' on page 120 undefined on input 
+line 334.
+
+
+LaTeX Warning: Reference `fig:rangeGaus_BNS_10' on page 120 undefined on input 
+line 334.
+
+
+LaTeX Warning: Reference `fig:rangeReal_BNS_10_1D' on page 120 undefined on inp
+ut line 341.
+
+
+LaTeX Warning: Reference `fig:rangeGaus_BNS_10_1D' on page 120 undefined on inp
+ut line 341.
+
+
+LaTeX Warning: Reference `fig:rangeReal_BNS_50' on page 120 undefined on input 
+line 344.
+
+
+LaTeX Warning: Reference `fig:rangeGaus_BNS_50' on page 120 undefined on input 
+line 344.
+
+
+LaTeX Warning: Reference `fig:rangeReal_BBH_10' on page 120 undefined on input 
+line 348.
+
+
+LaTeX Warning: Reference `fig:rangeGaus_BBH_10' on page 120 undefined on input 
+line 348.
+
+
+LaTeX Warning: Reference `fig:rangeReal_BBH_10_1D' on page 120 undefined on inp
+ut line 350.
+
+
+LaTeX Warning: Reference `fig:rangeGaus_BBH_10_1D' on page 120 undefined on inp
+ut line 350.
+
+
+LaTeX Warning: Reference `fig:rangeReal_BBH_50' on page 120 undefined on input 
+line 351.
+
+
+LaTeX Warning: Reference `fig:rangeGaus_BBH_50' on page 120 undefined on input 
+line 351.
+
+)
+
+LaTeX Warning: Reference `LastPage' on page 120 undefined on input line 129.
+
+[120]
+
+LaTeX Warning: Reference `LastPage' on page 121 undefined on input line 129.
+
+[121 <./sectionBadTriggers/PSD/Range/range_PSD/cReal_L1_BNS.png> <./sectionBadT
+riggers/PSD/Range/range_PSD/cGaus_L1_BNS.png>]
+
+LaTeX Warning: Reference `LastPage' on page 122 undefined on input line 129.
+
+[122 <./sectionBadTriggers/PSD/Range/range_PSD/c1DReal_L1.png> <./sectionBadTri
+ggers/PSD/Range/range_PSD/c1DGaus_L1.png>]
+
+LaTeX Warning: Reference `LastPage' on page 123 undefined on input line 129.
+
+[123 <./sectionBadTriggers/PSD/Range/range_PSD/cReal_L1_50Hz_BNS.png> <./sectio
+nBadTriggers/PSD/Range/range_PSD/cGaus_L1_50Hz_BNS.png>]
+
+LaTeX Warning: Reference `LastPage' on page 124 undefined on input line 129.
+
+[124 <./sectionBadTriggers/PSD/Range/range_PSD/cReal_L1_BBH.png> <./sectionBadT
+riggers/PSD/Range/range_PSD/cGaus_L1_BBH.png>]
+
+LaTeX Warning: Reference `LastPage' on page 125 undefined on input line 129.
+
+[125]
+
+LaTeX Warning: Reference `LastPage' on page 126 undefined on input line 129.
+
+[126 <./sectionBadTriggers/PSD/Range/range_PSD/cReal_L1_50Hz_BBH.png> <./sectio
+nBadTriggers/PSD/Range/range_PSD/cGaus_L1_50Hz_BBH.png>] (./these.stc9)
+(./sectionO4/sectionO4.tex
+
+LaTeX Warning: Reference `fig:dc_O4' on page 127 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:all_singles_O4' on page 127 undefined on input li
+ne 18.
+
+
+LaTeX Warning: Reference `fig:tempdur_O4' on page 127 undefined on input line 2
+1.
+
+
+LaTeX Warning: Reference `LastPage' on page 127 undefined on input line 24.
+
+[127 <./sectionO4/cDutyCycle.png>]
+
+LaTeX Warning: Reference `fig:tempdur_embright_O4' on page 128 undefined on inp
+ut line 31.
+
+
+LaTeX Warning: Reference `fig:tempdur_O4' on page 128 undefined on input line 3
+2.
+
+
+LaTeX Warning: Reference `fig:embright_O4' on page 128 undefined on input line 
+34.
+
+
+LaTeX Warning: Reference `section:selection' on page 128 undefined on input lin
+e 34.
+
+
+LaTeX Warning: Reference `fig:embright_O4' on page 128 undefined on input line 
+38.
+
+
+LaTeX Warning: Reference `section:selection' on page 128 undefined on input lin
+e 67.
+
+
+LaTeX Warning: Reference `section:selection' on page 128 undefined on input lin
+e 67.
+
+
+LaTeX Warning: Reference `LastPage' on page 128 undefined on input line 81.
+
+[128 <./sectionO4/cRwSnrO4.png>]
+
+LaTeX Warning: Reference `LastPage' on page 129 undefined on input line 81.
+
+[129 <./sectionO4/cSnrTempDur_all.png> <./sectionO4/cSnrTempDur_bright.png>]
+
+LaTeX Warning: Reference `fig:cutER_bright_O4' on page 130 undefined on input l
+ine 81.
+
+
+LaTeX Warning: Reference `fig:cutGating_bright_O4' on page 130 undefined on inp
+ut line 81.
+
+
+LaTeX Warning: Reference `fig:cutER_dark_O4' on page 130 undefined on input lin
+e 85.
+
+
+LaTeX Warning: Reference `fig:cutGating_dark_O4' on page 130 undefined on input
+ line 85.
+
+
+LaTeX Warning: Reference `tab:dc_cut_O4' on page 130 undefined on input line 86
+.
+
+
+LaTeX Warning: Reference `LastPage' on page 130 undefined on input line 141.
+
+[130 <./sectionO4/cRwSnr_bright.png>]
+
+LaTeX Warning: Reference `LastPage' on page 131 undefined on input line 141.
+
+[131 <./sectionO4/compareCutER_bright.png> <./sectionO4/compareCutGating_bright
+.png>]
+
+LaTeX Warning: Reference `LastPage' on page 132 undefined on input line 141.
+
+[132 <./sectionO4/compareCutER_dark.png> <./sectionO4/compareCutGating_dark.png
+>]
+
+LaTeX Warning: Reference `fig:computed_bkg_O4' on page 133 undefined on input l
+ine 146.
+
+
+LaTeX Warning: Reference `fig:cumulative_bkg_O4' on page 133 undefined on input
+ line 154.
+
+
+LaTeX Warning: Reference `tab:fitO4' on page 133 undefined on input line 156.
+
+
+LaTeX Warning: Reference `fig:cumulative_bkg_O4' on page 133 undefined on input
+ line 158.
+
+
+LaTeX Warning: Reference `tab:fitO4' on page 133 undefined on input line 158.
+
+
+Overfull \hbox (1.38503pt too wide) in paragraph at lines 163--169
+ [][] 
+
+Overfull \hbox (1.38503pt too wide) in paragraph at lines 173--179
+ [][] 
+)
+
+LaTeX Warning: Reference `LastPage' on page 133 undefined on input line 140.
+
+[133]
+
+LaTeX Warning: Reference `LastPage' on page 134 undefined on input line 140.
+
+[134 <./sectionO4/cPosterO4_HL.png> <./sectionO4/cPosterCumO4_HL.png>]
+(./these.stc10) (./sectionConclusion/sectionConclusion.tex
+
+LaTeX Warning: Reference `section:selection' on page 135 undefined on input lin
+e 3.
+
+
+LaTeX Warning: Reference `section:far' on page 135 undefined on input line 4.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--5
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--16
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--30
+
+
+LaTeX Warning: Reference `section:rwSnr' on page 135 undefined on input line 32
+.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--40
+
+
+LaTeX Warning: Reference `LastPage' on page 135 undefined on input line 40.
+
+[135]
+
+LaTeX Warning: Reference `section:bad_triggers' on page 136 undefined on input 
+line 41.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--45
+
+)
+
+LaTeX Warning: Reference `LastPage' on page 136 undefined on input line 152.
+
+[136]
+
+LaTeX Warning: Reference `LastPage' on page 137 undefined on input line 156.
+
+[137]
+
+LaTeX Warning: Reference `LastPage' on page 138 undefined on input line 156.
+
+[138]
+
+LaTeX Warning: Reference `LastPage' on page 139 undefined on input line 156.
+
+[139]
+
+LaTeX Warning: Reference `LastPage' on page 140 undefined on input line 156.
+
+[140]
+
+LaTeX Warning: Reference `LastPage' on page 141 undefined on input line 156.
+
+[141]
+
+LaTeX Warning: Reference `LastPage' on page 142 undefined on input line 158.
+
+[142] [143 <./1er_4eme_couverture-ED182.pdf>]
+
+Package lastpage Warning: Rerun to get the references right on input line 160.
+
+
+AED: lastpage setting LastPage
+
+Package minitoc(hints) Warning: W0049
+(minitoc(hints))                You have attempted to insert 
+(minitoc(hints))                empty secttocs.
+
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the these.log file.
+
+
+LaTeX Warning: Reference `LastPage' on page 144 undefined on input line 160.
+
+[144] (./these.aux)
+
+Package rerunfilecheck Warning: File `these.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                these
+(biblatex)                and rerun LaTeX afterwards.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf/fonts/enc
+/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm1200.pfb>
+Output written on these.pdf (144 pages, 9183797 bytes).
+Transcript written on these.log.

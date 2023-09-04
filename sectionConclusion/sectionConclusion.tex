@@ -1,0 +1,47 @@
+The primary goal of this PhD work was to develop an analysis of the single detector triggers for the MBTA pipeline.
+There were two main challenges to face.
+The first one, discussed in chapter \ref{section:selection}, was to reduce the background in order to have the best possible separation between astrophysical signals and background in terms of ranking statistics.
+The second one, detailed in chapter \ref{section:far} was to estimate the significance of the candidates through the computation of a false alarm rate.\\
+
+To reduce the background, the first decision was to focus on a smaller region of the parameter space.
+This region, called EM bright and defined as hasRemnant $> 0.1\%$, is associated to longer templates and encompasses the triggers that have a chance to have an electromagnetic counterpart.
+The background associated to this EM bright population was already much lower, both in terms of number of trigger and rwSNR values.
+In order to prepare future studies, we still considered the EM dark population (triggers complementary to the EM bright population).
+This population is associated to much shorter templates.
+It was shown that some short templates produce more triggers with sometimes high ranking statistics.
+We then used noise rejection tools to define selection criteria for the single detector triggers.
+These criteria allow to significantly reduce the background and have a clearer separation between astrophysical signals and noise triggers.
+The losses of duty cycle due to the criteria are 9.1\% in H1, 15.4\% in L1 and 9.8\% in V1.
+They are largely compensated by the gain in volume for the search.\\
+
+Once the background was under control, we looked into ways to compute the false alarm rate of the candidates.
+Since the background has an exponential shape after we apply the selection criteria, a straightforward way is to parametrize the rwSNR distribution with an exponential function.
+However this method is not guaranteed to be robust in case of some bad days with lots of noise.
+We therefore considered a different approach.
+Motivated by the method used for the coincidence search, we use MBTA's 2-band structure to build an estimation of the background by making fake coincidences with the signals observed in each band.
+% These fake coincidences are made by combining individual band triggers with individual band random noise or triggers at random times.
+% The only requirement to combine them is that their real templates can be combined into a virtual template of the bank.
+% We used this method to make two estimations of the background.
+% One using only trigger-random noise coincidences and the other using trigger-trigger coincidences.
+% The estimation obtained from trigger-random noise coincidences generally under-estimated the background.
+% On the other hand the one obtained from trigger-trigger coincidences largely over-estimates the background and has a less steep slope.
+% To avoid sending false alerts at the begining of O4 it was decided to use the over-estimated background, scaled to have a rate comparable to the observed background.
+The computed background also has an exponential shape and therefore validate the extrapolation which could be made on the observed background distribution to reach low false alarm rate values.\\
+
+Two additional studies were conducted to pave the way for possible future improvements of the pipeline.
+One was an attempt at improving a signal consistency test to recover more astrophysical signals and make them more significant, described in chapter \ref{section:rwSnr}.
+A known issue was that this signal consistency test tends to downgrade too heavily very loud events.
+This means that loud astrophysical events can become much less significant after application of the test.
+This behaviour comes from the discrete nature of the template bank.
+To mitigate this effect a modified test was defined by including a term dependent on the SNR.
+It allows to ``flatten'' the behaviour of the test result as a function of the SNR.
+This was followed-up with some work to tune the parameters of the reweighting formula used to downgrade the candidates in order to maximize the recovery of injections while not increasing the background.
+The results were not convincing enough to decide to proceed with the changes for the fourth observing run but it could be used by future studies.\\
+
+The other work carried out in section \ref{section:bad_triggers} focused on understanding the differences between single detector triggers obtained from real data and single detector triggers obtained by analyzing simulated Gaussian noise (strain).
+We showed that single detector triggers tend to be detected at times where there was a drop in the detector sensitivity, meaning that their SNR is over-estimated.
+We then explored the possibility of using the detector range variations to apply a correction to the SNR in order to mitigate the effect.
+Finally we also highlighted differences between the range computed on real data and the range computed on Gaussian noise.\\
+
+All of this work allowed to start safely the single detector triggers search at the begining of O4.
+There is still room for improvements in all aspects to make the search even more sensitive during O4 as we gradually increase our knowledge of the background.

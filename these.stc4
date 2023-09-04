@@ -1,0 +1,23 @@
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.1}Overview of the MBTA pipeline}{\reset@font\stcSSfont 33}{subsection.4.1}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2}Gating}{\reset@font\stcSSfont 34}{subsection.4.2}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3}Matched Filtering}{\reset@font\stcSSfont 35}{subsection.4.3}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4}PSD computation}{\reset@font\stcSSfont 37}{subsection.4.4}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.5}Frequency range of the search}{\reset@font\stcSSfont 39}{subsection.4.5}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.6}Multi-band analysis}{\reset@font\stcSSfont 43}{subsection.4.6}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.6.1}Combining bands}{\reset@font\stcSSSfont 44}{subsubsection.4.6.1}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.7}MBTA parameter space and template bank generation}{\reset@font\stcSSfont 45}{subsection.4.7}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.7.1}MBTA's O3 main template bank}{\reset@font\stcSSSfont 46}{subsubsection.4.7.1}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.7.2}MBTA's O4 template bank}{\reset@font\stcSSSfont 48}{subsubsection.4.7.2}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.8}Single detector triggers search}{\reset@font\stcSSfont 48}{subsection.4.8}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.8.1}Signal consistency test: $\chi ^2$}{\reset@font\stcSSSfont 49}{subsubsection.4.8.1}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.8.2}\textrm {auto$\chi ^2$} and rwSNR}{\reset@font\stcSSSfont 50}{subsubsection.4.8.2}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.8.3}Excess rate and ranking statistics}{\reset@font\stcSSSfont 51}{subsubsection.4.8.3}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.9}Coincidence search}{\reset@font\stcSSfont 51}{subsection.4.9}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.10}Clustering}{\reset@font\stcSSfont 53}{subsection.4.10}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.11}FAR computation during O3}{\reset@font\stcSSfont 53}{subsection.4.11}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.11.1}FAR for a single search}{\reset@font\stcSSSfont 53}{subsubsection.4.11.1}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.11.2}Global search FAR}{\reset@font\stcSSSfont 58}{subsubsection.4.11.2}}
+{\reset@font\stcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.12}Probability of astrophysical origin and source classification}{\reset@font\stcSSfont 59}{subsection.4.12}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.12.1}p$_{\textrm {astro}}$, p$_{\textrm {source}}$}{\reset@font\stcSSSfont 60}{subsubsection.4.12.1}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.12.2}hasNS, hasRemnant}{\reset@font\stcSSSfont 60}{subsubsection.4.12.2}}
+{\reset@font\stcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.12.3}Evolution for O4: FAR(p$_{\textrm {astro}}$)}{\reset@font\stcSSSfont 61}{subsubsection.4.12.3}}

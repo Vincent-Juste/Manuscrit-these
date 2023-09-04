@@ -1,0 +1,3946 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{gw150914}{article}{}
+      \name{author}{2}{}{%
+        {{hash=15458d905f4ccc1d4f1ed042fd3c0052}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={LIGO\bibnamedelima Scientific},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bf08d99068075a7a4fee044da18941aa}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={Virgo},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{22ee89513c55959bd49fb014981be19c}
+      \strng{fullhash}{22ee89513c55959bd49fb014981be19c}
+      \strng{bibnamehash}{22ee89513c55959bd49fb014981be19c}
+      \strng{authorbibnamehash}{22ee89513c55959bd49fb014981be19c}
+      \strng{authornamehash}{22ee89513c55959bd49fb014981be19c}
+      \strng{authorfullhash}{22ee89513c55959bd49fb014981be19c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{6}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{02}
+      \field{title}{Observation of Gravitational Waves from a Binary Black Hole Merger}
+      \field{volume}{116}
+      \field{year}{2016}
+      \field{pages}{061102}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.116.061102
+      \endverb
+    \endentry
+    \entry{LVK_lensing}{article}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{gr-qc}
+      \field{eprinttype}{arXiv}
+      \field{title}{Search for gravitational-lensing signatures in the full third observing run of the LIGO-Virgo network}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2304.08393
+      \endverb
+    \endentry
+    \entry{lensing_beating}{article}{}
+      \name{author}{2}{}{%
+        {{hash=945c572e405fd8b3974fb555fc5349f5}{%
+           family={Bulashenko},
+           familyi={B\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a10a674eabfe18220be396980eeb340b}{%
+           family={Ubach},
+           familyi={U\bibinitperiod},
+           given={Helena},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{d976ec9b101713aa9ac4318e4f840e16}
+      \strng{fullhash}{d976ec9b101713aa9ac4318e4f840e16}
+      \strng{bibnamehash}{d976ec9b101713aa9ac4318e4f840e16}
+      \strng{authorbibnamehash}{d976ec9b101713aa9ac4318e4f840e16}
+      \strng{authornamehash}{d976ec9b101713aa9ac4318e4f840e16}
+      \strng{authorfullhash}{d976ec9b101713aa9ac4318e4f840e16}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cosmology and Astroparticle Physics}
+      \field{month}{07}
+      \field{number}{07}
+      \field{title}{Lensing of gravitational waves: universal signatures in the beating pattern}
+      \field{volume}{2022}
+      \field{year}{2022}
+      \field{pages}{022}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1475-7516/2022/07/022
+      \endverb
+    \endentry
+    \entry{LVK_cw}{article}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{11}
+      \field{number}{10}
+      \field{title}{All-sky search for continuous gravitational waves from isolated neutron stars using Advanced {LIGO} and Advanced Virgo O3 data}
+      \field{volume}{106}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1103/physrevd.106.102008
+      \endverb
+    \endentry
+    \entry{LVK_burst}{article}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{3}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{All-sky search for short gravitational-wave bursts in the third Advanced {LIGO} and Advanced Virgo run}
+      \field{volume}{104}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1103/physrevd.104.122004
+      \endverb
+    \endentry
+    \entry{stochastic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d29cfd823e643e4d83ae02328d63d67c}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Nelson},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{d29cfd823e643e4d83ae02328d63d67c}
+      \strng{fullhash}{d29cfd823e643e4d83ae02328d63d67c}
+      \strng{bibnamehash}{d29cfd823e643e4d83ae02328d63d67c}
+      \strng{authorbibnamehash}{d29cfd823e643e4d83ae02328d63d67c}
+      \strng{authornamehash}{d29cfd823e643e4d83ae02328d63d67c}
+      \strng{authorfullhash}{d29cfd823e643e4d83ae02328d63d67c}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reports on Progress in Physics}
+      \field{month}{11}
+      \field{number}{1}
+      \field{title}{Stochastic gravitational wave backgrounds}
+      \field{volume}{82}
+      \field{year}{2018}
+      \field{pages}{016903}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6633/aae6b5
+      \endverb
+    \endentry
+    \entry{cmb}{article}{}
+      \name{author}{22}{}{%
+        {{hash=9f5ad330334da3d31c5fbe60f7550f6c}{%
+           family={Hanany},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fd270195018f636320d9cce61d4c8554}{%
+           family={Ade},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=739d70b2dade97dd28d97f6f615dba55}{%
+           family={Balbi},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1189cfb4aa58217881305546803504f5}{%
+           family={Bock},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c0330a692fb9be8a84540dadebd51097}{%
+           family={Borrill},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1c8e8eab2f3df92f3330b406327b8892}{%
+           family={Boscaleri},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f3799d91c45bd1e6f951f6f842cef7ab}{%
+           family={Bernardis},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=42402e510611703ffcbc1c3fc720aae3}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={P.\bibnamedelimi G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=ad06d898339a7eca22243b903721fd69}{%
+           family={Hristov},
+           familyi={H\bibinitperiod},
+           given={V.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=dd65fbdeffb13c676c938fc92d60c390}{%
+           family={Jaffe},
+           familyi={J\bibinitperiod},
+           given={A.\bibnamedelimi H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e1d84f831580d389c9a79a1d1d310758}{%
+           family={Lange},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e4e8e23ec01016b59f9df1bc107f6552}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=3ac0350c874519973c58e75477fa42dd}{%
+           family={Mauskopf},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d930337d90ce6e21b0ba183a020ef197}{%
+           family={Netterfield},
+           familyi={N\bibinitperiod},
+           given={C.\bibnamedelimi B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=a252f407739a0e7cce8eba6b55ae7285}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=10eb6be5df84ef7ddf05672a3df26039}{%
+           family={Pascale},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6b08b6c541ef79a67dc776bd930a53c5}{%
+           family={Rabii},
+           familyi={R\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6869d583974d6b867c6dcc804c498eea}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={P.\bibnamedelimi L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6acce93199a96a05d9f2c240d0b3500c}{%
+           family={Smoot},
+           familyi={S\bibinitperiod},
+           given={G.\bibnamedelimi F.},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=2d613a621f86a5e9ba3e14cfd09bcdeb}{%
+           family={Stompor},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=06bc4dcf9f3b2cc6bb940cc95229395f}{%
+           family={Winant},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=33789afef074326b436c64d9d1e21130}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={J.\bibnamedelimi H.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Astronomical Society}%
+      }
+      \strng{namehash}{f4e19d63a0904ab6f67086d111a1a8ab}
+      \strng{fullhash}{45d4bd0f59d2748883985715cbbc00b3}
+      \strng{bibnamehash}{f4e19d63a0904ab6f67086d111a1a8ab}
+      \strng{authorbibnamehash}{f4e19d63a0904ab6f67086d111a1a8ab}
+      \strng{authornamehash}{f4e19d63a0904ab6f67086d111a1a8ab}
+      \strng{authorfullhash}{45d4bd0f59d2748883985715cbbc00b3}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{MAXIMA}-1: A Measurement of the Cosmic Microwave Background Anisotropy on Angular Scales of 10 arcminutes to 5 degrees}
+      \field{volume}{545}
+      \field{year}{2000}
+      \field{pages}{L5\bibrangedash L9}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1086/317322
+      \endverb
+    \endentry
+    \entry{LVK_stochastic_aniso}{article}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{4}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{07}
+      \field{number}{2}
+      \field{title}{Search for anisotropic gravitational-wave backgrounds using data from Advanced {LIGO} and Advanced Virgo's first three observing runs}
+      \field{volume}{104}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1103/physrevd.104.022005
+      \endverb
+    \endentry
+    \entry{LVK_stochastic_iso}{article}{}
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{09}
+      \field{number}{6}
+      \field{title}{Search for the isotropic stochastic background using data from Advanced {LIGO}'s second observing run}
+      \field{volume}{100}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1103/physrevd.100.061101
+      \endverb
+    \endentry
+    \entry{polarization}{article}{}
+      \name{author}{2}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{fullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{bibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorbibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authornamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorfullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{05}
+      \field{number}{20}
+      \field{title}{Search for Tensor, Vector, and Scalar Polarizations in the Stochastic Gravitational-Wave Background}
+      \field{volume}{120}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1103/physrevlett.120.201102
+      \endverb
+    \endentry
+    \entry{Will_2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=56c0c82b9280e8a5970d790381c76805}{%
+           family={Will},
+           familyi={W\bibinitperiod},
+           given={Clifford\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{fullhash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{bibnamehash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{authorbibnamehash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{authornamehash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{authorfullhash}{56c0c82b9280e8a5970d790381c76805}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Living Reviews in Relativity}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{The Confrontation between General Relativity and Experiment}
+      \field{volume}{17}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.12942/lrr-2014-4
+      \endverb
+    \endentry
+    \entry{luminosity_distance}{article}{}
+      \name{author}{4}{}{%
+        {{hash=13cb5e44e7a1ef327f10291250bca30b}{%
+           family={Fanizza},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=200eb1ddd4d8ae3c5980b36273dc8d39}{%
+           family={Franchini},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=819103a3cfd48562ec476ad6f97302b4}{%
+           family={Gasperini},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cd9b1c3f4c35e7c432745f85b72c0743}{%
+           family={Tedesco},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{1d2659b116598277daf831a32e091858}
+      \strng{fullhash}{31df71f361d2b8cafadca9ac3df98c84}
+      \strng{bibnamehash}{1d2659b116598277daf831a32e091858}
+      \strng{authorbibnamehash}{1d2659b116598277daf831a32e091858}
+      \strng{authornamehash}{1d2659b116598277daf831a32e091858}
+      \strng{authorfullhash}{31df71f361d2b8cafadca9ac3df98c84}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{General Relativity and Gravitation}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Comparing the luminosity distance for gravitational waves and electromagnetic signals in a simple model of quadratic gravity}
+      \field{volume}{52}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1007/s10714-020-02760-5
+      \endverb
+    \endentry
+    \entry{findchirp}{article}{}
+      \name{author}{5}{}{%
+        {{hash=70d85e25a637e905b5226e0cdad744cc}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+        {{hash=833034fee4438d42359626289416d966}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Warren\bibnamedelima G.},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d9774cbb9ea6e0460e859ce92565050d}{%
+           family={Brady},
+           familyi={B\bibinitperiod},
+           given={Patrick\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=ca67d0472bda98be3a5a24754b405880}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Duncan\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e7b78a07387b7d2fc5bfaf5695aba42d}{%
+           family={Creighton},
+           familyi={C\bibinitperiod},
+           given={Jolien\bibnamedelimb D.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{682371727361cac79a7e2996b180206d}
+      \strng{fullhash}{01feb5d2e494ab5e3fca53c4a98884b8}
+      \strng{bibnamehash}{682371727361cac79a7e2996b180206d}
+      \strng{authorbibnamehash}{682371727361cac79a7e2996b180206d}
+      \strng{authornamehash}{682371727361cac79a7e2996b180206d}
+      \strng{authorfullhash}{01feb5d2e494ab5e3fca53c4a98884b8}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{06}
+      \field{number}{12}
+      \field{title}{{FINDCHIRP}: An algorithm for detection of gravitational waves from inspiraling compact binaries}
+      \field{volume}{85}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1103/physrevd.85.122006
+      \endverb
+    \endentry
+    \entry{polarization_novak}{article}{}
+      \name{author}{2}{}{%
+        {{hash=246e4191c19d536a346563fa8b3c4d6e}{%
+           family={Le\bibnamedelima Tiec},
+           familyi={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b71a1036e0c1fd5daa05f0a50083bf51}{%
+           family={Novak},
+           familyi={N\bibinitperiod},
+           given={Jerome},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8236ca83def8ff4490c7f80832c56ddd}
+      \strng{fullhash}{8236ca83def8ff4490c7f80832c56ddd}
+      \strng{bibnamehash}{8236ca83def8ff4490c7f80832c56ddd}
+      \strng{authorbibnamehash}{8236ca83def8ff4490c7f80832c56ddd}
+      \strng{authornamehash}{8236ca83def8ff4490c7f80832c56ddd}
+      \strng{authorfullhash}{8236ca83def8ff4490c7f80832c56ddd}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{An Overview of Gravitational Waves: Theory, Sources and Detection}
+      \field{month}{07}
+      \field{title}{Theory of Gravitational Waves}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1142/10082
+      \endverb
+    \endentry
+    \entry{multimessenger}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cab9001eb13a10ed98c6aef60b0015c3}{%
+           family={M{é}sz{á}ros},
+           familyi={M\bibinitperiod},
+           given={P{é}ter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f189e1ec963085688c4ac243354d2ba4}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Derek\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ffad8f80c3a52dd996cd4f83aef2f6c9}{%
+           family={Hanna},
+           familyi={H\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5a5c232e4dd8ab3f1846eeb04979acd6}{%
+           family={Murase},
+           familyi={M\bibinitperiod},
+           given={Kohta},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{9eb126a5b66125ba2b260acfc9bd1372}
+      \strng{fullhash}{5fc8e702a6a8f7a8bdbcac7dcbc17c68}
+      \strng{bibnamehash}{9eb126a5b66125ba2b260acfc9bd1372}
+      \strng{authorbibnamehash}{9eb126a5b66125ba2b260acfc9bd1372}
+      \strng{authornamehash}{9eb126a5b66125ba2b260acfc9bd1372}
+      \strng{authorfullhash}{5fc8e702a6a8f7a8bdbcac7dcbc17c68}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Physics}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Multi-messenger astrophysics}
+      \field{volume}{1}
+      \field{year}{2019}
+      \field{pages}{585\bibrangedash 599}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1038/s42254-019-0101-z
+      \endverb
+    \endentry
+    \entry{blazar_neutrino}{article}{}
+      \name{author}{16}{}{%
+        {{hash=b30665de874844f5f99044116effb0f8}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima IceCube},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=0c0427bebc2541f43607437480eca244}{%
+           family={Fermi-LAT},
+           familyi={F\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=cff42d769fc6a027224a1a20c4ab567a}{%
+           family={MAGIC},
+           familyi={M\bibinitperiod}}}%
+        {{hash=77d2896c3eb544541f9389fe42651b0d}{%
+           family={AGILE},
+           familyi={A\bibinitperiod}}}%
+        {{hash=79388b1c968c46d755ec266e08095cb5}{%
+           family={ASAS-SN},
+           familyi={A\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=5069617dec27e75515f30cb56a1eb1ce}{%
+           family={HAWC},
+           familyi={H\bibinitperiod}}}%
+        {{hash=07ebd2eafdec871b14fcf3f9e948a765}{%
+           family={H.E.S.S},
+           familyi={H\bibinitperiod}}}%
+        {{hash=f36486258ab7a6bde60e99c2b88553d5}{%
+           family={INTEGRAL},
+           familyi={I\bibinitperiod}}}%
+        {{hash=64a9e9253acb92bbebe6dc16c71db0f9}{%
+           family={Kanata},
+           familyi={K\bibinitperiod}}}%
+        {{hash=35bd3c6a17b6aa19965226a66f502057}{%
+           family={Kiso},
+           familyi={K\bibinitperiod}}}%
+        {{hash=e63b09109954de6a65b2a48733e8f8b5}{%
+           family={Kapteyn},
+           familyi={K\bibinitperiod}}}%
+        {{hash=97a5c4939a5b94ceebfc4876dab2df9e}{%
+           family={telescope},
+           familyi={t\bibinitperiod},
+           given={Liverpool},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a8840086a77a47f338f84df4b5f3b16f}{%
+           family={Subaru},
+           familyi={S\bibinitperiod}}}%
+        {{hash=beb5e627abbec6b67eb8c385a73add66}{%
+           family={Swift/NuSTAR},
+           familyi={S\bibinitperiod}}}%
+        {{hash=c1da41849e8351a8282c5d94317dabdc}{%
+           family={VERITAS},
+           familyi={V\bibinitperiod}}}%
+        {{hash=89db7d5a6f50a995e2d5f6a1c6f877ce}{%
+           family={teams},
+           familyi={t\bibinitperiod},
+           given={VLA/17B-403},
+           giveni={V\bibinithyphendelim 4\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science ({AAAS})}%
+      }
+      \strng{namehash}{b83d7f6f76d84d2ce1720ac3decca95f}
+      \strng{fullhash}{427c783113655bb06cd58deb24d7fdf3}
+      \strng{bibnamehash}{b83d7f6f76d84d2ce1720ac3decca95f}
+      \strng{authorbibnamehash}{b83d7f6f76d84d2ce1720ac3decca95f}
+      \strng{authornamehash}{b83d7f6f76d84d2ce1720ac3decca95f}
+      \strng{authorfullhash}{427c783113655bb06cd58deb24d7fdf3}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{month}{07}
+      \field{number}{6398}
+      \field{title}{Multimessenger observations of a flaring blazar coincident with high-energy neutrino {IceCube}-170922A}
+      \field{volume}{361}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1126/science.aat1378
+      \endverb
+    \endentry
+    \entry{agn_neutrino}{article}{}
+      \name{author}{1}{}{%
+        {{hash=be631a59d2209b33c6c5823fb2afa5b1}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={IceCube},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science ({AAAS})}%
+      }
+      \strng{namehash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{fullhash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{bibnamehash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{authorbibnamehash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{authornamehash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{authorfullhash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{month}{11}
+      \field{number}{6619}
+      \field{title}{Evidence for neutrino emission from the nearby active galaxy {NGC} 1068}
+      \field{volume}{378}
+      \field{year}{2022}
+      \field{pages}{538\bibrangedash 543}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1126/science.abg3395
+      \endverb
+    \endentry
+    \entry{hen_gw_antares}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b0e5282ec168525f06bb17d69b6463ac}{%
+           family={collaboration},
+           familyi={c\bibinitperiod},
+           given={The\bibnamedelima ANTARES},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{b0e5282ec168525f06bb17d69b6463ac}
+      \strng{fullhash}{b0e5282ec168525f06bb17d69b6463ac}
+      \strng{bibnamehash}{b0e5282ec168525f06bb17d69b6463ac}
+      \strng{authorbibnamehash}{b0e5282ec168525f06bb17d69b6463ac}
+      \strng{authornamehash}{b0e5282ec168525f06bb17d69b6463ac}
+      \strng{authorfullhash}{b0e5282ec168525f06bb17d69b6463ac}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cosmology and Astroparticle Physics}
+      \field{month}{04}
+      \field{number}{04}
+      \field{title}{Search for neutrino counterparts to the gravitational wave sources from LIGO/Virgo O3 run with the ANTARES detector}
+      \field{volume}{2023}
+      \field{year}{2023}
+      \field{pages}{004}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1475-7516/2023/04/004
+      \endverb
+    \endentry
+    \entry{hen_gw_icecube}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=be631a59d2209b33c6c5823fb2afa5b1}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={IceCube},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{fullhash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{bibnamehash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{authorbibnamehash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{authornamehash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \strng{authorfullhash}{be631a59d2209b33c6c5823fb2afa5b1}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{title}{A Search for IceCube sub-TeV Neutrinos Correlated with Gravitational-Wave Events Detected By LIGO/Virgo}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2303.15970
+      \endverb
+    \endentry
+    \entry{gw170817_multi}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=4620614ad34308ab8c2ee8d4a7df43d7}{%
+           family={Abbott},
+           familyi={A\bibinitperiod},
+           given={B.\bibnamedelimi P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Astronomical Society}%
+      }
+      \strng{namehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{fullhash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{bibnamehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{authorbibnamehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{authornamehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{authorfullhash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{Multi-messenger Observations of a Binary Neutron Star Merger}
+      \field{volume}{848}
+      \field{year}{2017}
+      \field{pages}{L12}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/2041-8213/aa91c9
+      \endverb
+    \endentry
+    \entry{gw170817_multi_2}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=4620614ad34308ab8c2ee8d4a7df43d7}{%
+           family={Abbott},
+           familyi={A\bibinitperiod},
+           given={B.\bibnamedelimi P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The American Astronomical Society}%
+      }
+      \strng{namehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{fullhash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{bibnamehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{authorbibnamehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{authornamehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{authorfullhash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical Journal Letters}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{Gravitational Waves and Gamma-Rays from a Binary Neutron Star Merger: GW170817 and GRB 170817A}
+      \field{volume}{848}
+      \field{year}{2017}
+      \field{pages}{L13}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/2041-8213/aa920c
+      \endverb
+    \endentry
+    \entry{Will_1998}{article}{}
+      \name{author}{1}{}{%
+        {{hash=56c0c82b9280e8a5970d790381c76805}{%
+           family={Will},
+           familyi={W\bibinitperiod},
+           given={Clifford\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{fullhash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{bibnamehash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{authorbibnamehash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{authornamehash}{56c0c82b9280e8a5970d790381c76805}
+      \strng{authorfullhash}{56c0c82b9280e8a5970d790381c76805}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{02}
+      \field{number}{4}
+      \field{title}{Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries}
+      \field{volume}{57}
+      \field{year}{1998}
+      \field{pages}{2061\bibrangedash 2068}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1103/physrevd.57.2061
+      \endverb
+    \endentry
+    \entry{testingGR}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{gr-qc}
+      \field{eprinttype}{arXiv}
+      \field{title}{Tests of General Relativity with GWTC-3}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 2112.06861
+      \endverb
+    \endentry
+    \entry{other_polarization_cw}{article}{}
+      \name{author}{2}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{fullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{bibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorbibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authornamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorfullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{01}
+      \field{number}{3}
+      \field{title}{First Search for Nontensorial Gravitational Waves from Known Pulsars}
+      \field{volume}{120}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1103/physrevlett.120.031104
+      \endverb
+    \endentry
+    \entry{other_polarization_cbc}{article}{}
+      \name{author}{7}{}{%
+        {{hash=801155cb7b8583bf48069883edc08d64}{%
+           family={Takeda},
+           familyi={T\bibinitperiod},
+           given={Hiroki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5e56f233350f9aec711b06bc463c4ad2}{%
+           family={Nishizawa},
+           familyi={N\bibinitperiod},
+           given={Atsushi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=46db4e7a0d467ce7f97605043632d714}{%
+           family={Nagano},
+           familyi={N\bibinitperiod},
+           given={Koji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f4ea57688c5ef1518ed45d9d69df0e2d}{%
+           family={Michimura},
+           familyi={M\bibinitperiod},
+           given={Yuta},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bd364beb3f1e8f196d040e61b2f198c3}{%
+           family={Komori},
+           familyi={K\bibinitperiod},
+           given={Kentaro},
+           giveni={K\bibinitperiod}}}%
+        {{hash=cffd428b5bbc0d03febcf20f4b31ea96}{%
+           family={Ando},
+           familyi={A\bibinitperiod},
+           given={Masaki},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e633927282486e4828be5f9234114668}{%
+           family={Hayama},
+           familyi={H\bibinitperiod},
+           given={Kazuhiro},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{2f8f3478bf3d471bac0d0d2433dc0acc}
+      \strng{fullhash}{c7dc84e54ed84a6e4b33cc827a569b8b}
+      \strng{bibnamehash}{2f8f3478bf3d471bac0d0d2433dc0acc}
+      \strng{authorbibnamehash}{2f8f3478bf3d471bac0d0d2433dc0acc}
+      \strng{authornamehash}{2f8f3478bf3d471bac0d0d2433dc0acc}
+      \strng{authorfullhash}{c7dc84e54ed84a6e4b33cc827a569b8b}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{08}
+      \field{number}{4}
+      \field{title}{Prospects for gravitational-wave polarization tests from compact binary mergers with future ground-based detectors}
+      \field{volume}{100}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1103/physrevd.100.042001
+      \endverb
+    \endentry
+    \entry{other_polarization}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f9723731ae4c65aff3d056abe0bc5f8f}{%
+           family={Rham},
+           familyi={R\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{f9723731ae4c65aff3d056abe0bc5f8f}
+      \strng{fullhash}{f9723731ae4c65aff3d056abe0bc5f8f}
+      \strng{bibnamehash}{f9723731ae4c65aff3d056abe0bc5f8f}
+      \strng{authorbibnamehash}{f9723731ae4c65aff3d056abe0bc5f8f}
+      \strng{authornamehash}{f9723731ae4c65aff3d056abe0bc5f8f}
+      \strng{authorfullhash}{f9723731ae4c65aff3d056abe0bc5f8f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Living Reviews in Relativity}
+      \field{month}{08}
+      \field{number}{1}
+      \field{title}{Massive Gravity}
+      \field{volume}{17}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.12942/lrr-2014-7
+      \endverb
+    \endentry
+    \entry{H0_1}{article}{}
+      \name{author}{9}{}{%
+        {{hash=6d5601ca1b3bb7686548b52adb0b63b9}{%
+           family={Valentino},
+           familyi={V\bibinitperiod},
+           given={Eleonora\bibnamedelima Di},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e5d85dbdbf7d93be199678a184aa94b8}{%
+           family={Mena},
+           familyi={M\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=7d448cb4d7cf696739d7c7c62358afa7}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Supriya},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a7376ddec52aa287bac38645a1bdbd29}{%
+           family={Visinelli},
+           familyi={V\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3dd44b70c82b6af3bcd68a8f6b96826b}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Weiqiang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=02a95670c6d326c3f9f5dba141d54b9d}{%
+           family={Melchiorri},
+           familyi={M\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3e45a6e1dd5804a1f02b16b41fbb48a5}{%
+           family={Mota},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima F},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=bcb83d57032e16edd4941911fcf6ef0a}{%
+           family={Riess},
+           familyi={R\bibinitperiod},
+           given={Adam\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=cfa0d38dc2ecec4f5ed5dc344139e369}{%
+           family={Silk},
+           familyi={S\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{12eec60e632328d39f7990a2341142f2}
+      \strng{fullhash}{118b2205d2bec7cc4ce08af4fd31b2db}
+      \strng{bibnamehash}{12eec60e632328d39f7990a2341142f2}
+      \strng{authorbibnamehash}{12eec60e632328d39f7990a2341142f2}
+      \strng{authornamehash}{12eec60e632328d39f7990a2341142f2}
+      \strng{authorfullhash}{118b2205d2bec7cc4ce08af4fd31b2db}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{07}
+      \field{number}{15}
+      \field{title}{In the realm of the Hubble tension—a review of solutions}
+      \field{volume}{38}
+      \field{year}{2021}
+      \field{pages}{153001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6382/ac086d
+      \endverb
+    \endentry
+    \entry{H0_gw170817}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=4620614ad34308ab8c2ee8d4a7df43d7}{%
+           family={Abbott},
+           familyi={A\bibinitperiod},
+           given={B.\bibnamedelimi P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{fullhash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{bibnamehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{authorbibnamehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{authornamehash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \strng{authorfullhash}{d9799319ee6631a4a5c0d1ce9c963e79}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{month}{10}
+      \field{number}{7678}
+      \field{title}{A gravitational-wave standard siren measurement of the Hubble constant}
+      \field{volume}{551}
+      \field{year}{2017}
+      \field{pages}{85\bibrangedash 88}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nature24471
+      \endverb
+    \endentry
+    \entry{H0_LVK}{article}{}
+      \name{author}{2}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Astronomical Society}%
+      }
+      \strng{namehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{fullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{bibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorbibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authornamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorfullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{A Gravitational-wave Measurement of the Hubble Constant Following the Second Observing Run of Advanced {LIGO} and Virgo}
+      \field{volume}{909}
+      \field{year}{2021}
+      \field{pages}{218}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/1538-4357/abdcb7
+      \endverb
+    \endentry
+    \entry{shoes}{article}{}
+      \name{author}{7}{}{%
+        {{hash=bcb83d57032e16edd4941911fcf6ef0a}{%
+           family={Riess},
+           familyi={R\bibinitperiod},
+           given={Adam\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=488598ce4a51d0f4672e3b808323c520}{%
+           family={Casertano},
+           familyi={C\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=be3d6610d2a5e155f3c1045ae546dad8}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Wenlong},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f00b675273158c0c58d413893409ccca}{%
+           family={Bowers},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi Bradley},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3f6714a9247de2fdbee630db48f15452}{%
+           family={Macri},
+           familyi={M\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=28b30ee13d30fbe63b4d06ee600c5feb}{%
+           family={Zinn},
+           familyi={Z\bibinitperiod},
+           given={Joel\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=084beede80f921c559306aa514beb242}{%
+           family={Scolnic},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Astronomical Society}%
+      }
+      \strng{namehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{fullhash}{190f71e4e5718bad67bbec6921debc1e}
+      \strng{bibnamehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{authorbibnamehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{authornamehash}{51ea31a1136a1d2cb9bd027767356238}
+      \strng{authorfullhash}{190f71e4e5718bad67bbec6921debc1e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical Journal Letters}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{Cosmic Distances Calibrated to 1{\%} Precision with Gaia {EDR}3 Parallaxes and Hubble Space Telescope Photometry of 75 Milky Way Cepheids Confirm Tension with LambdaCDM}
+      \field{volume}{908}
+      \field{year}{2021}
+      \field{pages}{L6}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/2041-8213/abdbaf
+      \endverb
+    \endentry
+    \entry{Planck_2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2320788bb9535f078e3ac5da9b3233aa}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={Planck},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{EDP} Sciences}%
+      }
+      \strng{namehash}{2320788bb9535f078e3ac5da9b3233aa}
+      \strng{fullhash}{2320788bb9535f078e3ac5da9b3233aa}
+      \strng{bibnamehash}{2320788bb9535f078e3ac5da9b3233aa}
+      \strng{authorbibnamehash}{2320788bb9535f078e3ac5da9b3233aa}
+      \strng{authornamehash}{2320788bb9535f078e3ac5da9b3233aa}
+      \strng{authorfullhash}{2320788bb9535f078e3ac5da9b3233aa}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Astronomy {\&} Astrophysics}
+      \field{month}{09}
+      \field{title}{Planck 2018 results. VI. Cosmological parameters}
+      \field{volume}{641}
+      \field{year}{2020}
+      \field{pages}{A6}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1051/0004-6361/201833910
+      \endverb
+    \endentry
+    \entry{EOS_Douchin_2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d1d0b2b86926e4d4a46369dc7324cb8f}{%
+           family={Douchin},
+           familyi={D\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3cfbb992af39dc74b737df95b38ad3dd}{%
+           family={Haensel},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{EDP} Sciences}%
+      }
+      \strng{namehash}{e5a0c1d03ff23cf3f2c5841abdac30e4}
+      \strng{fullhash}{e5a0c1d03ff23cf3f2c5841abdac30e4}
+      \strng{bibnamehash}{e5a0c1d03ff23cf3f2c5841abdac30e4}
+      \strng{authorbibnamehash}{e5a0c1d03ff23cf3f2c5841abdac30e4}
+      \strng{authornamehash}{e5a0c1d03ff23cf3f2c5841abdac30e4}
+      \strng{authorfullhash}{e5a0c1d03ff23cf3f2c5841abdac30e4}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Astronomy \& Astrophysics}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{A unified equation of state of dense matter and neutron star structure}
+      \field{volume}{380}
+      \field{year}{2001}
+      \field{pages}{151\bibrangedash 167}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1051/0004-6361:20011402
+      \endverb
+    \endentry
+    \entry{EOS_Lattimer_2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=685fd2ead2b1408f4f5ef0769a087807}{%
+           family={Lattimer},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c5ec1ceff5cf91ffa6be04db80bb92be}{%
+           family={Prakash},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{96afc2ce5560c56471b467f59c5b57d0}
+      \strng{fullhash}{96afc2ce5560c56471b467f59c5b57d0}
+      \strng{bibnamehash}{96afc2ce5560c56471b467f59c5b57d0}
+      \strng{authorbibnamehash}{96afc2ce5560c56471b467f59c5b57d0}
+      \strng{authornamehash}{96afc2ce5560c56471b467f59c5b57d0}
+      \strng{authorfullhash}{96afc2ce5560c56471b467f59c5b57d0}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{Neutron Star Structure and the Equation of State}
+      \field{volume}{550}
+      \field{year}{2001}
+      \field{pages}{426}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/319702
+      \endverb
+    \endentry
+    \entry{EOS_gw170817}{article}{}
+      \name{author}{2}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{fullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{bibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorbibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authornamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorfullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \field{extraname}{4}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{10}
+      \field{number}{16}
+      \field{title}{{GW}170817: Measurements of Neutron Star Radii and Equation of State}
+      \field{volume}{121}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1103/physrevlett.121.161101
+      \endverb
+    \endentry
+    \entry{EOS_pulsar}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0901365e73fa4a9f98eb5931be0978d2}{%
+           family={Steiner},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=df9aa4543d2527f1359d05aec0f00e91}{%
+           family={Gandolfi},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cddd052aa32a4ebe43d606decd2e9902}{%
+           family={Fattoyev},
+           familyi={F\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d77114b80c5693c0c515141479705c66}{%
+           family={Newton},
+           familyi={N\bibinitperiod},
+           given={W.\bibnamedelimi G.},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{872ff9b30efc2d2375138205fdcdb488}
+      \strng{fullhash}{2fdc5708c7e8312fb89e6af1c824474b}
+      \strng{bibnamehash}{872ff9b30efc2d2375138205fdcdb488}
+      \strng{authorbibnamehash}{872ff9b30efc2d2375138205fdcdb488}
+      \strng{authornamehash}{872ff9b30efc2d2375138205fdcdb488}
+      \strng{authorfullhash}{2fdc5708c7e8312fb89e6af1c824474b}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review C}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Using neutron star observations to determine crust thicknesses, moments of inertia, and tidal deformabilities}
+      \field{volume}{91}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1103/physrevc.91.015804
+      \endverb
+    \endentry
+    \entry{EOS_Lattimer_2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=685fd2ead2b1408f4f5ef0769a087807}{%
+           family={Lattimer},
+           familyi={L\bibinitperiod},
+           given={J.M.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{685fd2ead2b1408f4f5ef0769a087807}
+      \strng{fullhash}{685fd2ead2b1408f4f5ef0769a087807}
+      \strng{bibnamehash}{685fd2ead2b1408f4f5ef0769a087807}
+      \strng{authorbibnamehash}{685fd2ead2b1408f4f5ef0769a087807}
+      \strng{authornamehash}{685fd2ead2b1408f4f5ef0769a087807}
+      \strng{authorfullhash}{685fd2ead2b1408f4f5ef0769a087807}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Nuclear and Particle Science}
+      \field{number}{1}
+      \field{title}{Neutron Stars and the Nuclear Matter Equation of State}
+      \field{volume}{71}
+      \field{year}{2021}
+      \field{pages}{433\bibrangedash 464}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1146/annurev-nucl-102419-124827
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1146/annurev-nucl-102419-124827
+      \endverb
+    \endentry
+    \entry{gwtc3}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{6}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{gr-qc}
+      \field{eprinttype}{arXiv}
+      \field{title}{GWTC-3: Compact Binary Coalescences Observed by LIGO and Virgo During the Second Part of the Third Observing Run}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 2111.03606
+      \endverb
+    \endentry
+    \entry{rate_and_pop}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{7}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{title}{The population of merging compact binaries inferred using gravitational waves through GWTC-3}
+      \field{year}{2022}
+      \verb{eprint}
+      \verb 2111.03634
+      \endverb
+    \endentry
+    \entry{ssm_O3a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{8}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{08}
+      \field{number}{6}
+      \field{title}{Search for Subsolar-Mass Binaries in the First Half of Advanced {LIGO}'s and Advanced Virgo's Third Observing Run}
+      \field{volume}{129}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1103/physrevlett.129.061104
+      \endverb
+    \endentry
+    \entry{ssm_O3b}{article}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{title}{Search for subsolar-mass black hole binaries in the second part of Advanced LIGO's and Advanced Virgo's third observing run}
+      \field{year}{2022}
+      \verb{eprint}
+      \verb 2212.01477
+      \endverb
+    \endentry
+    \entry{primordial_bh}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b21922518f16b9fba9aa800c20857d86}{%
+           family={{Carr}},
+           familyi={C\bibinitperiod},
+           given={B.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b21922518f16b9fba9aa800c20857d86}
+      \strng{fullhash}{b21922518f16b9fba9aa800c20857d86}
+      \strng{bibnamehash}{b21922518f16b9fba9aa800c20857d86}
+      \strng{authorbibnamehash}{b21922518f16b9fba9aa800c20857d86}
+      \strng{authornamehash}{b21922518f16b9fba9aa800c20857d86}
+      \strng{authorfullhash}{b21922518f16b9fba9aa800c20857d86}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{apj}
+      \field{month}{10}
+      \field{title}{{The primordial black hole mass spectrum.}}
+      \field{volume}{201}
+      \field{year}{1975}
+      \field{pages}{1\bibrangedash 19}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1086/153853
+      \endverb
+      \keyw{Astronomical Models,Black Holes (Astronomy),Cosmology,Mass Spectra,Density (Mass/Volume),Galactic Clusters,Perturbation Theory,Universe,Astrophysics}
+    \endentry
+    \entry{dm1}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2b8301f73ced6db4613c658546d9277d}{%
+           family={D'Amico},
+           familyi={D\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cec6aa54cc349d998c75d902003c63b9}{%
+           family={Panci},
+           familyi={P\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5a0d9dc933375689e38ea099fa2a8f4f}{%
+           family={Lupi},
+           familyi={L\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4dd11f44992f693336065df515e391c5}{%
+           family={Bovino},
+           familyi={B\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c23ed81126f1186ebd4302ea1f57a784}{%
+           family={Silk},
+           familyi={S\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press ({OUP})}%
+      }
+      \strng{namehash}{5b4cb8ffec61e245c4e427883527a23e}
+      \strng{fullhash}{0f8fe389318660b743e20137539269db}
+      \strng{bibnamehash}{5b4cb8ffec61e245c4e427883527a23e}
+      \strng{authorbibnamehash}{5b4cb8ffec61e245c4e427883527a23e}
+      \strng{authornamehash}{5b4cb8ffec61e245c4e427883527a23e}
+      \strng{authorfullhash}{0f8fe389318660b743e20137539269db}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{09}
+      \field{number}{1}
+      \field{title}{Massive black holes from dissipative dark matter}
+      \field{volume}{473}
+      \field{year}{2017}
+      \field{pages}{328\bibrangedash 335}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1093/mnras/stx2419
+      \endverb
+    \endentry
+    \entry{dm2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d5db40ab32093080a1da962fb6074628}{%
+           family={Shandera},
+           familyi={S\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3326ca74c1b11350b758b6bf0ee8d82d}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Donghui},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dbb75a4a41bb446149f796080672bf12}{%
+           family={Gebhardt},
+           familyi={G\bibinitperiod},
+           given={Henry\bibnamedelimb S.\bibnamedelimi Grasshorn},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{06773be87da09bcd26dc9c4e70fa22ac}
+      \strng{fullhash}{06773be87da09bcd26dc9c4e70fa22ac}
+      \strng{bibnamehash}{06773be87da09bcd26dc9c4e70fa22ac}
+      \strng{authorbibnamehash}{06773be87da09bcd26dc9c4e70fa22ac}
+      \strng{authornamehash}{06773be87da09bcd26dc9c4e70fa22ac}
+      \strng{authorfullhash}{06773be87da09bcd26dc9c4e70fa22ac}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{06}
+      \field{number}{24}
+      \field{title}{Gravitational Waves from Binary Mergers of Subsolar Mass Dark Black Holes}
+      \field{volume}{120}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1103/physrevlett.120.241102
+      \endverb
+    \endentry
+    \entry{dm3}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7607a8679c4507d293de3e05ec8ff157}{%
+           family={Choquette},
+           familyi={C\bibinitperiod},
+           given={Jeremie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=02283885f857d3108df9eb0f1078ef8c}{%
+           family={Cline},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0f3689febfae6f15ddad36cfb203aa5a}{%
+           family={Cornell},
+           familyi={C\bibinitperiod},
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{42e2cddd7a817d8b914cdd3296382006}
+      \strng{fullhash}{42e2cddd7a817d8b914cdd3296382006}
+      \strng{bibnamehash}{42e2cddd7a817d8b914cdd3296382006}
+      \strng{authorbibnamehash}{42e2cddd7a817d8b914cdd3296382006}
+      \strng{authornamehash}{42e2cddd7a817d8b914cdd3296382006}
+      \strng{authorfullhash}{42e2cddd7a817d8b914cdd3296382006}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cosmology and Astroparticle Physics}
+      \field{month}{07}
+      \field{number}{07}
+      \field{title}{Early formation of supermassive black holes via dark matter self-interactions}
+      \field{volume}{2019}
+      \field{year}{2019}
+      \field{pages}{036\bibrangedash 036}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1475-7516/2019/07/036
+      \endverb
+    \endentry
+    \entry{ECO1}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9394b735070431661135877e12483894}{%
+           family={Cardoso},
+           familyi={C\bibinitperiod},
+           given={Vitor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0aaabd474c13ad1a89718d8a7593f392}{%
+           family={Hopper},
+           familyi={H\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ee1ffbda763c97646165b3383bff64c4}{%
+           family={Macedo},
+           familyi={M\bibinitperiod},
+           given={Caio\bibnamedelimb F.\bibnamedelimi B.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=e5fd1074051315c12df8f04bbdbdad3d}{%
+           family={Palenzuela},
+           familyi={P\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2476c9bb07cb649f2b3f2e2b9dc295cc}{%
+           family={Pani},
+           familyi={P\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{cc511c4b5ada3240a645769e5119f608}
+      \strng{fullhash}{eb1e02a42edba551bf8ce495599a63c1}
+      \strng{bibnamehash}{cc511c4b5ada3240a645769e5119f608}
+      \strng{authorbibnamehash}{cc511c4b5ada3240a645769e5119f608}
+      \strng{authornamehash}{cc511c4b5ada3240a645769e5119f608}
+      \strng{authorfullhash}{eb1e02a42edba551bf8ce495599a63c1}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{10}
+      \field{number}{8}
+      \field{title}{Gravitational-wave signatures of exotic compact objects and of quantum corrections at the horizon scale}
+      \field{volume}{94}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1103/physrevd.94.084031
+      \endverb
+    \endentry
+    \entry{ECO2}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d65a209ddf38c1cd8c3fc20763df8bf5}{%
+           family={Toubiana},
+           familyi={T\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5037c73f9be45e602567dc3bad35bbcd}{%
+           family={Babak},
+           familyi={B\bibinitperiod},
+           given={Stanislav},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fecc8cd391b738b851aa1b01739eb3e2}{%
+           family={Barausse},
+           familyi={B\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9242d5ccc897e156a61c4669954d3856}{%
+           family={Lehner},
+           familyi={L\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{df74e5e201629b2ea0f400240649c4b0}
+      \strng{fullhash}{fc6e4f31da2fc0f68406845eee6bfff7}
+      \strng{bibnamehash}{df74e5e201629b2ea0f400240649c4b0}
+      \strng{authorbibnamehash}{df74e5e201629b2ea0f400240649c4b0}
+      \strng{authornamehash}{df74e5e201629b2ea0f400240649c4b0}
+      \strng{authorfullhash}{fc6e4f31da2fc0f68406845eee6bfff7}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{03}
+      \field{number}{6}
+      \field{title}{Modeling gravitational waves from exotic compact objects}
+      \field{volume}{103}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1103/physrevd.103.064042
+      \endverb
+    \endentry
+    \entry{advanced_virgo}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=194a7071763e4f685901e59df9e140d8}{%
+           family={Acernese},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{fullhash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{bibnamehash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{authorbibnamehash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{authornamehash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{authorfullhash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{12}
+      \field{number}{2}
+      \field{title}{Advanced Virgo: a second-generation interferometric gravitational wave detector}
+      \field{volume}{32}
+      \field{year}{2014}
+      \field{pages}{024001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0264-9381/32/2/024001
+      \endverb
+    \endentry
+    \entry{virgo_tech_report}{report}{}
+      \name{author}{1}{}{%
+        {{hash=d51a611b9db71df8d617144102b143f0}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima Virgo},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{fullhash}{d51a611b9db71df8d617144102b143f0}
+      \strng{bibnamehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{authorbibnamehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{authornamehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{authorfullhash}{d51a611b9db71df8d617144102b143f0}
+      \field{extraname}{4}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{number}{VIR-0128A-12}
+      \field{title}{Advanced Virgo Technical Design Report}
+      \field{type}{techreport}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://tds.virgo-gw.eu/?call_file=VIR-0128A-12.pdf
+      \endverb
+      \verb{url}
+      \verb https://tds.virgo-gw.eu/?call_file=VIR-0128A-12.pdf
+      \endverb
+    \endentry
+    \entry{virgo_phase2_tech_report}{report}{}
+      \name{author}{1}{}{%
+        {{hash=d51a611b9db71df8d617144102b143f0}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima Virgo},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{fullhash}{d51a611b9db71df8d617144102b143f0}
+      \strng{bibnamehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{authorbibnamehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{authornamehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{authorfullhash}{d51a611b9db71df8d617144102b143f0}
+      \field{extraname}{5}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{number}{VIR-0501C-22}
+      \field{title}{Advanced Virgo Plus Phase II Design Report}
+      \field{type}{techreport}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://tds.virgo-gw.eu/?call_file=VIR-0501C-22_AdvancedVirgoPlusPhaseIIDesign.pdf
+      \endverb
+      \verb{url}
+      \verb https://tds.virgo-gw.eu/?call_file=VIR-0501C-22_AdvancedVirgoPlusPhaseIIDesign.pdf
+      \endverb
+    \endentry
+    \entry{recycling1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3a61b1e39d0f729776ace69b1782bf82}{%
+           family={Meers},
+           familyi={M\bibinitperiod},
+           given={Brian\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{3a61b1e39d0f729776ace69b1782bf82}
+      \strng{fullhash}{3a61b1e39d0f729776ace69b1782bf82}
+      \strng{bibnamehash}{3a61b1e39d0f729776ace69b1782bf82}
+      \strng{authorbibnamehash}{3a61b1e39d0f729776ace69b1782bf82}
+      \strng{authornamehash}{3a61b1e39d0f729776ace69b1782bf82}
+      \strng{authorfullhash}{3a61b1e39d0f729776ace69b1782bf82}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{8}
+      \field{journaltitle}{Phys. Rev. D}
+      \field{month}{10}
+      \field{title}{Recycling in laser-interferometric gravitational-wave detectors}
+      \field{volume}{38}
+      \field{year}{1988}
+      \field{pages}{2317\bibrangedash 2326}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.38.2317
+      \endverb
+    \endentry
+    \entry{recycling2}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d7b9123f2895f14b19a2850491c414a7}{%
+           family={Strain},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2b7678289debd0bba81882980439716b}{%
+           family={Meers},
+           familyi={M\bibinitperiod},
+           given={B.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{d27a90081e0b6229b5114f4baea77676}
+      \strng{fullhash}{d27a90081e0b6229b5114f4baea77676}
+      \strng{bibnamehash}{d27a90081e0b6229b5114f4baea77676}
+      \strng{authorbibnamehash}{d27a90081e0b6229b5114f4baea77676}
+      \strng{authornamehash}{d27a90081e0b6229b5114f4baea77676}
+      \strng{authorfullhash}{d27a90081e0b6229b5114f4baea77676}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{11}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{03}
+      \field{title}{Experimental demonstration of dual recycling for interferometric gravitational-wave detectors}
+      \field{volume}{66}
+      \field{year}{1991}
+      \field{pages}{1391\bibrangedash 1394}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.66.1391
+      \endverb
+    \endentry
+    \entry{squeezer}{article}{}
+      \name{author}{2}{}{%
+        {{hash=186be5201203d405444553fedd881f6d}{%
+           family={Mehmet},
+           familyi={M\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod}}}%
+        {{hash=91c8abd3e4ce7f653a8821a81b550c00}{%
+           family={Vahlbruch},
+           familyi={V\bibinitperiod},
+           given={Henning},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{082bdc10fce353e0478a5f3ce3ad7c6b}
+      \strng{fullhash}{082bdc10fce353e0478a5f3ce3ad7c6b}
+      \strng{bibnamehash}{082bdc10fce353e0478a5f3ce3ad7c6b}
+      \strng{authorbibnamehash}{082bdc10fce353e0478a5f3ce3ad7c6b}
+      \strng{authornamehash}{082bdc10fce353e0478a5f3ce3ad7c6b}
+      \strng{authorfullhash}{082bdc10fce353e0478a5f3ce3ad7c6b}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2075-4434}
+      \field{journaltitle}{Galaxies}
+      \field{number}{4}
+      \field{title}{The Squeezed Light Source for the Advanced Virgo Detector in the Observation Run O3}
+      \field{volume}{8}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3390/galaxies8040079
+      \endverb
+    \endentry
+    \entry{virgo_layout}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=0ccb9a39e23197cb3b4cf29b674511fd}{%
+           family={Allocca},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a3e0dd9c144b94f86cd4824e8944d63}
+      \strng{fullhash}{6a3e0dd9c144b94f86cd4824e8944d63}
+      \strng{bibnamehash}{6a3e0dd9c144b94f86cd4824e8944d63}
+      \strng{authorbibnamehash}{6a3e0dd9c144b94f86cd4824e8944d63}
+      \strng{authornamehash}{6a3e0dd9c144b94f86cd4824e8944d63}
+      \strng{authorfullhash}{6a3e0dd9c144b94f86cd4824e8944d63}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2075-4434}
+      \field{journaltitle}{Galaxies}
+      \field{number}{4}
+      \field{title}{Interferometer Sensing and Control for the Advanced Virgo Experiment in the O3 Scientific Run}
+      \field{volume}{8}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3390/galaxies8040085
+      \endverb
+    \endentry
+    \entry{pcal}{article}{}
+      \name{author}{6}{}{%
+        {{hash=01e028e922e1495bc8ec8ac2c2d9fda6}{%
+           family={Estevez},
+           familyi={E\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c9fc39706f182a15d4542d2dd78d547c}{%
+           family={Lagabbe},
+           familyi={L\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9c20b7fb25ac774d87698d1ace7b26be}{%
+           family={Masserot},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bf960f18415c4a3e6431e53977c82837}{%
+           family={Rolland},
+           familyi={R\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1b1e8f3fd6ca43360c02ef8123afa4dc}{%
+           family={Seglar-Arroyo},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f992dc018969595713f37ca7fc935ba7}{%
+           family={Verkindt},
+           familyi={V\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{d13e3e5d2a60187ac6074a9c67b39e76}
+      \strng{fullhash}{74d94e416a287327ea1978427d4317ed}
+      \strng{bibnamehash}{d13e3e5d2a60187ac6074a9c67b39e76}
+      \strng{authorbibnamehash}{d13e3e5d2a60187ac6074a9c67b39e76}
+      \strng{authornamehash}{d13e3e5d2a60187ac6074a9c67b39e76}
+      \strng{authorfullhash}{74d94e416a287327ea1978427d4317ed}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{02}
+      \field{number}{7}
+      \field{title}{The Advanced Virgo photon calibrators}
+      \field{volume}{38}
+      \field{year}{2021}
+      \field{pages}{075007}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6382/abe2db
+      \endverb
+    \endentry
+    \entry{ncal1}{article}{}
+      \name{author}{6}{}{%
+        {{hash=01e028e922e1495bc8ec8ac2c2d9fda6}{%
+           family={Estevez},
+           familyi={E\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=795584d8e285ea2fdd5f0269f28282d0}{%
+           family={Lieunard},
+           familyi={L\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8366586328a72569afbc13e06c3d78db}{%
+           family={Marion},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=23f847dcb8396da267a8bcdb05f7e51e}{%
+           family={Mours},
+           familyi={M\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bf960f18415c4a3e6431e53977c82837}{%
+           family={Rolland},
+           familyi={R\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f992dc018969595713f37ca7fc935ba7}{%
+           family={Verkindt},
+           familyi={V\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{d13e3e5d2a60187ac6074a9c67b39e76}
+      \strng{fullhash}{2feb42fe710487ff8ebd8506cb1625e0}
+      \strng{bibnamehash}{d13e3e5d2a60187ac6074a9c67b39e76}
+      \strng{authorbibnamehash}{d13e3e5d2a60187ac6074a9c67b39e76}
+      \strng{authornamehash}{d13e3e5d2a60187ac6074a9c67b39e76}
+      \strng{authorfullhash}{2feb42fe710487ff8ebd8506cb1625e0}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{11}
+      \field{number}{23}
+      \field{title}{First tests of a Newtonian calibrator on an interferometric gravitational wave detector}
+      \field{volume}{35}
+      \field{year}{2018}
+      \field{pages}{235009}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6382/aae95f
+      \endverb
+    \endentry
+    \entry{ncal2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=01e028e922e1495bc8ec8ac2c2d9fda6}{%
+           family={Estevez},
+           familyi={E\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=23f847dcb8396da267a8bcdb05f7e51e}{%
+           family={Mours},
+           familyi={M\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=92f5f3df7cc1251e73ab4171f573c4b1}{%
+           family={Pradier},
+           familyi={P\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{0a13b56f3639f712452d0075fb9e5c4a}
+      \strng{fullhash}{0a13b56f3639f712452d0075fb9e5c4a}
+      \strng{bibnamehash}{0a13b56f3639f712452d0075fb9e5c4a}
+      \strng{authorbibnamehash}{0a13b56f3639f712452d0075fb9e5c4a}
+      \strng{authornamehash}{0a13b56f3639f712452d0075fb9e5c4a}
+      \strng{authorfullhash}{0a13b56f3639f712452d0075fb9e5c4a}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{03}
+      \field{number}{7}
+      \field{title}{Newtonian calibrator tests during the Virgo O3 data taking}
+      \field{volume}{38}
+      \field{year}{2021}
+      \field{pages}{075012}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6382/abe2da
+      \endverb
+    \endentry
+    \entry{strain_reconstruction}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d51a611b9db71df8d617144102b143f0}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima Virgo},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{fullhash}{d51a611b9db71df8d617144102b143f0}
+      \strng{bibnamehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{authorbibnamehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{authornamehash}{d51a611b9db71df8d617144102b143f0}
+      \strng{authorfullhash}{d51a611b9db71df8d617144102b143f0}
+      \field{extraname}{6}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{01}
+      \field{number}{4}
+      \field{title}{Calibration of advanced Virgo and reconstruction of the detector strain h(t) during the observing run O3}
+      \field{volume}{39}
+      \field{year}{2022}
+      \field{pages}{045006}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6382/ac3c8e
+      \endverb
+    \endentry
+    \entry{antenna_patterns}{article}{}
+      \name{author}{4}{}{%
+        {{hash=833034fee4438d42359626289416d966}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Warren\bibnamedelima G.},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d9774cbb9ea6e0460e859ce92565050d}{%
+           family={Brady},
+           familyi={B\bibinitperiod},
+           given={Patrick\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e7b78a07387b7d2fc5bfaf5695aba42d}{%
+           family={Creighton},
+           familyi={C\bibinitperiod},
+           given={Jolien\bibnamedelimb D.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=895400bd5ff2516311dda3d843f5b96d}{%
+           family={Flanagan},
+           familyi={F\bibinitperiod},
+           given={{É\bibnamedelimb }anna\bibnamedelima {É}.},
+           giveni={É\bibinitperiod\bibinitdelim É\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{108ce897175a67221ae8966584d0e762}
+      \strng{fullhash}{8bb84a463446ae6db871ee0050679660}
+      \strng{bibnamehash}{108ce897175a67221ae8966584d0e762}
+      \strng{authorbibnamehash}{108ce897175a67221ae8966584d0e762}
+      \strng{authornamehash}{108ce897175a67221ae8966584d0e762}
+      \strng{authorfullhash}{8bb84a463446ae6db871ee0050679660}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{01}
+      \field{number}{4}
+      \field{title}{Excess power statistic for detection of burst sources of gravitational radiation}
+      \field{volume}{63}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.1103/physrevd.63.042003
+      \endverb
+    \endentry
+    \entry{distances}{article}{}
+      \name{author}{6}{}{%
+        {{hash=885d482b2260e6f687c4bbbe4449f15c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Hsin-Yu},
+           giveni={H\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=00b3dea7d632917486b21a711857c297}{%
+           family={Holz},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6b50415d37b3248a676f0e655b38b2bb}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5ebdff7e48ee51488a15f1d0da70f0cd}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=addaa852a3fe30d233742eb85ecc1a4d}{%
+           family={Vitale},
+           familyi={V\bibinitperiod},
+           given={Salvatore},
+           giveni={S\bibinitperiod}}}%
+        {{hash=19946b483351cd560eeeda254f944d61}{%
+           family={Creighton},
+           familyi={C\bibinitperiod},
+           given={Jolien},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{d50a6af78b0e41415d6e3592e9f7b22d}
+      \strng{fullhash}{86c96cf9fcc60c878b66c70927531b0d}
+      \strng{bibnamehash}{d50a6af78b0e41415d6e3592e9f7b22d}
+      \strng{authorbibnamehash}{d50a6af78b0e41415d6e3592e9f7b22d}
+      \strng{authornamehash}{d50a6af78b0e41415d6e3592e9f7b22d}
+      \strng{authorfullhash}{86c96cf9fcc60c878b66c70927531b0d}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{01}
+      \field{number}{5}
+      \field{title}{Distance measures in gravitational-wave astrophysics and cosmology}
+      \field{volume}{38}
+      \field{year}{2021}
+      \field{pages}{055010}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6382/abd594
+      \endverb
+    \endentry
+    \entry{one_ifo}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9cde0309cd10296a02775cd769525932}{%
+           family={Finn},
+           familyi={F\bibinitperiod},
+           given={Lee\bibnamedelima Samuel},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4f2c8f20349eae4aa989f260b13043d1}{%
+           family={Chernoff},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{85f1bf2ab79afda184110148ccffce65}
+      \strng{fullhash}{85f1bf2ab79afda184110148ccffce65}
+      \strng{bibnamehash}{85f1bf2ab79afda184110148ccffce65}
+      \strng{authorbibnamehash}{85f1bf2ab79afda184110148ccffce65}
+      \strng{authornamehash}{85f1bf2ab79afda184110148ccffce65}
+      \strng{authorfullhash}{85f1bf2ab79afda184110148ccffce65}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{03}
+      \field{number}{6}
+      \field{title}{Observing binary inspiral in gravitational radiation: One interferometer}
+      \field{volume}{47}
+      \field{year}{1993}
+      \field{pages}{2198\bibrangedash 2219}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1103/physrevd.47.2198
+      \endverb
+    \endentry
+    \entry{ligo_sensitivity}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=2bbfc68a1c9cbce9613c1515f0a39864}{%
+           family={Buikema},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{9d72b5fdb681f2e6c2bc30ef17dfc634}
+      \strng{fullhash}{9d72b5fdb681f2e6c2bc30ef17dfc634}
+      \strng{bibnamehash}{9d72b5fdb681f2e6c2bc30ef17dfc634}
+      \strng{authorbibnamehash}{9d72b5fdb681f2e6c2bc30ef17dfc634}
+      \strng{authornamehash}{9d72b5fdb681f2e6c2bc30ef17dfc634}
+      \strng{authorfullhash}{9d72b5fdb681f2e6c2bc30ef17dfc634}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{09}
+      \field{number}{6}
+      \field{title}{Sensitivity and performance of the Advanced {LIGO} detectors in the third observing run}
+      \field{volume}{102}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1103/physrevd.102.062003
+      \endverb
+    \endentry
+    \entry{virgo_characterization}{misc}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=194a7071763e4f685901e59df9e140d8}{%
+           family={Acernese},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{fullhash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{bibnamehash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{authorbibnamehash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{authornamehash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \strng{authorfullhash}{a7ac913e5d0d03ed70e9d795d9cdfd4a}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{gr-qc}
+      \field{eprinttype}{arXiv}
+      \field{title}{Virgo Detector Characterization and Data Quality during the O3 run}
+      \field{year}{2022}
+      \verb{eprint}
+      \verb 2205.01555
+      \endverb
+    \endentry
+    \entry{ligo_characterization}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=142dc002502e20a43df4e33a3953f8e7}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{ccf432938df73329e52bc77e7e17617c}
+      \strng{fullhash}{ccf432938df73329e52bc77e7e17617c}
+      \strng{bibnamehash}{ccf432938df73329e52bc77e7e17617c}
+      \strng{authorbibnamehash}{ccf432938df73329e52bc77e7e17617c}
+      \strng{authornamehash}{ccf432938df73329e52bc77e7e17617c}
+      \strng{authorfullhash}{ccf432938df73329e52bc77e7e17617c}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{06}
+      \field{number}{13}
+      \field{title}{{LIGO} detector characterization in the second and third observing runs}
+      \field{volume}{38}
+      \field{year}{2021}
+      \field{pages}{135014}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6382/abfd85
+      \endverb
+    \endentry
+    \entry{prospects}{article}{}
+      \name{author}{3}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+        {{hash=b16cc561fa908c50e7e80c5bbcaa3d46}{%
+           family={KAGRA\bibnamedelima Collaboration},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{fullhash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{bibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorbibnamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authornamehash}{3368d7239655d51d2c5151c3070579f4}
+      \strng{authorfullhash}{3368d7239655d51d2c5151c3070579f4}
+      \field{extraname}{10}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Living Reviews in Relativity}
+      \field{month}{09}
+      \field{number}{1}
+      \field{title}{Prospects for observing and localizing gravitational-wave transients with Advanced {LIGO}, Advanced Virgo and {KAGRA}}
+      \field{volume}{23}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1007/s41114-020-00026-9
+      \endverb
+    \endentry
+    \entry{gw170817}{article}{}
+      \name{author}{2}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{fullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{bibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorbibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authornamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorfullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \field{extraname}{5}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{10}
+      \field{number}{16}
+      \field{title}{{GW}170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral}
+      \field{volume}{119}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1103/physrevlett.119.161101
+      \endverb
+    \endentry
+    \entry{ET}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=7325bfaee269256dc79889790bffbad3}{%
+           family={Punturo},
+           familyi={P\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{40a257eb6a344dae2d482c74613c3a2e}
+      \strng{fullhash}{40a257eb6a344dae2d482c74613c3a2e}
+      \strng{bibnamehash}{40a257eb6a344dae2d482c74613c3a2e}
+      \strng{authorbibnamehash}{40a257eb6a344dae2d482c74613c3a2e}
+      \strng{authornamehash}{40a257eb6a344dae2d482c74613c3a2e}
+      \strng{authorfullhash}{40a257eb6a344dae2d482c74613c3a2e}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{09}
+      \field{number}{19}
+      \field{title}{The Einstein Telescope: a third-generation gravitational wave observatory}
+      \field{volume}{27}
+      \field{year}{2010}
+      \field{pages}{194002}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0264-9381/27/19/194002
+      \endverb
+    \endentry
+    \entry{LISA}{misc}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=056492fdee96389176279f91818b455b}{%
+           family={Amaro-Seoane},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Pau},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6b8c34a1647572d8b511cd746dcab16}
+      \strng{fullhash}{e6b8c34a1647572d8b511cd746dcab16}
+      \strng{bibnamehash}{e6b8c34a1647572d8b511cd746dcab16}
+      \strng{authorbibnamehash}{e6b8c34a1647572d8b511cd746dcab16}
+      \strng{authornamehash}{e6b8c34a1647572d8b511cd746dcab16}
+      \strng{authorfullhash}{e6b8c34a1647572d8b511cd746dcab16}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.IM}
+      \field{eprinttype}{arXiv}
+      \field{title}{Laser Interferometer Space Antenna}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1702.00786
+      \endverb
+    \endentry
+    \entry{IPTA}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=b669c071ca016244e210d1b7adfb1ab2}{%
+           family={Hobbs},
+           familyi={H\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{61fba6b9111c8568371281317d577dcf}
+      \strng{fullhash}{61fba6b9111c8568371281317d577dcf}
+      \strng{bibnamehash}{61fba6b9111c8568371281317d577dcf}
+      \strng{authorbibnamehash}{61fba6b9111c8568371281317d577dcf}
+      \strng{authornamehash}{61fba6b9111c8568371281317d577dcf}
+      \strng{authorfullhash}{61fba6b9111c8568371281317d577dcf}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{04}
+      \field{number}{8}
+      \field{title}{The International Pulsar Timing Array project: using pulsars as a gravitational wave detector}
+      \field{volume}{27}
+      \field{year}{2010}
+      \field{pages}{084013}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0264-9381/27/8/084013
+      \endverb
+    \endentry
+    \entry{nanograv}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0c8cd8bdf0830ecf83622660c37627f2}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelima NANOGrav},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The American Astronomical Society}%
+      }
+      \strng{namehash}{0c8cd8bdf0830ecf83622660c37627f2}
+      \strng{fullhash}{0c8cd8bdf0830ecf83622660c37627f2}
+      \strng{bibnamehash}{0c8cd8bdf0830ecf83622660c37627f2}
+      \strng{authorbibnamehash}{0c8cd8bdf0830ecf83622660c37627f2}
+      \strng{authornamehash}{0c8cd8bdf0830ecf83622660c37627f2}
+      \strng{authorfullhash}{0c8cd8bdf0830ecf83622660c37627f2}
+      \field{extraname}{7}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical Journal Letters}
+      \field{month}{06}
+      \field{number}{1}
+      \field{title}{The NANOGrav 15 yr Data Set: Evidence for a Gravitational-wave Background}
+      \field{volume}{951}
+      \field{year}{2023}
+      \field{pages}{L8}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/2041-8213/acdac6
+      \endverb
+    \endentry
+    \entry{cat1_virgo}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4165646435b6b125663e477ad2540172}{%
+           family={group},
+           familyi={g\bibinitperiod},
+           given={The\bibnamedelimb Virgo\bibnamedelima DetChar},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4165646435b6b125663e477ad2540172}
+      \strng{fullhash}{4165646435b6b125663e477ad2540172}
+      \strng{bibnamehash}{4165646435b6b125663e477ad2540172}
+      \strng{authorbibnamehash}{4165646435b6b125663e477ad2540172}
+      \strng{authornamehash}{4165646435b6b125663e477ad2540172}
+      \strng{authorfullhash}{4165646435b6b125663e477ad2540172}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{"Category 1" (CAT1) data quality vetoes applied to the analysis of the O3 run Virgo data}
+      \verb{urlraw}
+      \verb https://tds.virgo-gw.eu/?content=3&r=18844
+      \endverb
+      \verb{url}
+      \verb https://tds.virgo-gw.eu/?content=3&r=18844
+      \endverb
+    \endentry
+    \entry{dq_flag}{misc}{}
+      \name{author}{11}{}{%
+        {{hash=7ef2f86479c20bc516fde5c6b49e8414}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Derek},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4345b7d6bc6dce6c964d1153dcb6c294}{%
+           family={Hughey},
+           familyi={H\bibinitperiod},
+           given={Brennan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=518e541a894d55389b3384099e899b38}{%
+           family={Massinger},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=08a1420b7b57fdd44cf2e4f1a33b19c8}{%
+           family={Nuttall},
+           familyi={N\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4a8cbe9233031ff9154c97ae707c223e}{%
+           family={Stuver},
+           familyi={S\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9b7111fbb91cc057d012e62ad4e0408b}{%
+           family={Zweizig},
+           familyi={Z\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5fc55fa449af32d163d6c2834210d51e}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Beverly},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ebc1d209e2e027e402014e8217b4b0e9}{%
+           family={Bruntz},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=aa79bb2562eec9856a990c40206761b9}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=28b9103f63c8b58cee76e338fc784bc3}{%
+           family={Lundgren},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8ef246dd8d7f6d7638448fba290a0a1b}{%
+           family={Mendell},
+           familyi={M\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ed35f94d00435f3d9ce7e7dfc85f7a3}
+      \strng{fullhash}{fe182e82579cb19e3964b4b902ac577f}
+      \strng{bibnamehash}{8ed35f94d00435f3d9ce7e7dfc85f7a3}
+      \strng{authorbibnamehash}{8ed35f94d00435f3d9ce7e7dfc85f7a3}
+      \strng{authornamehash}{8ed35f94d00435f3d9ce7e7dfc85f7a3}
+      \strng{authorfullhash}{fe182e82579cb19e3964b4b902ac577f}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LIGO Data Quality Vetoes Applied to the Analysis of O3}
+      \verb{urlraw}
+      \verb https://dcc.ligo.org/LIGO-T2100045/public
+      \endverb
+      \verb{url}
+      \verb https://dcc.ligo.org/LIGO-T2100045/public
+      \endverb
+    \endentry
+    \entry{aubin2020}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=a1718ea9e1ba26227fdf07ee42d4e472}{%
+           family={Aubin},
+           familyi={A\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1718ea9e1ba26227fdf07ee42d4e472}
+      \strng{fullhash}{a1718ea9e1ba26227fdf07ee42d4e472}
+      \strng{bibnamehash}{a1718ea9e1ba26227fdf07ee42d4e472}
+      \strng{authorbibnamehash}{a1718ea9e1ba26227fdf07ee42d4e472}
+      \strng{authornamehash}{a1718ea9e1ba26227fdf07ee42d4e472}
+      \strng{authorfullhash}{a1718ea9e1ba26227fdf07ee42d4e472}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{2020CHAMA024}
+      \field{title}{Recherche à faible latence d'ondes gravitationnelles émises lors de coalescences de binaires compactes durant la troisième période d'observation de Advanced Virgo et Advanced LIGO}
+      \field{type}{phdthesis}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb http://www.theses.fr/2020CHAMA024/document
+      \endverb
+      \verb{url}
+      \verb http://www.theses.fr/2020CHAMA024/document
+      \endverb
+    \endentry
+    \entry{signal_detection}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0e203089324e573a1da474f18f27b554}{%
+           family={Helstrom},
+           familyi={H\bibinitperiod},
+           given={Carl\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e203089324e573a1da474f18f27b554}
+      \strng{fullhash}{0e203089324e573a1da474f18f27b554}
+      \strng{bibnamehash}{0e203089324e573a1da474f18f27b554}
+      \strng{authorbibnamehash}{0e203089324e573a1da474f18f27b554}
+      \strng{authornamehash}{0e203089324e573a1da474f18f27b554}
+      \strng{authorfullhash}{0e203089324e573a1da474f18f27b554}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Statistical Theory of Signal Detection}}
+      \field{year}{1968}
+    \endentry
+    \entry{extract_signal}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ae476ccaa764b21098472c1319adbfed}{%
+           family={{Wainstein}},
+           familyi={W\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=58e1c30a30358ac0046fe21cc3b69299}{%
+           family={{Zubakov}},
+           familyi={Z\bibinitperiod},
+           given={V.\bibnamedelimi D.},
+           giveni={V\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{62d2d8af90955cb0ca913e9f8fd5ab6e}
+      \strng{fullhash}{62d2d8af90955cb0ca913e9f8fd5ab6e}
+      \strng{bibnamehash}{62d2d8af90955cb0ca913e9f8fd5ab6e}
+      \strng{authorbibnamehash}{62d2d8af90955cb0ca913e9f8fd5ab6e}
+      \strng{authornamehash}{62d2d8af90955cb0ca913e9f8fd5ab6e}
+      \strng{authorfullhash}{62d2d8af90955cb0ca913e9f8fd5ab6e}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Extraction of Signals from Noise}}
+      \field{year}{1970}
+    \endentry
+    \entry{FFTW3}{article}{}
+      \name{author}{2}{}{%
+        {{hash=26a5a1c098bdade790e2ee41c62dd36b}{%
+           family={Frigo},
+           familyi={F\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f271cef1e5ae0aff0d07deccf21fd368}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Steven\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{534f6e9a353fb1ac07e7f8e33d067b91}
+      \strng{fullhash}{534f6e9a353fb1ac07e7f8e33d067b91}
+      \strng{bibnamehash}{534f6e9a353fb1ac07e7f8e33d067b91}
+      \strng{authorbibnamehash}{534f6e9a353fb1ac07e7f8e33d067b91}
+      \strng{authornamehash}{534f6e9a353fb1ac07e7f8e33d067b91}
+      \strng{authorfullhash}{534f6e9a353fb1ac07e7f8e33d067b91}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{note}{Special issue on ``Program Generation, Optimization, and Platform Adaptation''}
+      \field{number}{2}
+      \field{title}{The Design and Implementation of {FFTW3}}
+      \field{volume}{93}
+      \field{year}{2005}
+      \field{pages}{216\bibrangedash 231}
+      \range{pages}{16}
+    \endentry
+    \entry{banksim}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=25c65d05df5508b5cc0918fd6cd99288}{%
+           family={team},
+           familyi={t\bibinitperiod},
+           given={PyCBC},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{25c65d05df5508b5cc0918fd6cd99288}
+      \strng{fullhash}{25c65d05df5508b5cc0918fd6cd99288}
+      \strng{bibnamehash}{25c65d05df5508b5cc0918fd6cd99288}
+      \strng{authorbibnamehash}{25c65d05df5508b5cc0918fd6cd99288}
+      \strng{authornamehash}{25c65d05df5508b5cc0918fd6cd99288}
+      \strng{authorfullhash}{25c65d05df5508b5cc0918fd6cd99288}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Calculating the Effectualness (Fitting Factor) of Template Banks}
+      \verb{urlraw}
+      \verb https://pycbc.org/pycbc/latest/html/banksim.html
+      \endverb
+      \verb{url}
+      \verb https://pycbc.org/pycbc/latest/html/banksim.html
+      \endverb
+    \endentry
+    \entry{bank_spin}{article}{}
+      \name{author}{8}{}{%
+        {{hash=6e813939002c537eb652c05c81f4026e}{%
+           family={Broeck},
+           familyi={B\bibinitperiod},
+           given={Chris\bibnamedelimb Van\bibnamedelima Den},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ca67d0472bda98be3a5a24754b405880}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Duncan\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=cb3de5c819261f113ecfb3ac6dd2a58a}{%
+           family={Cokelaer},
+           familyi={C\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3e08f69586fe011147223e7a95905cb7}{%
+           family={Harry},
+           familyi={H\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=10b20fbd5b8bf0f94e9bd8b93036dc0b}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Gareth},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4e5450189c3386a750421114d175c24c}{%
+           family={Sathyaprakash},
+           familyi={S\bibinitperiod},
+           given={B.\bibnamedelimi S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ed184289aff8c81dd52d1cdeba4cf582}{%
+           family={Tagoshi},
+           familyi={T\bibinitperiod},
+           given={Hideyuki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7993e6786f02031ed293892a38dc4c4b}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Hirotaka},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{8bddc0e5bd9c9e539ec94d12607a1857}
+      \strng{fullhash}{5e5c8677362accb5a9cd1b9ba9dd5b20}
+      \strng{bibnamehash}{8bddc0e5bd9c9e539ec94d12607a1857}
+      \strng{authorbibnamehash}{8bddc0e5bd9c9e539ec94d12607a1857}
+      \strng{authornamehash}{8bddc0e5bd9c9e539ec94d12607a1857}
+      \strng{authorfullhash}{5e5c8677362accb5a9cd1b9ba9dd5b20}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{07}
+      \field{number}{2}
+      \field{title}{Template banks to search for compact binaries with spinning components in gravitational wave data}
+      \field{volume}{80}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1103/physrevd.80.024009
+      \endverb
+    \endentry
+    \entry{taylorf2}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4ad1fbbffe11227096274c3a4f1bbec0}{%
+           family={Messina},
+           familyi={M\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b80e3745e20ff3249bca13a692d1d7cf}{%
+           family={Dudi},
+           familyi={D\bibinitperiod},
+           given={Reetika},
+           giveni={R\bibinitperiod}}}%
+        {{hash=da9caa3c528f09abc03a52504f094c70}{%
+           family={Nagar},
+           familyi={N\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=000222316f0924d391bba939aa089cf5}{%
+           family={Bernuzzi},
+           familyi={B\bibinitperiod},
+           given={Sebastiano},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{02bf659203ae595f1787680850464683}
+      \strng{fullhash}{a9abe2e3deda1446aa455dedb2f65c2f}
+      \strng{bibnamehash}{02bf659203ae595f1787680850464683}
+      \strng{authorbibnamehash}{02bf659203ae595f1787680850464683}
+      \strng{authornamehash}{02bf659203ae595f1787680850464683}
+      \strng{authorfullhash}{a9abe2e3deda1446aa455dedb2f65c2f}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{06}
+      \field{number}{12}
+      \field{title}{Quasi-5.5PN {TaylorF}2 approximant for compact binaries: Point-mass phasing and impact on the tidal polarizability inference}
+      \field{volume}{99}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1103/physrevd.99.124051
+      \endverb
+    \endentry
+    \entry{spintaylort4}{article}{}
+      \name{author}{7}{}{%
+        {{hash=bfefbbdf354ed3369666646f6cf35542}{%
+           family={Sturani},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8a754fe5b2cfa9dfc6f606c59fb92dd3}{%
+           family={Fischetti},
+           familyi={F\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=525c546ec702827ab60c626b5f4eb97b}{%
+           family={Cadonati},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a4e64681474fececdb31f6970c975e80}{%
+           family={Guidi},
+           familyi={G\bibinitperiod},
+           given={G\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=534eaebb62bbd22b30efbbcea4588a8a}{%
+           family={Healy},
+           familyi={H\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=75386146f2e2bf012a0f8a202898556c}{%
+           family={Shoemaker},
+           familyi={S\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ef2c3df58557f9b3294425852793c490}{%
+           family={Vicer{é\bibnamedelimb }},
+           familyi={V\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{dc1aa849a3dd0b026b7c0dd0fa2911d4}
+      \strng{fullhash}{7f35f1134ab83c227ce3e8cf962d5174}
+      \strng{bibnamehash}{dc1aa849a3dd0b026b7c0dd0fa2911d4}
+      \strng{authorbibnamehash}{dc1aa849a3dd0b026b7c0dd0fa2911d4}
+      \strng{authornamehash}{dc1aa849a3dd0b026b7c0dd0fa2911d4}
+      \strng{authorfullhash}{7f35f1134ab83c227ce3e8cf962d5174}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics: Conference Series}
+      \field{month}{08}
+      \field{title}{Complete phenomenological gravitational waveforms from spinning coalescing binaries}
+      \field{volume}{243}
+      \field{year}{2010}
+      \field{pages}{012007}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1742-6596/243/1/012007
+      \endverb
+    \endentry
+    \entry{seobnrv4_rom}{article}{}
+      \name{author}{20}{}{%
+        {{hash=edd9f149fd6fc14a8eb85431420e1b65}{%
+           family={Boh{é\bibnamedelimb }},
+           familyi={B\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9d9eac7c967bcde5d7725aa82f257b66}{%
+           family={Shao},
+           familyi={S\bibinitperiod},
+           given={Lijing},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b27d3360adf40ac37ceab8b68a2cdf12}{%
+           family={Taracchini},
+           familyi={T\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=788117467260efc59b04e0ef824592b9}{%
+           family={Buonanno},
+           familyi={B\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5037c73f9be45e602567dc3bad35bbcd}{%
+           family={Babak},
+           familyi={B\bibinitperiod},
+           given={Stanislav},
+           giveni={S\bibinitperiod}}}%
+        {{hash=87d6f4f4c62945a31bf1910cd1332b13}{%
+           family={Harry},
+           familyi={H\bibinitperiod},
+           given={Ian\bibnamedelima W.},
+           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=5fd2481cba368cef0cf9599760843cce}{%
+           family={Hinder},
+           familyi={H\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2c0dc44623a4804bcc5d8a82d68fb16f}{%
+           family={Ossokine},
+           familyi={O\bibinitperiod},
+           given={Serguei},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e65e8c7dc8b8960b470bd28c8b11976a}{%
+           family={Pürrer},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7d56caab14faa4cb89c07ad244906479}{%
+           family={Raymond},
+           familyi={R\bibinitperiod},
+           given={Vivien},
+           giveni={V\bibinitperiod}}}%
+        {{hash=67f391b5d0eb2f28dc1808e21963baa1}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3f97f1e2593e61ba46ecfca948b10435}{%
+           family={Fong},
+           familyi={F\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f490e4cd861fa0d61ed058b61a5e7dc4}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Prayush},
+           giveni={P\bibinitperiod}}}%
+        {{hash=88f204386a5349816344fc6cf7976b0f}{%
+           family={Pfeiffer},
+           familyi={P\bibinitperiod},
+           given={Harald\bibnamedelima P.},
+           giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5dbf9326d486a3da484fe0bb3c0a8d09}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=976b62aa742fbbabdcf15ea289b66b8c}{%
+           family={Hemberger},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d492244fde24ed071806d121607c2e7f}{%
+           family={Kidder},
+           familyi={K\bibinitperiod},
+           given={Lawrence\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7cf1b395e8b5efdadc5c613ceb30ca52}{%
+           family={Lovelace},
+           familyi={L\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=09d31636ac33fea9864186c5be777565}{%
+           family={Scheel},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2134084b7d3d712fa38b11bf50c1af16}{%
+           family={Szil{á}gyi},
+           familyi={S\bibinitperiod},
+           given={B{é}la},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{ea403cf1309eabffc4af794dfed6fb4b}
+      \strng{fullhash}{d35901f08a5c360c599ac99e13a3a965}
+      \strng{bibnamehash}{ea403cf1309eabffc4af794dfed6fb4b}
+      \strng{authorbibnamehash}{ea403cf1309eabffc4af794dfed6fb4b}
+      \strng{authornamehash}{ea403cf1309eabffc4af794dfed6fb4b}
+      \strng{authorfullhash}{d35901f08a5c360c599ac99e13a3a965}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{02}
+      \field{number}{4}
+      \field{title}{Improved effective-one-body model of spinning, nonprecessing binary black holes for the era of gravitational-wave astrophysics with advanced detectors}
+      \field{volume}{95}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1103/physrevd.95.044028
+      \endverb
+    \endentry
+    \entry{Babak_2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9e2456fae27d59cf09ed7170842291ff}{%
+           family={Babak},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=eb5d3a96859c1ddbbdcc7d06d99d0b83}{%
+           family={Balasubramanian},
+           familyi={B\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=89832601bb4e39ca06315345e15584ab}{%
+           family={Churches},
+           familyi={C\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a7e35abf1ad4863147c651fb9382edc0}{%
+           family={Cokelaer},
+           familyi={C\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4e5450189c3386a750421114d175c24c}{%
+           family={Sathyaprakash},
+           familyi={S\bibinitperiod},
+           given={B\bibnamedelima S},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{6effdda07826121669bdd35b6e237a8c}
+      \strng{fullhash}{78ae85d30bce292b4c18da48f79b35c0}
+      \strng{bibnamehash}{6effdda07826121669bdd35b6e237a8c}
+      \strng{authorbibnamehash}{6effdda07826121669bdd35b6e237a8c}
+      \strng{authornamehash}{6effdda07826121669bdd35b6e237a8c}
+      \strng{authorfullhash}{78ae85d30bce292b4c18da48f79b35c0}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{08}
+      \field{number}{18}
+      \field{title}{A template bank to search for gravitational waves from inspiralling compact binaries: I. Physical models}
+      \field{volume}{23}
+      \field{year}{2006}
+      \field{pages}{5477\bibrangedash 5504}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1088/0264-9381/23/18/002
+      \endverb
+    \endentry
+    \entry{geometric_bank}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a7e35abf1ad4863147c651fb9382edc0}{%
+           family={Cokelaer},
+           familyi={C\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{a7e35abf1ad4863147c651fb9382edc0}
+      \strng{fullhash}{a7e35abf1ad4863147c651fb9382edc0}
+      \strng{bibnamehash}{a7e35abf1ad4863147c651fb9382edc0}
+      \strng{authorbibnamehash}{a7e35abf1ad4863147c651fb9382edc0}
+      \strng{authornamehash}{a7e35abf1ad4863147c651fb9382edc0}
+      \strng{authorfullhash}{a7e35abf1ad4863147c651fb9382edc0}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{11}
+      \field{number}{10}
+      \field{title}{Gravitational waves from inspiralling compact binaries: Hexagonal template placement and its efficiency in detecting physical signals}
+      \field{volume}{76}
+      \field{year}{2007}
+      \verb{doi}
+      \verb 10.1103/physrevd.76.102004
+      \endverb
+    \endentry
+    \entry{stochastic_bank}{article}{}
+      \name{author}{3}{}{%
+        {{hash=124bc76f015be98ffcd0218012824a50}{%
+           family={Harry},
+           familyi={H\bibinitperiod},
+           given={I.\bibnamedelimi W.},
+           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=cc3e97b1e20aa2f3e5650e242da58bb3}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4e5450189c3386a750421114d175c24c}{%
+           family={Sathyaprakash},
+           familyi={S\bibinitperiod},
+           given={B.\bibnamedelimi S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{d780322f81a9579656c5a066e8b05d74}
+      \strng{fullhash}{d780322f81a9579656c5a066e8b05d74}
+      \strng{bibnamehash}{d780322f81a9579656c5a066e8b05d74}
+      \strng{authorbibnamehash}{d780322f81a9579656c5a066e8b05d74}
+      \strng{authornamehash}{d780322f81a9579656c5a066e8b05d74}
+      \strng{authorfullhash}{d780322f81a9579656c5a066e8b05d74}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{11}
+      \field{number}{10}
+      \field{title}{Stochastic template placement algorithm for gravitational wave data analysis}
+      \field{volume}{80}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1103/physrevd.80.104014
+      \endverb
+    \endentry
+    \entry{hybrid1}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4d4b977f70bbbd652d35327ddf384839}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Soumen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2526e21603bb6f79de2620829a4c72ad}{%
+           family={Sengupta},
+           familyi={S\bibinitperiod},
+           given={Anand\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0a8bbfac5315d94a5447b31dbbd3f532}{%
+           family={Thakor},
+           familyi={T\bibinitperiod},
+           given={Nilay},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{367f1d384897dd4c3b83157eb16f9344}
+      \strng{fullhash}{367f1d384897dd4c3b83157eb16f9344}
+      \strng{bibnamehash}{367f1d384897dd4c3b83157eb16f9344}
+      \strng{authorbibnamehash}{367f1d384897dd4c3b83157eb16f9344}
+      \strng{authornamehash}{367f1d384897dd4c3b83157eb16f9344}
+      \strng{authorfullhash}{367f1d384897dd4c3b83157eb16f9344}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{05}
+      \field{number}{10}
+      \field{title}{Hybrid geometric-random template-placement algorithm for gravitational wave searches from compact binary coalescences}
+      \field{volume}{95}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1103/physrevd.95.104045
+      \endverb
+    \endentry
+    \entry{hybrid2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4d4b977f70bbbd652d35327ddf384839}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Soumen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2526e21603bb6f79de2620829a4c72ad}{%
+           family={Sengupta},
+           familyi={S\bibinitperiod},
+           given={Anand\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1cbc6d08911a4516a4063611ed96d9ce}{%
+           family={Ajith},
+           familyi={A\bibinitperiod},
+           given={Parameswaran},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{d301d87de94fc6e968e329bb83536165}
+      \strng{fullhash}{d301d87de94fc6e968e329bb83536165}
+      \strng{bibnamehash}{d301d87de94fc6e968e329bb83536165}
+      \strng{authorbibnamehash}{d301d87de94fc6e968e329bb83536165}
+      \strng{authornamehash}{d301d87de94fc6e968e329bb83536165}
+      \strng{authorfullhash}{d301d87de94fc6e968e329bb83536165}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{01}
+      \field{number}{2}
+      \field{title}{Effectual template banks for upcoming compact binary searches in Advanced-{LIGO} and Virgo data}
+      \field{volume}{99}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1103/physrevd.99.024048
+      \endverb
+    \endentry
+    \entry{pastro}{article}{}
+      \name{author}{12}{}{%
+        {{hash=bae41cb366b5814cba31987d20b18928}{%
+           family={Andres},
+           familyi={A\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0842f648fe6bc4c8c7e8b0705ad902bc}{%
+           family={Assiduo},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2c318df7eeb80a8430bbfcf4436da76f}{%
+           family={Aubin},
+           familyi={A\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1b37595e09d8a28c7db57875143382de}{%
+           family={Chierici},
+           familyi={C\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=01e028e922e1495bc8ec8ac2c2d9fda6}{%
+           family={Estevez},
+           familyi={E\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e5ebec6f52f53490c800b800838d503f}{%
+           family={Faedi},
+           familyi={F\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a4e64681474fececdb31f6970c975e80}{%
+           family={Guidi},
+           familyi={G\bibinitperiod},
+           given={G\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2ec8aa16ea735d255d7e4891f7736785}{%
+           family={Juste},
+           familyi={J\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8366586328a72569afbc13e06c3d78db}{%
+           family={Marion},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=23f847dcb8396da267a8bcdb05f7e51e}{%
+           family={Mours},
+           familyi={M\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=136a0e730cd055823656041d3a23c8ee}{%
+           family={Nitoglia},
+           familyi={N\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7402460bbc4ed4d9880ba33b93c40e1b}{%
+           family={Sordini},
+           familyi={S\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{9ab30fdef34d4568f0d4add3c46f3ce7}
+      \strng{fullhash}{113ccc7f7fc1fd085b87c4913dd36cce}
+      \strng{bibnamehash}{9ab30fdef34d4568f0d4add3c46f3ce7}
+      \strng{authorbibnamehash}{9ab30fdef34d4568f0d4add3c46f3ce7}
+      \strng{authornamehash}{9ab30fdef34d4568f0d4add3c46f3ce7}
+      \strng{authorfullhash}{113ccc7f7fc1fd085b87c4913dd36cce}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Classical and Quantum Gravity}
+      \field{month}{02}
+      \field{number}{5}
+      \field{title}{Assessing the compact-binary merger candidates reported by the {MBTA} pipeline in the {LIGO}–Virgo O3 run: probability of astrophysical origin, classification, and associated uncertainties}
+      \field{volume}{39}
+      \field{year}{2022}
+      \field{pages}{055002}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-6382/ac482a
+      \endverb
+    \endentry
+    \entry{remnant}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f7ec4c702e782d53718f8a4e97ebbf6c}{%
+           family={Foucart},
+           familyi={F\bibinitperiod},
+           given={Francois},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3a2c1ce6f6a82a9beae65e9d9fcb360b}{%
+           family={Hinderer},
+           familyi={H\bibinitperiod},
+           given={Tanja},
+           giveni={T\bibinitperiod}}}%
+        {{hash=590034b0e2bc2604821247ea0cf0a600}{%
+           family={Nissanke},
+           familyi={N\bibinitperiod},
+           given={Samaya},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{1829c20cd67df921d4094ab02a382276}
+      \strng{fullhash}{1829c20cd67df921d4094ab02a382276}
+      \strng{bibnamehash}{1829c20cd67df921d4094ab02a382276}
+      \strng{authorbibnamehash}{1829c20cd67df921d4094ab02a382276}
+      \strng{authornamehash}{1829c20cd67df921d4094ab02a382276}
+      \strng{authorfullhash}{1829c20cd67df921d4094ab02a382276}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{10}
+      \field{number}{8}
+      \field{title}{Remnant baryon mass in neutron star-black hole mergers: Predictions for binary neutron star mimickers and rapidly spinning black holes}
+      \field{volume}{98}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1103/physrevd.98.081501
+      \endverb
+    \endentry
+    \entry{binding_energy}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4421e7a713080ae32b7e162c2bcd4e50}{%
+           family={Breu},
+           familyi={B\bibinitperiod},
+           given={Cosima},
+           giveni={C\bibinitperiod}}}%
+        {{hash=72c35344cecfdbbeebc71d2ca292436a}{%
+           family={Rezzolla},
+           familyi={R\bibinitperiod},
+           given={Luciano},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0387a82ee102d1672d4d42733b1aa91}
+      \strng{fullhash}{d0387a82ee102d1672d4d42733b1aa91}
+      \strng{bibnamehash}{d0387a82ee102d1672d4d42733b1aa91}
+      \strng{authorbibnamehash}{d0387a82ee102d1672d4d42733b1aa91}
+      \strng{authornamehash}{d0387a82ee102d1672d4d42733b1aa91}
+      \strng{authorfullhash}{d0387a82ee102d1672d4d42733b1aa91}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0035-8711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{{Maximum mass, moment of inertia and compactness of relativistic stars}}
+      \field{volume}{459}
+      \field{year}{2016}
+      \field{pages}{646\bibrangedash 656}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1093/mnras/stw575
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/mnras/article-pdf/459/1/646/8113938/stw575.pdf
+      \endverb
+    \endentry
+    \entry{Legred_2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f57cae9418623adcc5370603183f1429}{%
+           family={Legred},
+           familyi={L\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+        {{hash=30aa9abe11b1dba9e60d99793ff82517}{%
+           family={Chatziioannou},
+           familyi={C\bibinitperiod},
+           given={Katerina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d6ce3f61ec5b143a847daae9d5b9a052}{%
+           family={Essick},
+           familyi={E\bibinitperiod},
+           given={Reed},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c7abecf493436620bd971569e8eb9b65}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Sophia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5eb4957c8ff7f466e8a971129695d98f}{%
+           family={Landry},
+           familyi={L\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{8fa90f61fa6eafb8e726a0f1deeb2d48}
+      \strng{fullhash}{99e0a5cd0a8d8276b5c9c06cf0f7d3f6}
+      \strng{bibnamehash}{8fa90f61fa6eafb8e726a0f1deeb2d48}
+      \strng{authorbibnamehash}{8fa90f61fa6eafb8e726a0f1deeb2d48}
+      \strng{authornamehash}{8fa90f61fa6eafb8e726a0f1deeb2d48}
+      \strng{authorfullhash}{99e0a5cd0a8d8276b5c9c06cf0f7d3f6}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{09}
+      \field{number}{6}
+      \field{title}{Impact of the PSR J0740+6620 radius constraint on the properties of high-density matter}
+      \field{volume}{104}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1103/physrevd.104.063003
+      \endverb
+    \endentry
+    \entry{bright_remnant}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ef986b8d65e82e7705abe2ba4aad5048}{%
+           family={Ascenzi},
+           familyi={A\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ca0fa046fc9c1785ec1f388f9c91392d}{%
+           family={Oganesyan},
+           familyi={O\bibinitperiod},
+           given={Gor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=371b86c59278667c28a0af7d8401774a}{%
+           family={Branchesi},
+           familyi={B\bibinitperiod},
+           given={Marica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=634631ec4f8fab66e5149e5e3897f252}{%
+           family={Ciolfi},
+           familyi={C\bibinitperiod},
+           given={Riccardo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press ({CUP})}%
+      }
+      \strng{namehash}{c8c3ac17b048e3474a140b574205585d}
+      \strng{fullhash}{0334aea3d1f5d991852d080ada8ebe6a}
+      \strng{bibnamehash}{c8c3ac17b048e3474a140b574205585d}
+      \strng{authorbibnamehash}{c8c3ac17b048e3474a140b574205585d}
+      \strng{authornamehash}{c8c3ac17b048e3474a140b574205585d}
+      \strng{authorfullhash}{0334aea3d1f5d991852d080ada8ebe6a}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Plasma Physics}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{Electromagnetic counterparts of compact binary mergers}
+      \field{volume}{87}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1017/s0022377820001646
+      \endverb
+    \endentry
+    \entry{gwtc2.1}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=450a0f499f7824c81b66c0a5651fd889}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb LIGO\bibnamedelima Scientific},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=166a227eef6d5c46b27a4056a29e8bc1}{%
+           family={Virgo\bibnamedelima Collaboration},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{fullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{bibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorbibnamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authornamehash}{95e45555d122339381f6e1fe4aa7431c}
+      \strng{authorfullhash}{95e45555d122339381f6e1fe4aa7431c}
+      \field{extraname}{6}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{gr-qc}
+      \field{eprinttype}{arXiv}
+      \field{title}{GWTC-2.1: Deep Extended Catalog of Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 2108.01045
+      \endverb
+    \endentry
+    \entry{technote_rwsnr}{report}{}
+      \name{author}{1}{}{%
+        {{hash=f440f4d4d811901643acb58c54bc3e68}{%
+           family={Juste},
+           familyi={J\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{f440f4d4d811901643acb58c54bc3e68}
+      \strng{fullhash}{f440f4d4d811901643acb58c54bc3e68}
+      \strng{bibnamehash}{f440f4d4d811901643acb58c54bc3e68}
+      \strng{authorbibnamehash}{f440f4d4d811901643acb58c54bc3e68}
+      \strng{authornamehash}{f440f4d4d811901643acb58c54bc3e68}
+      \strng{authorfullhash}{f440f4d4d811901643acb58c54bc3e68}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{08}
+      \field{number}{VIR-0833A-22}
+      \field{title}{Improving the MBTA rwSNR for high SNR triggers}
+      \field{type}{techreport}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://tds.virgo-gw.eu/ql/?c=18479
+      \endverb
+      \verb{url}
+      \verb https://tds.virgo-gw.eu/ql/?c=18479
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
